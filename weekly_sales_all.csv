@@ -1,0 +1,3721 @@
+week_start,sku,product,units_sold,days_out_of_stock
+2024-01-01,SKU01,Banana Chips Classic,2767,0
+2024-01-08,SKU01,Banana Chips Classic,1700,0
+2024-01-15,SKU01,Banana Chips Classic,2845,0
+2024-01-22,SKU01,Banana Chips Classic,2619,0
+2024-01-29,SKU01,Banana Chips Classic,3093,0
+2024-02-05,SKU01,Banana Chips Classic,3597,0
+2024-02-12,SKU01,Banana Chips Classic,2796,0
+2024-02-19,SKU01,Banana Chips Classic,1806,0
+2024-02-26,SKU01,Banana Chips Classic,2205,0
+2024-03-04,SKU01,Banana Chips Classic,2396,0
+2024-03-11,SKU01,Banana Chips Classic,2611,0
+2024-03-18,SKU01,Banana Chips Classic,1734,0
+2024-03-25,SKU01,Banana Chips Classic,4155,0
+2024-04-01,SKU01,Banana Chips Classic,3226,0
+2024-04-08,SKU01,Banana Chips Classic,5429,0
+2024-04-15,SKU01,Banana Chips Classic,3231,0
+2024-04-22,SKU01,Banana Chips Classic,2028,0
+2024-04-29,SKU01,Banana Chips Classic,2230,0
+2024-05-06,SKU01,Banana Chips Classic,2697,0
+2024-05-13,SKU01,Banana Chips Classic,2259,0
+2024-05-20,SKU01,Banana Chips Classic,2950,0
+2024-05-27,SKU01,Banana Chips Classic,5068,0
+2024-06-03,SKU01,Banana Chips Classic,2592,0
+2024-06-10,SKU01,Banana Chips Classic,3239,0
+2024-06-17,SKU01,Banana Chips Classic,2460,0
+2024-06-24,SKU01,Banana Chips Classic,2825,0
+2024-07-01,SKU01,Banana Chips Classic,2335,0
+2024-07-08,SKU01,Banana Chips Classic,2721,0
+2024-07-15,SKU01,Banana Chips Classic,2441,0
+2024-07-22,SKU01,Banana Chips Classic,3248,0
+2024-07-29,SKU01,Banana Chips Classic,2344,0
+2024-08-05,SKU01,Banana Chips Classic,2701,0
+2024-08-12,SKU01,Banana Chips Classic,2388,0
+2024-08-19,SKU01,Banana Chips Classic,3322,0
+2024-08-26,SKU01,Banana Chips Classic,2938,0
+2024-09-02,SKU01,Banana Chips Classic,5278,0
+2024-09-09,SKU01,Banana Chips Classic,2792,0
+2024-09-16,SKU01,Banana Chips Classic,3273,0
+2024-09-23,SKU01,Banana Chips Classic,2618,0
+2024-09-30,SKU01,Banana Chips Classic,2019,0
+2024-10-07,SKU01,Banana Chips Classic,2629,0
+2024-10-14,SKU01,Banana Chips Classic,2531,0
+2024-10-21,SKU01,Banana Chips Classic,3504,0
+2024-10-28,SKU01,Banana Chips Classic,2210,0
+2024-11-04,SKU01,Banana Chips Classic,2445,0
+2024-11-11,SKU01,Banana Chips Classic,4097,0
+2024-11-18,SKU01,Banana Chips Classic,2966,0
+2024-11-25,SKU01,Banana Chips Classic,2364,0
+2024-12-02,SKU01,Banana Chips Classic,2616,0
+2024-12-09,SKU01,Banana Chips Classic,2984,0
+2024-12-16,SKU01,Banana Chips Classic,2072,0
+2024-12-23,SKU01,Banana Chips Classic,4036,0
+2024-12-30,SKU01,Banana Chips Classic,2444,0
+2025-01-06,SKU01,Banana Chips Classic,3009,0
+2025-01-13,SKU01,Banana Chips Classic,2592,0
+2025-01-20,SKU01,Banana Chips Classic,2117,0
+2025-01-27,SKU01,Banana Chips Classic,3433,0
+2025-02-03,SKU01,Banana Chips Classic,3214,0
+2025-02-10,SKU01,Banana Chips Classic,1802,0
+2025-02-17,SKU01,Banana Chips Classic,2193,0
+2025-02-24,SKU01,Banana Chips Classic,2569,0
+2025-03-03,SKU01,Banana Chips Classic,2659,0
+2025-03-10,SKU01,Banana Chips Classic,3168,0
+2025-03-17,SKU01,Banana Chips Classic,3975,0
+2025-03-24,SKU01,Banana Chips Classic,2984,0
+2025-03-31,SKU01,Banana Chips Classic,2864,0
+2025-04-07,SKU01,Banana Chips Classic,3142,0
+2025-04-14,SKU01,Banana Chips Classic,2018,0
+2025-04-21,SKU01,Banana Chips Classic,2751,0
+2025-04-28,SKU01,Banana Chips Classic,2944,0
+2025-05-05,SKU01,Banana Chips Classic,3762,0
+2025-05-12,SKU01,Banana Chips Classic,2077,0
+2025-05-19,SKU01,Banana Chips Classic,2788,0
+2025-05-26,SKU01,Banana Chips Classic,3256,0
+2025-06-02,SKU01,Banana Chips Classic,1908,0
+2025-06-09,SKU01,Banana Chips Classic,3307,0
+2025-06-16,SKU01,Banana Chips Classic,3847,0
+2025-06-23,SKU01,Banana Chips Classic,3559,0
+2025-06-30,SKU01,Banana Chips Classic,2374,0
+2025-07-07,SKU01,Banana Chips Classic,2272,0
+2025-07-14,SKU01,Banana Chips Classic,2760,0
+2025-07-21,SKU01,Banana Chips Classic,2544,0
+2025-07-28,SKU01,Banana Chips Classic,2427,0
+2025-08-04,SKU01,Banana Chips Classic,3389,0
+2025-08-11,SKU01,Banana Chips Classic,3356,0
+2025-08-18,SKU01,Banana Chips Classic,3462,0
+2025-08-25,SKU01,Banana Chips Classic,5375,0
+2025-09-01,SKU01,Banana Chips Classic,4779,3
+2025-09-08,SKU01,Banana Chips Classic,3764,2
+2025-09-15,SKU01,Banana Chips Classic,2828,0
+2025-09-22,SKU01,Banana Chips Classic,3145,0
+2025-09-29,SKU01,Banana Chips Classic,2460,0
+2025-10-06,SKU01,Banana Chips Classic,1759,0
+2024-01-01,SKU02,Banana Chips Pepper,978,0
+2024-01-08,SKU02,Banana Chips Pepper,1683,0
+2024-01-15,SKU02,Banana Chips Pepper,2061,0
+2024-01-22,SKU02,Banana Chips Pepper,1952,0
+2024-01-29,SKU02,Banana Chips Pepper,1214,0
+2024-02-05,SKU02,Banana Chips Pepper,1646,0
+2024-02-12,SKU02,Banana Chips Pepper,1712,0
+2024-02-19,SKU02,Banana Chips Pepper,910,0
+2024-02-26,SKU02,Banana Chips Pepper,1240,0
+2024-03-04,SKU02,Banana Chips Pepper,1717,0
+2024-03-11,SKU02,Banana Chips Pepper,2018,0
+2024-03-18,SKU02,Banana Chips Pepper,1254,0
+2024-03-25,SKU02,Banana Chips Pepper,1988,0
+2024-04-01,SKU02,Banana Chips Pepper,1947,0
+2024-04-08,SKU02,Banana Chips Pepper,1974,0
+2024-04-15,SKU02,Banana Chips Pepper,1458,0
+2024-04-22,SKU02,Banana Chips Pepper,1209,0
+2024-04-29,SKU02,Banana Chips Pepper,1431,0
+2024-05-06,SKU02,Banana Chips Pepper,1538,0
+2024-05-13,SKU02,Banana Chips Pepper,1774,0
+2024-05-20,SKU02,Banana Chips Pepper,1667,0
+2024-05-27,SKU02,Banana Chips Pepper,1101,0
+2024-06-03,SKU02,Banana Chips Pepper,1386,0
+2024-06-10,SKU02,Banana Chips Pepper,1869,0
+2024-06-17,SKU02,Banana Chips Pepper,1330,0
+2024-06-24,SKU02,Banana Chips Pepper,2002,0
+2024-07-01,SKU02,Banana Chips Pepper,1146,0
+2024-07-08,SKU02,Banana Chips Pepper,1581,0
+2024-07-15,SKU02,Banana Chips Pepper,1532,0
+2024-07-22,SKU02,Banana Chips Pepper,1395,0
+2024-07-29,SKU02,Banana Chips Pepper,1702,0
+2024-08-05,SKU02,Banana Chips Pepper,1898,0
+2024-08-12,SKU02,Banana Chips Pepper,1376,0
+2024-08-19,SKU02,Banana Chips Pepper,2098,0
+2024-08-26,SKU02,Banana Chips Pepper,1682,0
+2024-09-02,SKU02,Banana Chips Pepper,2380,0
+2024-09-09,SKU02,Banana Chips Pepper,2402,0
+2024-09-16,SKU02,Banana Chips Pepper,1726,0
+2024-09-23,SKU02,Banana Chips Pepper,1666,0
+2024-09-30,SKU02,Banana Chips Pepper,1221,0
+2024-10-07,SKU02,Banana Chips Pepper,1449,0
+2024-10-14,SKU02,Banana Chips Pepper,1032,0
+2024-10-21,SKU02,Banana Chips Pepper,1879,0
+2024-10-28,SKU02,Banana Chips Pepper,2004,0
+2024-11-04,SKU02,Banana Chips Pepper,1498,0
+2024-11-11,SKU02,Banana Chips Pepper,1374,0
+2024-11-18,SKU02,Banana Chips Pepper,839,0
+2024-11-25,SKU02,Banana Chips Pepper,2039,0
+2024-12-02,SKU02,Banana Chips Pepper,1259,0
+2024-12-09,SKU02,Banana Chips Pepper,1215,0
+2024-12-16,SKU02,Banana Chips Pepper,1578,0
+2024-12-23,SKU02,Banana Chips Pepper,1835,0
+2024-12-30,SKU02,Banana Chips Pepper,1810,0
+2025-01-06,SKU02,Banana Chips Pepper,998,0
+2025-01-13,SKU02,Banana Chips Pepper,1319,0
+2025-01-20,SKU02,Banana Chips Pepper,1678,0
+2025-01-27,SKU02,Banana Chips Pepper,1939,0
+2025-02-03,SKU02,Banana Chips Pepper,1331,0
+2025-02-10,SKU02,Banana Chips Pepper,2037,0
+2025-02-17,SKU02,Banana Chips Pepper,1383,0
+2025-02-24,SKU02,Banana Chips Pepper,1874,0
+2025-03-03,SKU02,Banana Chips Pepper,1066,0
+2025-03-10,SKU02,Banana Chips Pepper,1916,0
+2025-03-17,SKU02,Banana Chips Pepper,1708,0
+2025-03-24,SKU02,Banana Chips Pepper,1345,0
+2025-03-31,SKU02,Banana Chips Pepper,1184,0
+2025-04-07,SKU02,Banana Chips Pepper,2214,0
+2025-04-14,SKU02,Banana Chips Pepper,1856,0
+2025-04-21,SKU02,Banana Chips Pepper,1384,0
+2025-04-28,SKU02,Banana Chips Pepper,1215,0
+2025-05-05,SKU02,Banana Chips Pepper,1548,0
+2025-05-12,SKU02,Banana Chips Pepper,1754,0
+2025-05-19,SKU02,Banana Chips Pepper,1234,0
+2025-05-26,SKU02,Banana Chips Pepper,1728,0
+2025-06-02,SKU02,Banana Chips Pepper,1523,0
+2025-06-09,SKU02,Banana Chips Pepper,1241,0
+2025-06-16,SKU02,Banana Chips Pepper,1316,0
+2025-06-23,SKU02,Banana Chips Pepper,1580,0
+2025-06-30,SKU02,Banana Chips Pepper,1396,0
+2025-07-07,SKU02,Banana Chips Pepper,1324,0
+2025-07-14,SKU02,Banana Chips Pepper,1354,0
+2025-07-21,SKU02,Banana Chips Pepper,1496,0
+2025-07-28,SKU02,Banana Chips Pepper,2227,0
+2025-08-04,SKU02,Banana Chips Pepper,1436,0
+2025-08-11,SKU02,Banana Chips Pepper,1763,0
+2025-08-18,SKU02,Banana Chips Pepper,1478,0
+2025-08-25,SKU02,Banana Chips Pepper,1520,0
+2025-09-01,SKU02,Banana Chips Pepper,2499,0
+2025-09-08,SKU02,Banana Chips Pepper,1486,0
+2025-09-15,SKU02,Banana Chips Pepper,1697,0
+2025-09-22,SKU02,Banana Chips Pepper,1693,0
+2025-09-29,SKU02,Banana Chips Pepper,917,0
+2025-10-06,SKU02,Banana Chips Pepper,1461,0
+2024-01-01,SKU03,Jackfruit Chips,1124,0
+2024-01-08,SKU03,Jackfruit Chips,719,0
+2024-01-15,SKU03,Jackfruit Chips,826,0
+2024-01-22,SKU03,Jackfruit Chips,761,0
+2024-01-29,SKU03,Jackfruit Chips,884,0
+2024-02-05,SKU03,Jackfruit Chips,829,0
+2024-02-12,SKU03,Jackfruit Chips,1017,0
+2024-02-19,SKU03,Jackfruit Chips,957,0
+2024-02-26,SKU03,Jackfruit Chips,514,0
+2024-03-04,SKU03,Jackfruit Chips,1310,0
+2024-03-11,SKU03,Jackfruit Chips,769,0
+2024-03-18,SKU03,Jackfruit Chips,812,0
+2024-03-25,SKU03,Jackfruit Chips,937,0
+2024-04-01,SKU03,Jackfruit Chips,1393,0
+2024-04-08,SKU03,Jackfruit Chips,1772,0
+2024-04-15,SKU03,Jackfruit Chips,1025,0
+2024-04-22,SKU03,Jackfruit Chips,675,0
+2024-04-29,SKU03,Jackfruit Chips,612,0
+2024-05-06,SKU03,Jackfruit Chips,931,0
+2024-05-13,SKU03,Jackfruit Chips,1154,0
+2024-05-20,SKU03,Jackfruit Chips,994,0
+2024-05-27,SKU03,Jackfruit Chips,822,0
+2024-06-03,SKU03,Jackfruit Chips,987,0
+2024-06-10,SKU03,Jackfruit Chips,651,0
+2024-06-17,SKU03,Jackfruit Chips,1036,0
+2024-06-24,SKU03,Jackfruit Chips,1062,0
+2024-07-01,SKU03,Jackfruit Chips,927,0
+2024-07-08,SKU03,Jackfruit Chips,937,0
+2024-07-15,SKU03,Jackfruit Chips,994,0
+2024-07-22,SKU03,Jackfruit Chips,861,0
+2024-07-29,SKU03,Jackfruit Chips,951,0
+2024-08-05,SKU03,Jackfruit Chips,622,0
+2024-08-12,SKU03,Jackfruit Chips,747,0
+2024-08-19,SKU03,Jackfruit Chips,578,0
+2024-08-26,SKU03,Jackfruit Chips,894,0
+2024-09-02,SKU03,Jackfruit Chips,1030,0
+2024-09-09,SKU03,Jackfruit Chips,1127,0
+2024-09-16,SKU03,Jackfruit Chips,1056,0
+2024-09-23,SKU03,Jackfruit Chips,720,0
+2024-09-30,SKU03,Jackfruit Chips,657,0
+2024-10-07,SKU03,Jackfruit Chips,1156,0
+2024-10-14,SKU03,Jackfruit Chips,545,0
+2024-10-21,SKU03,Jackfruit Chips,809,0
+2024-10-28,SKU03,Jackfruit Chips,1062,0
+2024-11-04,SKU03,Jackfruit Chips,816,0
+2024-11-11,SKU03,Jackfruit Chips,775,0
+2024-11-18,SKU03,Jackfruit Chips,718,0
+2024-11-25,SKU03,Jackfruit Chips,765,0
+2024-12-02,SKU03,Jackfruit Chips,765,0
+2024-12-09,SKU03,Jackfruit Chips,988,0
+2024-12-16,SKU03,Jackfruit Chips,588,0
+2024-12-23,SKU03,Jackfruit Chips,1643,0
+2024-12-30,SKU03,Jackfruit Chips,977,0
+2025-01-06,SKU03,Jackfruit Chips,1034,0
+2025-01-13,SKU03,Jackfruit Chips,804,0
+2025-01-20,SKU03,Jackfruit Chips,1517,0
+2025-01-27,SKU03,Jackfruit Chips,1105,0
+2025-02-03,SKU03,Jackfruit Chips,872,0
+2025-02-10,SKU03,Jackfruit Chips,966,0
+2025-02-17,SKU03,Jackfruit Chips,604,0
+2025-02-24,SKU03,Jackfruit Chips,902,0
+2025-03-03,SKU03,Jackfruit Chips,860,0
+2025-03-10,SKU03,Jackfruit Chips,1047,0
+2025-03-17,SKU03,Jackfruit Chips,877,0
+2025-03-24,SKU03,Jackfruit Chips,932,0
+2025-03-31,SKU03,Jackfruit Chips,1009,0
+2025-04-07,SKU03,Jackfruit Chips,1763,0
+2025-04-14,SKU03,Jackfruit Chips,1078,0
+2025-04-21,SKU03,Jackfruit Chips,938,0
+2025-04-28,SKU03,Jackfruit Chips,743,0
+2025-05-05,SKU03,Jackfruit Chips,719,0
+2025-05-12,SKU03,Jackfruit Chips,945,0
+2025-05-19,SKU03,Jackfruit Chips,852,0
+2025-05-26,SKU03,Jackfruit Chips,839,0
+2025-06-02,SKU03,Jackfruit Chips,802,0
+2025-06-09,SKU03,Jackfruit Chips,805,0
+2025-06-16,SKU03,Jackfruit Chips,1028,0
+2025-06-23,SKU03,Jackfruit Chips,1210,0
+2025-06-30,SKU03,Jackfruit Chips,774,0
+2025-07-07,SKU03,Jackfruit Chips,830,0
+2025-07-14,SKU03,Jackfruit Chips,933,0
+2025-07-21,SKU03,Jackfruit Chips,880,0
+2025-07-28,SKU03,Jackfruit Chips,987,0
+2025-08-04,SKU03,Jackfruit Chips,995,0
+2025-08-11,SKU03,Jackfruit Chips,875,0
+2025-08-18,SKU03,Jackfruit Chips,998,0
+2025-08-25,SKU03,Jackfruit Chips,842,0
+2025-09-01,SKU03,Jackfruit Chips,1204,0
+2025-09-08,SKU03,Jackfruit Chips,911,0
+2025-09-15,SKU03,Jackfruit Chips,682,0
+2025-09-22,SKU03,Jackfruit Chips,890,0
+2025-09-29,SKU03,Jackfruit Chips,712,0
+2025-10-06,SKU03,Jackfruit Chips,640,0
+2024-01-01,SKU04,Tapioca Chips,1175,0
+2024-01-08,SKU04,Tapioca Chips,945,0
+2024-01-15,SKU04,Tapioca Chips,1154,0
+2024-01-22,SKU04,Tapioca Chips,739,0
+2024-01-29,SKU04,Tapioca Chips,1477,0
+2024-02-05,SKU04,Tapioca Chips,1216,0
+2024-02-12,SKU04,Tapioca Chips,1151,0
+2024-02-19,SKU04,Tapioca Chips,1462,0
+2024-02-26,SKU04,Tapioca Chips,871,0
+2024-03-04,SKU04,Tapioca Chips,801,0
+2024-03-11,SKU04,Tapioca Chips,918,0
+2024-03-18,SKU04,Tapioca Chips,1475,0
+2024-03-25,SKU04,Tapioca Chips,1168,0
+2024-04-01,SKU04,Tapioca Chips,883,0
+2024-04-08,SKU04,Tapioca Chips,1429,0
+2024-04-15,SKU04,Tapioca Chips,830,0
+2024-04-22,SKU04,Tapioca Chips,1089,0
+2024-04-29,SKU04,Tapioca Chips,700,0
+2024-05-06,SKU04,Tapioca Chips,895,0
+2024-05-13,SKU04,Tapioca Chips,1416,0
+2024-05-20,SKU04,Tapioca Chips,621,0
+2024-05-27,SKU04,Tapioca Chips,1435,0
+2024-06-03,SKU04,Tapioca Chips,1449,0
+2024-06-10,SKU04,Tapioca Chips,1009,0
+2024-06-17,SKU04,Tapioca Chips,815,0
+2024-06-24,SKU04,Tapioca Chips,955,0
+2024-07-01,SKU04,Tapioca Chips,771,0
+2024-07-08,SKU04,Tapioca Chips,979,0
+2024-07-15,SKU04,Tapioca Chips,636,0
+2024-07-22,SKU04,Tapioca Chips,789,0
+2024-07-29,SKU04,Tapioca Chips,1183,0
+2024-08-05,SKU04,Tapioca Chips,1283,0
+2024-08-12,SKU04,Tapioca Chips,1600,0
+2024-08-19,SKU04,Tapioca Chips,1082,0
+2024-08-26,SKU04,Tapioca Chips,1178,0
+2024-09-02,SKU04,Tapioca Chips,1013,0
+2024-09-09,SKU04,Tapioca Chips,1681,0
+2024-09-16,SKU04,Tapioca Chips,1175,0
+2024-09-23,SKU04,Tapioca Chips,1126,0
+2024-09-30,SKU04,Tapioca Chips,1116,0
+2024-10-07,SKU04,Tapioca Chips,1003,0
+2024-10-14,SKU04,Tapioca Chips,990,0
+2024-10-21,SKU04,Tapioca Chips,1154,0
+2024-10-28,SKU04,Tapioca Chips,1480,0
+2024-11-04,SKU04,Tapioca Chips,801,0
+2024-11-11,SKU04,Tapioca Chips,1273,0
+2024-11-18,SKU04,Tapioca Chips,1402,0
+2024-11-25,SKU04,Tapioca Chips,1493,0
+2024-12-02,SKU04,Tapioca Chips,1002,0
+2024-12-09,SKU04,Tapioca Chips,1158,0
+2024-12-16,SKU04,Tapioca Chips,1003,0
+2024-12-23,SKU04,Tapioca Chips,741,0
+2024-12-30,SKU04,Tapioca Chips,994,0
+2025-01-06,SKU04,Tapioca Chips,1150,0
+2025-01-13,SKU04,Tapioca Chips,1166,0
+2025-01-20,SKU04,Tapioca Chips,776,0
+2025-01-27,SKU04,Tapioca Chips,2334,0
+2025-02-03,SKU04,Tapioca Chips,1425,0
+2025-02-10,SKU04,Tapioca Chips,1384,0
+2025-02-17,SKU04,Tapioca Chips,640,0
+2025-02-24,SKU04,Tapioca Chips,1179,0
+2025-03-03,SKU04,Tapioca Chips,1197,0
+2025-03-10,SKU04,Tapioca Chips,1075,0
+2025-03-17,SKU04,Tapioca Chips,750,0
+2025-03-24,SKU04,Tapioca Chips,1584,0
+2025-03-31,SKU04,Tapioca Chips,836,0
+2025-04-07,SKU04,Tapioca Chips,963,0
+2025-04-14,SKU04,Tapioca Chips,844,0
+2025-04-21,SKU04,Tapioca Chips,953,0
+2025-04-28,SKU04,Tapioca Chips,921,0
+2025-05-05,SKU04,Tapioca Chips,1028,0
+2025-05-12,SKU04,Tapioca Chips,1019,0
+2025-05-19,SKU04,Tapioca Chips,1092,0
+2025-05-26,SKU04,Tapioca Chips,976,0
+2025-06-02,SKU04,Tapioca Chips,895,0
+2025-06-09,SKU04,Tapioca Chips,927,0
+2025-06-16,SKU04,Tapioca Chips,1547,0
+2025-06-23,SKU04,Tapioca Chips,1391,0
+2025-06-30,SKU04,Tapioca Chips,1081,0
+2025-07-07,SKU04,Tapioca Chips,738,0
+2025-07-14,SKU04,Tapioca Chips,1255,0
+2025-07-21,SKU04,Tapioca Chips,1159,0
+2025-07-28,SKU04,Tapioca Chips,903,0
+2025-08-04,SKU04,Tapioca Chips,684,0
+2025-08-11,SKU04,Tapioca Chips,933,0
+2025-08-18,SKU04,Tapioca Chips,834,0
+2025-08-25,SKU04,Tapioca Chips,1228,0
+2025-09-01,SKU04,Tapioca Chips,1477,0
+2025-09-08,SKU04,Tapioca Chips,1325,0
+2025-09-15,SKU04,Tapioca Chips,859,0
+2025-09-22,SKU04,Tapioca Chips,1014,0
+2025-09-29,SKU04,Tapioca Chips,902,0
+2025-10-06,SKU04,Tapioca Chips,810,0
+2024-01-01,SKU05,Murukku,1353,0
+2024-01-08,SKU05,Murukku,1326,0
+2024-01-15,SKU05,Murukku,1391,0
+2024-01-22,SKU05,Murukku,1416,0
+2024-01-29,SKU05,Murukku,1536,0
+2024-02-05,SKU05,Murukku,1384,0
+2024-02-12,SKU05,Murukku,1076,0
+2024-02-19,SKU05,Murukku,961,0
+2024-02-26,SKU05,Murukku,1698,0
+2024-03-04,SKU05,Murukku,1471,0
+2024-03-11,SKU05,Murukku,1495,0
+2024-03-18,SKU05,Murukku,1520,0
+2024-03-25,SKU05,Murukku,1573,0
+2024-04-01,SKU05,Murukku,1277,0
+2024-04-08,SKU05,Murukku,1604,0
+2024-04-15,SKU05,Murukku,1631,0
+2024-04-22,SKU05,Murukku,1284,0
+2024-04-29,SKU05,Murukku,716,0
+2024-05-06,SKU05,Murukku,1630,0
+2024-05-13,SKU05,Murukku,1395,0
+2024-05-20,SKU05,Murukku,1164,0
+2024-05-27,SKU05,Murukku,1699,0
+2024-06-03,SKU05,Murukku,1161,0
+2024-06-10,SKU05,Murukku,1912,0
+2024-06-17,SKU05,Murukku,1278,0
+2024-06-24,SKU05,Murukku,1249,0
+2024-07-01,SKU05,Murukku,1026,0
+2024-07-08,SKU05,Murukku,1154,0
+2024-07-15,SKU05,Murukku,982,0
+2024-07-22,SKU05,Murukku,1529,0
+2024-07-29,SKU05,Murukku,1253,0
+2024-08-05,SKU05,Murukku,1089,0
+2024-08-12,SKU05,Murukku,933,0
+2024-08-19,SKU05,Murukku,909,0
+2024-08-26,SKU05,Murukku,1745,0
+2024-09-02,SKU05,Murukku,1423,0
+2024-09-09,SKU05,Murukku,1682,0
+2024-09-16,SKU05,Murukku,1444,0
+2024-09-23,SKU05,Murukku,1130,0
+2024-09-30,SKU05,Murukku,1733,0
+2024-10-07,SKU05,Murukku,1491,0
+2024-10-14,SKU05,Murukku,1190,0
+2024-10-21,SKU05,Murukku,1330,0
+2024-10-28,SKU05,Murukku,1401,0
+2024-11-04,SKU05,Murukku,1502,0
+2024-11-11,SKU05,Murukku,1104,0
+2024-11-18,SKU05,Murukku,1507,0
+2024-11-25,SKU05,Murukku,959,0
+2024-12-02,SKU05,Murukku,563,0
+2024-12-09,SKU05,Murukku,1273,0
+2024-12-16,SKU05,Murukku,2152,0
+2024-12-23,SKU05,Murukku,1317,0
+2024-12-30,SKU05,Murukku,1197,0
+2025-01-06,SKU05,Murukku,781,0
+2025-01-13,SKU05,Murukku,1747,0
+2025-01-20,SKU05,Murukku,1470,0
+2025-01-27,SKU05,Murukku,1318,0
+2025-02-03,SKU05,Murukku,1393,0
+2025-02-10,SKU05,Murukku,1390,0
+2025-02-17,SKU05,Murukku,1181,0
+2025-02-24,SKU05,Murukku,937,0
+2025-03-03,SKU05,Murukku,951,0
+2025-03-10,SKU05,Murukku,1363,0
+2025-03-17,SKU05,Murukku,1753,0
+2025-03-24,SKU05,Murukku,1151,0
+2025-03-31,SKU05,Murukku,1057,0
+2025-04-07,SKU05,Murukku,1367,0
+2025-04-14,SKU05,Murukku,1380,0
+2025-04-21,SKU05,Murukku,1413,0
+2025-04-28,SKU05,Murukku,1288,0
+2025-05-05,SKU05,Murukku,1192,0
+2025-05-12,SKU05,Murukku,1166,0
+2025-05-19,SKU05,Murukku,1160,0
+2025-05-26,SKU05,Murukku,1098,0
+2025-06-02,SKU05,Murukku,1094,0
+2025-06-09,SKU05,Murukku,1520,0
+2025-06-16,SKU05,Murukku,1007,0
+2025-06-23,SKU05,Murukku,985,0
+2025-06-30,SKU05,Murukku,1147,0
+2025-07-07,SKU05,Murukku,1422,0
+2025-07-14,SKU05,Murukku,1219,0
+2025-07-21,SKU05,Murukku,981,0
+2025-07-28,SKU05,Murukku,1434,0
+2025-08-04,SKU05,Murukku,1007,0
+2025-08-11,SKU05,Murukku,957,0
+2025-08-18,SKU05,Murukku,1037,0
+2025-08-25,SKU05,Murukku,1027,0
+2025-09-01,SKU05,Murukku,1885,0
+2025-09-08,SKU05,Murukku,1390,0
+2025-09-15,SKU05,Murukku,1477,0
+2025-09-22,SKU05,Murukku,1448,0
+2025-09-29,SKU05,Murukku,998,0
+2025-10-06,SKU05,Murukku,1850,0
+2024-01-01,SKU06,Achappam,292,0
+2024-01-08,SKU06,Achappam,603,0
+2024-01-15,SKU06,Achappam,251,0
+2024-01-22,SKU06,Achappam,331,0
+2024-01-29,SKU06,Achappam,300,0
+2024-02-05,SKU06,Achappam,462,0
+2024-02-12,SKU06,Achappam,348,0
+2024-02-19,SKU06,Achappam,305,0
+2024-02-26,SKU06,Achappam,470,0
+2024-03-04,SKU06,Achappam,262,0
+2024-03-11,SKU06,Achappam,531,0
+2024-03-18,SKU06,Achappam,423,0
+2024-03-25,SKU06,Achappam,430,0
+2024-04-01,SKU06,Achappam,457,0
+2024-04-08,SKU06,Achappam,362,0
+2024-04-15,SKU06,Achappam,369,0
+2024-04-22,SKU06,Achappam,132,0
+2024-04-29,SKU06,Achappam,416,0
+2024-05-06,SKU06,Achappam,206,0
+2024-05-13,SKU06,Achappam,228,0
+2024-05-20,SKU06,Achappam,309,0
+2024-05-27,SKU06,Achappam,402,0
+2024-06-03,SKU06,Achappam,268,0
+2024-06-10,SKU06,Achappam,146,0
+2024-06-17,SKU06,Achappam,238,0
+2024-06-24,SKU06,Achappam,411,0
+2024-07-01,SKU06,Achappam,214,0
+2024-07-08,SKU06,Achappam,336,0
+2024-07-15,SKU06,Achappam,338,0
+2024-07-22,SKU06,Achappam,553,0
+2024-07-29,SKU06,Achappam,253,0
+2024-08-05,SKU06,Achappam,561,0
+2024-08-12,SKU06,Achappam,359,0
+2024-08-19,SKU06,Achappam,229,0
+2024-08-26,SKU06,Achappam,269,0
+2024-09-02,SKU06,Achappam,342,0
+2024-09-09,SKU06,Achappam,563,0
+2024-09-16,SKU06,Achappam,362,0
+2024-09-23,SKU06,Achappam,612,0
+2024-09-30,SKU06,Achappam,394,0
+2024-10-07,SKU06,Achappam,1103,0
+2024-10-14,SKU06,Achappam,254,0
+2024-10-21,SKU06,Achappam,440,0
+2024-10-28,SKU06,Achappam,507,0
+2024-11-04,SKU06,Achappam,349,0
+2024-11-11,SKU06,Achappam,184,0
+2024-11-18,SKU06,Achappam,396,0
+2024-11-25,SKU06,Achappam,518,0
+2024-12-02,SKU06,Achappam,136,0
+2024-12-09,SKU06,Achappam,496,0
+2024-12-16,SKU06,Achappam,439,0
+2024-12-23,SKU06,Achappam,396,0
+2024-12-30,SKU06,Achappam,522,0
+2025-01-06,SKU06,Achappam,155,0
+2025-01-13,SKU06,Achappam,864,0
+2025-01-20,SKU06,Achappam,274,0
+2025-01-27,SKU06,Achappam,187,0
+2025-02-03,SKU06,Achappam,300,0
+2025-02-10,SKU06,Achappam,510,0
+2025-02-17,SKU06,Achappam,362,0
+2025-02-24,SKU06,Achappam,567,0
+2025-03-03,SKU06,Achappam,275,0
+2025-03-10,SKU06,Achappam,562,0
+2025-03-17,SKU06,Achappam,370,0
+2025-03-24,SKU06,Achappam,762,0
+2025-03-31,SKU06,Achappam,918,0
+2025-04-07,SKU06,Achappam,255,0
+2025-04-14,SKU06,Achappam,412,0
+2025-04-21,SKU06,Achappam,163,0
+2025-04-28,SKU06,Achappam,432,0
+2025-05-05,SKU06,Achappam,131,0
+2025-05-12,SKU06,Achappam,243,0
+2025-05-19,SKU06,Achappam,437,0
+2025-05-26,SKU06,Achappam,441,0
+2025-06-02,SKU06,Achappam,310,0
+2025-06-09,SKU06,Achappam,425,0
+2025-06-16,SKU06,Achappam,196,0
+2025-06-23,SKU06,Achappam,223,0
+2025-06-30,SKU06,Achappam,459,0
+2025-07-07,SKU06,Achappam,278,0
+2025-07-14,SKU06,Achappam,536,0
+2025-07-21,SKU06,Achappam,200,0
+2025-07-28,SKU06,Achappam,411,0
+2025-08-04,SKU06,Achappam,320,0
+2025-08-11,SKU06,Achappam,370,0
+2025-08-18,SKU06,Achappam,396,0
+2025-08-25,SKU06,Achappam,299,0
+2025-09-01,SKU06,Achappam,623,0
+2025-09-08,SKU06,Achappam,195,0
+2025-09-15,SKU06,Achappam,517,0
+2025-09-22,SKU06,Achappam,447,0
+2025-09-29,SKU06,Achappam,482,0
+2025-10-06,SKU06,Achappam,507,0
+2024-01-01,SKU07,Kuzhalappam,226,0
+2024-01-08,SKU07,Kuzhalappam,176,0
+2024-01-15,SKU07,Kuzhalappam,218,0
+2024-01-22,SKU07,Kuzhalappam,573,0
+2024-01-29,SKU07,Kuzhalappam,129,0
+2024-02-05,SKU07,Kuzhalappam,319,0
+2024-02-12,SKU07,Kuzhalappam,514,0
+2024-02-19,SKU07,Kuzhalappam,454,0
+2024-02-26,SKU07,Kuzhalappam,294,0
+2024-03-04,SKU07,Kuzhalappam,219,0
+2024-03-11,SKU07,Kuzhalappam,270,0
+2024-03-18,SKU07,Kuzhalappam,357,0
+2024-03-25,SKU07,Kuzhalappam,123,0
+2024-04-01,SKU07,Kuzhalappam,334,0
+2024-04-08,SKU07,Kuzhalappam,308,0
+2024-04-15,SKU07,Kuzhalappam,152,0
+2024-04-22,SKU07,Kuzhalappam,167,0
+2024-04-29,SKU07,Kuzhalappam,122,0
+2024-05-06,SKU07,Kuzhalappam,510,0
+2024-05-13,SKU07,Kuzhalappam,237,0
+2024-05-20,SKU07,Kuzhalappam,272,0
+2024-05-27,SKU07,Kuzhalappam,689,0
+2024-06-03,SKU07,Kuzhalappam,366,0
+2024-06-10,SKU07,Kuzhalappam,259,0
+2024-06-17,SKU07,Kuzhalappam,136,0
+2024-06-24,SKU07,Kuzhalappam,132,0
+2024-07-01,SKU07,Kuzhalappam,121,0
+2024-07-08,SKU07,Kuzhalappam,181,0
+2024-07-15,SKU07,Kuzhalappam,336,0
+2024-07-22,SKU07,Kuzhalappam,310,0
+2024-07-29,SKU07,Kuzhalappam,370,0
+2024-08-05,SKU07,Kuzhalappam,406,0
+2024-08-12,SKU07,Kuzhalappam,673,0
+2024-08-19,SKU07,Kuzhalappam,366,0
+2024-08-26,SKU07,Kuzhalappam,275,0
+2024-09-02,SKU07,Kuzhalappam,299,0
+2024-09-09,SKU07,Kuzhalappam,345,0
+2024-09-16,SKU07,Kuzhalappam,189,0
+2024-09-23,SKU07,Kuzhalappam,214,0
+2024-09-30,SKU07,Kuzhalappam,230,0
+2024-10-07,SKU07,Kuzhalappam,255,0
+2024-10-14,SKU07,Kuzhalappam,89,0
+2024-10-21,SKU07,Kuzhalappam,287,0
+2024-10-28,SKU07,Kuzhalappam,337,0
+2024-11-04,SKU07,Kuzhalappam,381,0
+2024-11-11,SKU07,Kuzhalappam,334,0
+2024-11-18,SKU07,Kuzhalappam,301,0
+2024-11-25,SKU07,Kuzhalappam,243,0
+2024-12-02,SKU07,Kuzhalappam,292,0
+2024-12-09,SKU07,Kuzhalappam,329,0
+2024-12-16,SKU07,Kuzhalappam,474,0
+2024-12-23,SKU07,Kuzhalappam,402,0
+2024-12-30,SKU07,Kuzhalappam,304,0
+2025-01-06,SKU07,Kuzhalappam,360,0
+2025-01-13,SKU07,Kuzhalappam,414,0
+2025-01-20,SKU07,Kuzhalappam,529,0
+2025-01-27,SKU07,Kuzhalappam,228,0
+2025-02-03,SKU07,Kuzhalappam,236,0
+2025-02-10,SKU07,Kuzhalappam,246,0
+2025-02-17,SKU07,Kuzhalappam,232,0
+2025-02-24,SKU07,Kuzhalappam,274,0
+2025-03-03,SKU07,Kuzhalappam,255,0
+2025-03-10,SKU07,Kuzhalappam,256,0
+2025-03-17,SKU07,Kuzhalappam,402,0
+2025-03-24,SKU07,Kuzhalappam,440,0
+2025-03-31,SKU07,Kuzhalappam,379,0
+2025-04-07,SKU07,Kuzhalappam,372,0
+2025-04-14,SKU07,Kuzhalappam,342,0
+2025-04-21,SKU07,Kuzhalappam,214,0
+2025-04-28,SKU07,Kuzhalappam,596,0
+2025-05-05,SKU07,Kuzhalappam,211,0
+2025-05-12,SKU07,Kuzhalappam,370,0
+2025-05-19,SKU07,Kuzhalappam,169,0
+2025-05-26,SKU07,Kuzhalappam,156,0
+2025-06-02,SKU07,Kuzhalappam,276,0
+2025-06-09,SKU07,Kuzhalappam,254,0
+2025-06-16,SKU07,Kuzhalappam,459,0
+2025-06-23,SKU07,Kuzhalappam,370,0
+2025-06-30,SKU07,Kuzhalappam,263,0
+2025-07-07,SKU07,Kuzhalappam,466,0
+2025-07-14,SKU07,Kuzhalappam,250,0
+2025-07-21,SKU07,Kuzhalappam,387,0
+2025-07-28,SKU07,Kuzhalappam,320,0
+2025-08-04,SKU07,Kuzhalappam,374,0
+2025-08-11,SKU07,Kuzhalappam,181,0
+2025-08-18,SKU07,Kuzhalappam,105,0
+2025-08-25,SKU07,Kuzhalappam,94,0
+2025-09-01,SKU07,Kuzhalappam,312,0
+2025-09-08,SKU07,Kuzhalappam,418,0
+2025-09-15,SKU07,Kuzhalappam,317,0
+2025-09-22,SKU07,Kuzhalappam,168,0
+2025-09-29,SKU07,Kuzhalappam,276,0
+2025-10-06,SKU07,Kuzhalappam,462,0
+2024-01-01,SKU08,Mixture,1269,0
+2024-01-08,SKU08,Mixture,1147,0
+2024-01-15,SKU08,Mixture,2532,0
+2024-01-22,SKU08,Mixture,1176,0
+2024-01-29,SKU08,Mixture,1205,0
+2024-02-05,SKU08,Mixture,1587,0
+2024-02-12,SKU08,Mixture,1363,0
+2024-02-19,SKU08,Mixture,1406,0
+2024-02-26,SKU08,Mixture,1669,0
+2024-03-04,SKU08,Mixture,1980,0
+2024-03-11,SKU08,Mixture,1309,0
+2024-03-18,SKU08,Mixture,2581,0
+2024-03-25,SKU08,Mixture,1578,0
+2024-04-01,SKU08,Mixture,2064,0
+2024-04-08,SKU08,Mixture,1377,0
+2024-04-15,SKU08,Mixture,1590,0
+2024-04-22,SKU08,Mixture,1267,0
+2024-04-29,SKU08,Mixture,1556,0
+2024-05-06,SKU08,Mixture,1629,0
+2024-05-13,SKU08,Mixture,1605,0
+2024-05-20,SKU08,Mixture,1817,0
+2024-05-27,SKU08,Mixture,1021,0
+2024-06-03,SKU08,Mixture,1589,0
+2024-06-10,SKU08,Mixture,1598,0
+2024-06-17,SKU08,Mixture,1269,0
+2024-06-24,SKU08,Mixture,2352,0
+2024-07-01,SKU08,Mixture,1723,0
+2024-07-08,SKU08,Mixture,1105,0
+2024-07-15,SKU08,Mixture,1470,0
+2024-07-22,SKU08,Mixture,1982,0
+2024-07-29,SKU08,Mixture,1550,0
+2024-08-05,SKU08,Mixture,1439,0
+2024-08-12,SKU08,Mixture,1451,0
+2024-08-19,SKU08,Mixture,1123,0
+2024-08-26,SKU08,Mixture,1507,0
+2024-09-02,SKU08,Mixture,1295,0
+2024-09-09,SKU08,Mixture,1692,0
+2024-09-16,SKU08,Mixture,1203,0
+2024-09-23,SKU08,Mixture,1757,0
+2024-09-30,SKU08,Mixture,1627,0
+2024-10-07,SKU08,Mixture,1719,0
+2024-10-14,SKU08,Mixture,1032,0
+2024-10-21,SKU08,Mixture,1575,0
+2024-10-28,SKU08,Mixture,1569,0
+2024-11-04,SKU08,Mixture,1768,0
+2024-11-11,SKU08,Mixture,1433,0
+2024-11-18,SKU08,Mixture,1903,0
+2024-11-25,SKU08,Mixture,1543,0
+2024-12-02,SKU08,Mixture,1816,0
+2024-12-09,SKU08,Mixture,1269,0
+2024-12-16,SKU08,Mixture,1442,0
+2024-12-23,SKU08,Mixture,2208,0
+2024-12-30,SKU08,Mixture,1439,0
+2025-01-06,SKU08,Mixture,1110,0
+2025-01-13,SKU08,Mixture,1525,0
+2025-01-20,SKU08,Mixture,1880,0
+2025-01-27,SKU08,Mixture,1584,0
+2025-02-03,SKU08,Mixture,2205,0
+2025-02-10,SKU08,Mixture,1978,0
+2025-02-17,SKU08,Mixture,1795,0
+2025-02-24,SKU08,Mixture,1677,0
+2025-03-03,SKU08,Mixture,1012,0
+2025-03-10,SKU08,Mixture,1767,0
+2025-03-17,SKU08,Mixture,1253,0
+2025-03-24,SKU08,Mixture,1081,0
+2025-03-31,SKU08,Mixture,1460,0
+2025-04-07,SKU08,Mixture,2055,0
+2025-04-14,SKU08,Mixture,1184,0
+2025-04-21,SKU08,Mixture,1168,0
+2025-04-28,SKU08,Mixture,1437,0
+2025-05-05,SKU08,Mixture,1502,0
+2025-05-12,SKU08,Mixture,1363,0
+2025-05-19,SKU08,Mixture,1620,0
+2025-05-26,SKU08,Mixture,1511,0
+2025-06-02,SKU08,Mixture,1320,0
+2025-06-09,SKU08,Mixture,2324,0
+2025-06-16,SKU08,Mixture,1364,0
+2025-06-23,SKU08,Mixture,2230,0
+2025-06-30,SKU08,Mixture,2043,0
+2025-07-07,SKU08,Mixture,1061,0
+2025-07-14,SKU08,Mixture,1726,0
+2025-07-21,SKU08,Mixture,1332,0
+2025-07-28,SKU08,Mixture,1199,0
+2025-08-04,SKU08,Mixture,1460,0
+2025-08-11,SKU08,Mixture,1489,0
+2025-08-18,SKU08,Mixture,1675,0
+2025-08-25,SKU08,Mixture,1822,0
+2025-09-01,SKU08,Mixture,2036,0
+2025-09-08,SKU08,Mixture,1591,0
+2025-09-15,SKU08,Mixture,1671,0
+2025-09-22,SKU08,Mixture,1986,0
+2025-09-29,SKU08,Mixture,1568,0
+2025-10-06,SKU08,Mixture,1356,0
+2024-01-01,SKU09,Payasam Mix Palada,644,0
+2024-01-08,SKU09,Payasam Mix Palada,690,0
+2024-01-15,SKU09,Payasam Mix Palada,580,0
+2024-01-22,SKU09,Payasam Mix Palada,570,0
+2024-01-29,SKU09,Payasam Mix Palada,914,0
+2024-02-05,SKU09,Payasam Mix Palada,652,0
+2024-02-12,SKU09,Payasam Mix Palada,538,0
+2024-02-19,SKU09,Payasam Mix Palada,814,0
+2024-02-26,SKU09,Payasam Mix Palada,732,0
+2024-03-04,SKU09,Payasam Mix Palada,608,0
+2024-03-11,SKU09,Payasam Mix Palada,673,0
+2024-03-18,SKU09,Payasam Mix Palada,884,0
+2024-03-25,SKU09,Payasam Mix Palada,674,0
+2024-04-01,SKU09,Payasam Mix Palada,1131,0
+2024-04-08,SKU09,Payasam Mix Palada,625,0
+2024-04-15,SKU09,Payasam Mix Palada,758,0
+2024-04-22,SKU09,Payasam Mix Palada,953,0
+2024-04-29,SKU09,Payasam Mix Palada,682,0
+2024-05-06,SKU09,Payasam Mix Palada,622,0
+2024-05-13,SKU09,Payasam Mix Palada,724,0
+2024-05-20,SKU09,Payasam Mix Palada,681,0
+2024-05-27,SKU09,Payasam Mix Palada,376,0
+2024-06-03,SKU09,Payasam Mix Palada,561,0
+2024-06-10,SKU09,Payasam Mix Palada,695,0
+2024-06-17,SKU09,Payasam Mix Palada,806,0
+2024-06-24,SKU09,Payasam Mix Palada,530,0
+2024-07-01,SKU09,Payasam Mix Palada,526,0
+2024-07-08,SKU09,Payasam Mix Palada,920,0
+2024-07-15,SKU09,Payasam Mix Palada,743,0
+2024-07-22,SKU09,Payasam Mix Palada,735,0
+2024-07-29,SKU09,Payasam Mix Palada,750,0
+2024-08-05,SKU09,Payasam Mix Palada,338,0
+2024-08-12,SKU09,Payasam Mix Palada,431,0
+2024-08-19,SKU09,Payasam Mix Palada,601,0
+2024-08-26,SKU09,Payasam Mix Palada,920,0
+2024-09-02,SKU09,Payasam Mix Palada,1166,0
+2024-09-09,SKU09,Payasam Mix Palada,2074,0
+2024-09-16,SKU09,Payasam Mix Palada,1240,0
+2024-09-23,SKU09,Payasam Mix Palada,375,0
+2024-09-30,SKU09,Payasam Mix Palada,385,0
+2024-10-07,SKU09,Payasam Mix Palada,673,0
+2024-10-14,SKU09,Payasam Mix Palada,967,0
+2024-10-21,SKU09,Payasam Mix Palada,445,0
+2024-10-28,SKU09,Payasam Mix Palada,657,0
+2024-11-04,SKU09,Payasam Mix Palada,707,0
+2024-11-11,SKU09,Payasam Mix Palada,643,0
+2024-11-18,SKU09,Payasam Mix Palada,940,0
+2024-11-25,SKU09,Payasam Mix Palada,690,0
+2024-12-02,SKU09,Payasam Mix Palada,814,0
+2024-12-09,SKU09,Payasam Mix Palada,442,0
+2024-12-16,SKU09,Payasam Mix Palada,873,0
+2024-12-23,SKU09,Payasam Mix Palada,961,0
+2024-12-30,SKU09,Payasam Mix Palada,628,0
+2025-01-06,SKU09,Payasam Mix Palada,600,0
+2025-01-13,SKU09,Payasam Mix Palada,804,0
+2025-01-20,SKU09,Payasam Mix Palada,476,0
+2025-01-27,SKU09,Payasam Mix Palada,623,0
+2025-02-03,SKU09,Payasam Mix Palada,576,0
+2025-02-10,SKU09,Payasam Mix Palada,414,0
+2025-02-17,SKU09,Payasam Mix Palada,652,0
+2025-02-24,SKU09,Payasam Mix Palada,802,0
+2025-03-03,SKU09,Payasam Mix Palada,779,0
+2025-03-10,SKU09,Payasam Mix Palada,553,0
+2025-03-17,SKU09,Payasam Mix Palada,502,0
+2025-03-24,SKU09,Payasam Mix Palada,485,0
+2025-03-31,SKU09,Payasam Mix Palada,1002,0
+2025-04-07,SKU09,Payasam Mix Palada,599,0
+2025-04-14,SKU09,Payasam Mix Palada,775,0
+2025-04-21,SKU09,Payasam Mix Palada,880,0
+2025-04-28,SKU09,Payasam Mix Palada,781,0
+2025-05-05,SKU09,Payasam Mix Palada,488,0
+2025-05-12,SKU09,Payasam Mix Palada,602,0
+2025-05-19,SKU09,Payasam Mix Palada,809,0
+2025-05-26,SKU09,Payasam Mix Palada,394,0
+2025-06-02,SKU09,Payasam Mix Palada,795,0
+2025-06-09,SKU09,Payasam Mix Palada,512,0
+2025-06-16,SKU09,Payasam Mix Palada,657,0
+2025-06-23,SKU09,Payasam Mix Palada,727,0
+2025-06-30,SKU09,Payasam Mix Palada,745,0
+2025-07-07,SKU09,Payasam Mix Palada,624,0
+2025-07-14,SKU09,Payasam Mix Palada,563,0
+2025-07-21,SKU09,Payasam Mix Palada,711,0
+2025-07-28,SKU09,Payasam Mix Palada,610,0
+2025-08-04,SKU09,Payasam Mix Palada,420,0
+2025-08-11,SKU09,Payasam Mix Palada,655,0
+2025-08-18,SKU09,Payasam Mix Palada,745,0
+2025-08-25,SKU09,Payasam Mix Palada,1913,0
+2025-09-01,SKU09,Payasam Mix Palada,1612,3
+2025-09-08,SKU09,Payasam Mix Palada,1011,0
+2025-09-15,SKU09,Payasam Mix Palada,714,0
+2025-09-22,SKU09,Payasam Mix Palada,597,0
+2025-09-29,SKU09,Payasam Mix Palada,587,0
+2025-10-06,SKU09,Payasam Mix Palada,597,0
+2024-01-01,SKU10,Payasam Mix Semiya,994,0
+2024-01-08,SKU10,Payasam Mix Semiya,843,0
+2024-01-15,SKU10,Payasam Mix Semiya,822,0
+2024-01-22,SKU10,Payasam Mix Semiya,1063,0
+2024-01-29,SKU10,Payasam Mix Semiya,995,0
+2024-02-05,SKU10,Payasam Mix Semiya,944,0
+2024-02-12,SKU10,Payasam Mix Semiya,1037,0
+2024-02-19,SKU10,Payasam Mix Semiya,838,0
+2024-02-26,SKU10,Payasam Mix Semiya,998,0
+2024-03-04,SKU10,Payasam Mix Semiya,758,0
+2024-03-11,SKU10,Payasam Mix Semiya,987,0
+2024-03-18,SKU10,Payasam Mix Semiya,1099,0
+2024-03-25,SKU10,Payasam Mix Semiya,850,0
+2024-04-01,SKU10,Payasam Mix Semiya,1151,0
+2024-04-08,SKU10,Payasam Mix Semiya,2148,0
+2024-04-15,SKU10,Payasam Mix Semiya,1363,0
+2024-04-22,SKU10,Payasam Mix Semiya,665,0
+2024-04-29,SKU10,Payasam Mix Semiya,770,0
+2024-05-06,SKU10,Payasam Mix Semiya,718,0
+2024-05-13,SKU10,Payasam Mix Semiya,929,0
+2024-05-20,SKU10,Payasam Mix Semiya,1286,0
+2024-05-27,SKU10,Payasam Mix Semiya,795,0
+2024-06-03,SKU10,Payasam Mix Semiya,1202,0
+2024-06-10,SKU10,Payasam Mix Semiya,516,0
+2024-06-17,SKU10,Payasam Mix Semiya,957,0
+2024-06-24,SKU10,Payasam Mix Semiya,697,0
+2024-07-01,SKU10,Payasam Mix Semiya,982,0
+2024-07-08,SKU10,Payasam Mix Semiya,925,0
+2024-07-15,SKU10,Payasam Mix Semiya,1087,0
+2024-07-22,SKU10,Payasam Mix Semiya,880,0
+2024-07-29,SKU10,Payasam Mix Semiya,1129,0
+2024-08-05,SKU10,Payasam Mix Semiya,753,0
+2024-08-12,SKU10,Payasam Mix Semiya,916,0
+2024-08-19,SKU10,Payasam Mix Semiya,852,0
+2024-08-26,SKU10,Payasam Mix Semiya,818,0
+2024-09-02,SKU10,Payasam Mix Semiya,1740,0
+2024-09-09,SKU10,Payasam Mix Semiya,2297,0
+2024-09-16,SKU10,Payasam Mix Semiya,528,0
+2024-09-23,SKU10,Payasam Mix Semiya,1025,0
+2024-09-30,SKU10,Payasam Mix Semiya,810,0
+2024-10-07,SKU10,Payasam Mix Semiya,621,0
+2024-10-14,SKU10,Payasam Mix Semiya,552,0
+2024-10-21,SKU10,Payasam Mix Semiya,1077,0
+2024-10-28,SKU10,Payasam Mix Semiya,753,0
+2024-11-04,SKU10,Payasam Mix Semiya,919,0
+2024-11-11,SKU10,Payasam Mix Semiya,974,0
+2024-11-18,SKU10,Payasam Mix Semiya,1065,0
+2024-11-25,SKU10,Payasam Mix Semiya,1061,0
+2024-12-02,SKU10,Payasam Mix Semiya,895,0
+2024-12-09,SKU10,Payasam Mix Semiya,1109,0
+2024-12-16,SKU10,Payasam Mix Semiya,994,0
+2024-12-23,SKU10,Payasam Mix Semiya,605,0
+2024-12-30,SKU10,Payasam Mix Semiya,805,0
+2025-01-06,SKU10,Payasam Mix Semiya,746,0
+2025-01-13,SKU10,Payasam Mix Semiya,1051,0
+2025-01-20,SKU10,Payasam Mix Semiya,861,0
+2025-01-27,SKU10,Payasam Mix Semiya,928,0
+2025-02-03,SKU10,Payasam Mix Semiya,1077,0
+2025-02-10,SKU10,Payasam Mix Semiya,913,0
+2025-02-17,SKU10,Payasam Mix Semiya,747,0
+2025-02-24,SKU10,Payasam Mix Semiya,985,0
+2025-03-03,SKU10,Payasam Mix Semiya,1048,0
+2025-03-10,SKU10,Payasam Mix Semiya,1320,0
+2025-03-17,SKU10,Payasam Mix Semiya,814,0
+2025-03-24,SKU10,Payasam Mix Semiya,1089,0
+2025-03-31,SKU10,Payasam Mix Semiya,1012,0
+2025-04-07,SKU10,Payasam Mix Semiya,1129,0
+2025-04-14,SKU10,Payasam Mix Semiya,728,0
+2025-04-21,SKU10,Payasam Mix Semiya,568,0
+2025-04-28,SKU10,Payasam Mix Semiya,996,0
+2025-05-05,SKU10,Payasam Mix Semiya,1066,0
+2025-05-12,SKU10,Payasam Mix Semiya,592,0
+2025-05-19,SKU10,Payasam Mix Semiya,852,0
+2025-05-26,SKU10,Payasam Mix Semiya,980,0
+2025-06-02,SKU10,Payasam Mix Semiya,986,0
+2025-06-09,SKU10,Payasam Mix Semiya,616,0
+2025-06-16,SKU10,Payasam Mix Semiya,1194,0
+2025-06-23,SKU10,Payasam Mix Semiya,776,0
+2025-06-30,SKU10,Payasam Mix Semiya,1026,0
+2025-07-07,SKU10,Payasam Mix Semiya,751,0
+2025-07-14,SKU10,Payasam Mix Semiya,1197,0
+2025-07-21,SKU10,Payasam Mix Semiya,678,0
+2025-07-28,SKU10,Payasam Mix Semiya,887,0
+2025-08-04,SKU10,Payasam Mix Semiya,1005,0
+2025-08-11,SKU10,Payasam Mix Semiya,848,0
+2025-08-18,SKU10,Payasam Mix Semiya,748,0
+2025-08-25,SKU10,Payasam Mix Semiya,910,2
+2025-09-01,SKU10,Payasam Mix Semiya,2553,4
+2025-09-08,SKU10,Payasam Mix Semiya,796,2
+2025-09-15,SKU10,Payasam Mix Semiya,594,0
+2025-09-22,SKU10,Payasam Mix Semiya,1249,0
+2025-09-29,SKU10,Payasam Mix Semiya,860,0
+2025-10-06,SKU10,Payasam Mix Semiya,876,0
+2024-01-01,SKU11,Unniyappam Mix,439,0
+2024-01-08,SKU11,Unniyappam Mix,393,0
+2024-01-15,SKU11,Unniyappam Mix,544,0
+2024-01-22,SKU11,Unniyappam Mix,458,0
+2024-01-29,SKU11,Unniyappam Mix,739,0
+2024-02-05,SKU11,Unniyappam Mix,459,0
+2024-02-12,SKU11,Unniyappam Mix,294,0
+2024-02-19,SKU11,Unniyappam Mix,392,0
+2024-02-26,SKU11,Unniyappam Mix,234,0
+2024-03-04,SKU11,Unniyappam Mix,572,0
+2024-03-11,SKU11,Unniyappam Mix,373,0
+2024-03-18,SKU11,Unniyappam Mix,340,0
+2024-03-25,SKU11,Unniyappam Mix,503,0
+2024-04-01,SKU11,Unniyappam Mix,416,0
+2024-04-08,SKU11,Unniyappam Mix,753,0
+2024-04-15,SKU11,Unniyappam Mix,386,0
+2024-04-22,SKU11,Unniyappam Mix,496,0
+2024-04-29,SKU11,Unniyappam Mix,597,0
+2024-05-06,SKU11,Unniyappam Mix,472,0
+2024-05-13,SKU11,Unniyappam Mix,602,0
+2024-05-20,SKU11,Unniyappam Mix,825,0
+2024-05-27,SKU11,Unniyappam Mix,626,0
+2024-06-03,SKU11,Unniyappam Mix,678,0
+2024-06-10,SKU11,Unniyappam Mix,379,0
+2024-06-17,SKU11,Unniyappam Mix,367,0
+2024-06-24,SKU11,Unniyappam Mix,455,0
+2024-07-01,SKU11,Unniyappam Mix,426,0
+2024-07-08,SKU11,Unniyappam Mix,568,0
+2024-07-15,SKU11,Unniyappam Mix,323,0
+2024-07-22,SKU11,Unniyappam Mix,388,0
+2024-07-29,SKU11,Unniyappam Mix,594,0
+2024-08-05,SKU11,Unniyappam Mix,555,0
+2024-08-12,SKU11,Unniyappam Mix,432,0
+2024-08-19,SKU11,Unniyappam Mix,512,0
+2024-08-26,SKU11,Unniyappam Mix,441,0
+2024-09-02,SKU11,Unniyappam Mix,499,0
+2024-09-09,SKU11,Unniyappam Mix,877,0
+2024-09-16,SKU11,Unniyappam Mix,648,0
+2024-09-23,SKU11,Unniyappam Mix,492,0
+2024-09-30,SKU11,Unniyappam Mix,487,0
+2024-10-07,SKU11,Unniyappam Mix,498,0
+2024-10-14,SKU11,Unniyappam Mix,296,0
+2024-10-21,SKU11,Unniyappam Mix,465,0
+2024-10-28,SKU11,Unniyappam Mix,624,0
+2024-11-04,SKU11,Unniyappam Mix,581,0
+2024-11-11,SKU11,Unniyappam Mix,356,0
+2024-11-18,SKU11,Unniyappam Mix,681,0
+2024-11-25,SKU11,Unniyappam Mix,348,0
+2024-12-02,SKU11,Unniyappam Mix,743,0
+2024-12-09,SKU11,Unniyappam Mix,575,0
+2024-12-16,SKU11,Unniyappam Mix,337,0
+2024-12-23,SKU11,Unniyappam Mix,507,0
+2024-12-30,SKU11,Unniyappam Mix,475,0
+2025-01-06,SKU11,Unniyappam Mix,506,0
+2025-01-13,SKU11,Unniyappam Mix,476,0
+2025-01-20,SKU11,Unniyappam Mix,613,0
+2025-01-27,SKU11,Unniyappam Mix,472,0
+2025-02-03,SKU11,Unniyappam Mix,365,0
+2025-02-10,SKU11,Unniyappam Mix,363,0
+2025-02-17,SKU11,Unniyappam Mix,456,0
+2025-02-24,SKU11,Unniyappam Mix,440,0
+2025-03-03,SKU11,Unniyappam Mix,493,0
+2025-03-10,SKU11,Unniyappam Mix,366,0
+2025-03-17,SKU11,Unniyappam Mix,360,0
+2025-03-24,SKU11,Unniyappam Mix,489,0
+2025-03-31,SKU11,Unniyappam Mix,649,0
+2025-04-07,SKU11,Unniyappam Mix,940,0
+2025-04-14,SKU11,Unniyappam Mix,389,0
+2025-04-21,SKU11,Unniyappam Mix,461,0
+2025-04-28,SKU11,Unniyappam Mix,447,0
+2025-05-05,SKU11,Unniyappam Mix,683,0
+2025-05-12,SKU11,Unniyappam Mix,383,0
+2025-05-19,SKU11,Unniyappam Mix,390,0
+2025-05-26,SKU11,Unniyappam Mix,210,0
+2025-06-02,SKU11,Unniyappam Mix,371,0
+2025-06-09,SKU11,Unniyappam Mix,399,0
+2025-06-16,SKU11,Unniyappam Mix,312,0
+2025-06-23,SKU11,Unniyappam Mix,348,0
+2025-06-30,SKU11,Unniyappam Mix,405,0
+2025-07-07,SKU11,Unniyappam Mix,579,0
+2025-07-14,SKU11,Unniyappam Mix,600,0
+2025-07-21,SKU11,Unniyappam Mix,503,0
+2025-07-28,SKU11,Unniyappam Mix,647,0
+2025-08-04,SKU11,Unniyappam Mix,423,0
+2025-08-11,SKU11,Unniyappam Mix,490,0
+2025-08-18,SKU11,Unniyappam Mix,337,0
+2025-08-25,SKU11,Unniyappam Mix,760,0
+2025-09-01,SKU11,Unniyappam Mix,641,2
+2025-09-08,SKU11,Unniyappam Mix,451,2
+2025-09-15,SKU11,Unniyappam Mix,562,0
+2025-09-22,SKU11,Unniyappam Mix,416,0
+2025-09-29,SKU11,Unniyappam Mix,424,0
+2025-10-06,SKU11,Unniyappam Mix,507,0
+2024-01-01,SKU12,Appam Mix,1033,0
+2024-01-08,SKU12,Appam Mix,962,0
+2024-01-15,SKU12,Appam Mix,1400,0
+2024-01-22,SKU12,Appam Mix,812,0
+2024-01-29,SKU12,Appam Mix,1120,0
+2024-02-05,SKU12,Appam Mix,1093,0
+2024-02-12,SKU12,Appam Mix,934,0
+2024-02-19,SKU12,Appam Mix,1391,0
+2024-02-26,SKU12,Appam Mix,817,0
+2024-03-04,SKU12,Appam Mix,722,0
+2024-03-11,SKU12,Appam Mix,966,0
+2024-03-18,SKU12,Appam Mix,541,0
+2024-03-25,SKU12,Appam Mix,665,0
+2024-04-01,SKU12,Appam Mix,1100,0
+2024-04-08,SKU12,Appam Mix,951,0
+2024-04-15,SKU12,Appam Mix,780,0
+2024-04-22,SKU12,Appam Mix,1024,0
+2024-04-29,SKU12,Appam Mix,1156,0
+2024-05-06,SKU12,Appam Mix,922,0
+2024-05-13,SKU12,Appam Mix,808,0
+2024-05-20,SKU12,Appam Mix,629,0
+2024-05-27,SKU12,Appam Mix,595,0
+2024-06-03,SKU12,Appam Mix,596,0
+2024-06-10,SKU12,Appam Mix,861,0
+2024-06-17,SKU12,Appam Mix,1058,0
+2024-06-24,SKU12,Appam Mix,1175,0
+2024-07-01,SKU12,Appam Mix,623,0
+2024-07-08,SKU12,Appam Mix,768,0
+2024-07-15,SKU12,Appam Mix,1081,0
+2024-07-22,SKU12,Appam Mix,1340,0
+2024-07-29,SKU12,Appam Mix,420,0
+2024-08-05,SKU12,Appam Mix,1020,0
+2024-08-12,SKU12,Appam Mix,804,0
+2024-08-19,SKU12,Appam Mix,984,0
+2024-08-26,SKU12,Appam Mix,1272,0
+2024-09-02,SKU12,Appam Mix,960,0
+2024-09-09,SKU12,Appam Mix,997,0
+2024-09-16,SKU12,Appam Mix,930,0
+2024-09-23,SKU12,Appam Mix,1089,0
+2024-09-30,SKU12,Appam Mix,599,0
+2024-10-07,SKU12,Appam Mix,752,0
+2024-10-14,SKU12,Appam Mix,919,0
+2024-10-21,SKU12,Appam Mix,981,0
+2024-10-28,SKU12,Appam Mix,1080,0
+2024-11-04,SKU12,Appam Mix,787,0
+2024-11-11,SKU12,Appam Mix,643,0
+2024-11-18,SKU12,Appam Mix,1118,0
+2024-11-25,SKU12,Appam Mix,1100,0
+2024-12-02,SKU12,Appam Mix,1091,0
+2024-12-09,SKU12,Appam Mix,1348,0
+2024-12-16,SKU12,Appam Mix,1907,0
+2024-12-23,SKU12,Appam Mix,1546,0
+2024-12-30,SKU12,Appam Mix,643,0
+2025-01-06,SKU12,Appam Mix,1025,0
+2025-01-13,SKU12,Appam Mix,921,0
+2025-01-20,SKU12,Appam Mix,1290,0
+2025-01-27,SKU12,Appam Mix,964,0
+2025-02-03,SKU12,Appam Mix,904,0
+2025-02-10,SKU12,Appam Mix,1126,0
+2025-02-17,SKU12,Appam Mix,686,0
+2025-02-24,SKU12,Appam Mix,1372,0
+2025-03-03,SKU12,Appam Mix,1045,0
+2025-03-10,SKU12,Appam Mix,883,0
+2025-03-17,SKU12,Appam Mix,1173,0
+2025-03-24,SKU12,Appam Mix,897,0
+2025-03-31,SKU12,Appam Mix,1382,0
+2025-04-07,SKU12,Appam Mix,673,0
+2025-04-14,SKU12,Appam Mix,961,0
+2025-04-21,SKU12,Appam Mix,886,0
+2025-04-28,SKU12,Appam Mix,1202,0
+2025-05-05,SKU12,Appam Mix,697,0
+2025-05-12,SKU12,Appam Mix,1278,0
+2025-05-19,SKU12,Appam Mix,1301,0
+2025-05-26,SKU12,Appam Mix,1272,0
+2025-06-02,SKU12,Appam Mix,963,0
+2025-06-09,SKU12,Appam Mix,1006,0
+2025-06-16,SKU12,Appam Mix,985,0
+2025-06-23,SKU12,Appam Mix,1528,0
+2025-06-30,SKU12,Appam Mix,1191,0
+2025-07-07,SKU12,Appam Mix,1054,0
+2025-07-14,SKU12,Appam Mix,1465,0
+2025-07-21,SKU12,Appam Mix,1160,0
+2025-07-28,SKU12,Appam Mix,1195,0
+2025-08-04,SKU12,Appam Mix,1328,0
+2025-08-11,SKU12,Appam Mix,956,0
+2025-08-18,SKU12,Appam Mix,1348,0
+2025-08-25,SKU12,Appam Mix,1108,0
+2025-09-01,SKU12,Appam Mix,1207,0
+2025-09-08,SKU12,Appam Mix,1062,0
+2025-09-15,SKU12,Appam Mix,1339,0
+2025-09-22,SKU12,Appam Mix,1278,0
+2025-09-29,SKU12,Appam Mix,1286,0
+2025-10-06,SKU12,Appam Mix,861,0
+2024-01-01,SKU13,Puttu Mix,2120,0
+2024-01-08,SKU13,Puttu Mix,1740,0
+2024-01-15,SKU13,Puttu Mix,1487,0
+2024-01-22,SKU13,Puttu Mix,1686,0
+2024-01-29,SKU13,Puttu Mix,1807,0
+2024-02-05,SKU13,Puttu Mix,1935,0
+2024-02-12,SKU13,Puttu Mix,2088,0
+2024-02-19,SKU13,Puttu Mix,1807,0
+2024-02-26,SKU13,Puttu Mix,1975,0
+2024-03-04,SKU13,Puttu Mix,1613,0
+2024-03-11,SKU13,Puttu Mix,1825,0
+2024-03-18,SKU13,Puttu Mix,1352,0
+2024-03-25,SKU13,Puttu Mix,1622,0
+2024-04-01,SKU13,Puttu Mix,2044,0
+2024-04-08,SKU13,Puttu Mix,1834,0
+2024-04-15,SKU13,Puttu Mix,1870,0
+2024-04-22,SKU13,Puttu Mix,1820,0
+2024-04-29,SKU13,Puttu Mix,1546,0
+2024-05-06,SKU13,Puttu Mix,1778,0
+2024-05-13,SKU13,Puttu Mix,2032,0
+2024-05-20,SKU13,Puttu Mix,1891,0
+2024-05-27,SKU13,Puttu Mix,1630,0
+2024-06-03,SKU13,Puttu Mix,1974,0
+2024-06-10,SKU13,Puttu Mix,2058,0
+2024-06-17,SKU13,Puttu Mix,1757,0
+2024-06-24,SKU13,Puttu Mix,1854,0
+2024-07-01,SKU13,Puttu Mix,1929,0
+2024-07-08,SKU13,Puttu Mix,1544,0
+2024-07-15,SKU13,Puttu Mix,1772,0
+2024-07-22,SKU13,Puttu Mix,1453,0
+2024-07-29,SKU13,Puttu Mix,1880,0
+2024-08-05,SKU13,Puttu Mix,2063,0
+2024-08-12,SKU13,Puttu Mix,1701,0
+2024-08-19,SKU13,Puttu Mix,1827,0
+2024-08-26,SKU13,Puttu Mix,1897,0
+2024-09-02,SKU13,Puttu Mix,1893,0
+2024-09-09,SKU13,Puttu Mix,1656,0
+2024-09-16,SKU13,Puttu Mix,1922,0
+2024-09-23,SKU13,Puttu Mix,1720,0
+2024-09-30,SKU13,Puttu Mix,1748,0
+2024-10-07,SKU13,Puttu Mix,1872,0
+2024-10-14,SKU13,Puttu Mix,1842,0
+2024-10-21,SKU13,Puttu Mix,1469,0
+2024-10-28,SKU13,Puttu Mix,1500,0
+2024-11-04,SKU13,Puttu Mix,1763,0
+2024-11-11,SKU13,Puttu Mix,2024,0
+2024-11-18,SKU13,Puttu Mix,1639,0
+2024-11-25,SKU13,Puttu Mix,2072,0
+2024-12-02,SKU13,Puttu Mix,1802,0
+2024-12-09,SKU13,Puttu Mix,1762,0
+2024-12-16,SKU13,Puttu Mix,1667,0
+2024-12-23,SKU13,Puttu Mix,1563,0
+2024-12-30,SKU13,Puttu Mix,1980,0
+2025-01-06,SKU13,Puttu Mix,1926,0
+2025-01-13,SKU13,Puttu Mix,1745,0
+2025-01-20,SKU13,Puttu Mix,1812,0
+2025-01-27,SKU13,Puttu Mix,1540,0
+2025-02-03,SKU13,Puttu Mix,1770,0
+2025-02-10,SKU13,Puttu Mix,1540,0
+2025-02-17,SKU13,Puttu Mix,1817,0
+2025-02-24,SKU13,Puttu Mix,1986,0
+2025-03-03,SKU13,Puttu Mix,2000,0
+2025-03-10,SKU13,Puttu Mix,1725,0
+2025-03-17,SKU13,Puttu Mix,1907,0
+2025-03-24,SKU13,Puttu Mix,1912,0
+2025-03-31,SKU13,Puttu Mix,1938,0
+2025-04-07,SKU13,Puttu Mix,1677,0
+2025-04-14,SKU13,Puttu Mix,1797,0
+2025-04-21,SKU13,Puttu Mix,1824,0
+2025-04-28,SKU13,Puttu Mix,1729,0
+2025-05-05,SKU13,Puttu Mix,1844,0
+2025-05-12,SKU13,Puttu Mix,1800,0
+2025-05-19,SKU13,Puttu Mix,1753,0
+2025-05-26,SKU13,Puttu Mix,2174,0
+2025-06-02,SKU13,Puttu Mix,1948,0
+2025-06-09,SKU13,Puttu Mix,1715,0
+2025-06-16,SKU13,Puttu Mix,1691,0
+2025-06-23,SKU13,Puttu Mix,1622,0
+2025-06-30,SKU13,Puttu Mix,1910,0
+2025-07-07,SKU13,Puttu Mix,1793,0
+2025-07-14,SKU13,Puttu Mix,1642,0
+2025-07-21,SKU13,Puttu Mix,1721,0
+2025-07-28,SKU13,Puttu Mix,1843,0
+2025-08-04,SKU13,Puttu Mix,1705,0
+2025-08-11,SKU13,Puttu Mix,1958,0
+2025-08-18,SKU13,Puttu Mix,1605,0
+2025-08-25,SKU13,Puttu Mix,1613,0
+2025-09-01,SKU13,Puttu Mix,1692,0
+2025-09-08,SKU13,Puttu Mix,1619,0
+2025-09-15,SKU13,Puttu Mix,1862,0
+2025-09-22,SKU13,Puttu Mix,1289,0
+2025-09-29,SKU13,Puttu Mix,2167,0
+2025-10-06,SKU13,Puttu Mix,1945,0
+2024-01-01,SKU14,Idiyappam Flour,1468,0
+2024-01-08,SKU14,Idiyappam Flour,1108,0
+2024-01-15,SKU14,Idiyappam Flour,1503,0
+2024-01-22,SKU14,Idiyappam Flour,1307,0
+2024-01-29,SKU14,Idiyappam Flour,1563,0
+2024-02-05,SKU14,Idiyappam Flour,1364,0
+2024-02-12,SKU14,Idiyappam Flour,1518,0
+2024-02-19,SKU14,Idiyappam Flour,1264,0
+2024-02-26,SKU14,Idiyappam Flour,1585,0
+2024-03-04,SKU14,Idiyappam Flour,1538,0
+2024-03-11,SKU14,Idiyappam Flour,1391,0
+2024-03-18,SKU14,Idiyappam Flour,1424,0
+2024-03-25,SKU14,Idiyappam Flour,1679,0
+2024-04-01,SKU14,Idiyappam Flour,1156,0
+2024-04-08,SKU14,Idiyappam Flour,1388,0
+2024-04-15,SKU14,Idiyappam Flour,1294,0
+2024-04-22,SKU14,Idiyappam Flour,1357,0
+2024-04-29,SKU14,Idiyappam Flour,1617,0
+2024-05-06,SKU14,Idiyappam Flour,1260,0
+2024-05-13,SKU14,Idiyappam Flour,1300,0
+2024-05-20,SKU14,Idiyappam Flour,1286,0
+2024-05-27,SKU14,Idiyappam Flour,1404,0
+2024-06-03,SKU14,Idiyappam Flour,1128,0
+2024-06-10,SKU14,Idiyappam Flour,1444,0
+2024-06-17,SKU14,Idiyappam Flour,1443,0
+2024-06-24,SKU14,Idiyappam Flour,1215,0
+2024-07-01,SKU14,Idiyappam Flour,1449,0
+2024-07-08,SKU14,Idiyappam Flour,1355,0
+2024-07-15,SKU14,Idiyappam Flour,1497,0
+2024-07-22,SKU14,Idiyappam Flour,1610,0
+2024-07-29,SKU14,Idiyappam Flour,1586,0
+2024-08-05,SKU14,Idiyappam Flour,1410,0
+2024-08-12,SKU14,Idiyappam Flour,1581,0
+2024-08-19,SKU14,Idiyappam Flour,1436,0
+2024-08-26,SKU14,Idiyappam Flour,1459,0
+2024-09-02,SKU14,Idiyappam Flour,1555,0
+2024-09-09,SKU14,Idiyappam Flour,1293,0
+2024-09-16,SKU14,Idiyappam Flour,1399,0
+2024-09-23,SKU14,Idiyappam Flour,1311,0
+2024-09-30,SKU14,Idiyappam Flour,1283,0
+2024-10-07,SKU14,Idiyappam Flour,1665,0
+2024-10-14,SKU14,Idiyappam Flour,1324,0
+2024-10-21,SKU14,Idiyappam Flour,1478,0
+2024-10-28,SKU14,Idiyappam Flour,1441,0
+2024-11-04,SKU14,Idiyappam Flour,1276,0
+2024-11-11,SKU14,Idiyappam Flour,1303,0
+2024-11-18,SKU14,Idiyappam Flour,1367,0
+2024-11-25,SKU14,Idiyappam Flour,1368,0
+2024-12-02,SKU14,Idiyappam Flour,1268,0
+2024-12-09,SKU14,Idiyappam Flour,1501,0
+2024-12-16,SKU14,Idiyappam Flour,1239,0
+2024-12-23,SKU14,Idiyappam Flour,1628,0
+2024-12-30,SKU14,Idiyappam Flour,1334,0
+2025-01-06,SKU14,Idiyappam Flour,1481,0
+2025-01-13,SKU14,Idiyappam Flour,1357,0
+2025-01-20,SKU14,Idiyappam Flour,1418,0
+2025-01-27,SKU14,Idiyappam Flour,1456,0
+2025-02-03,SKU14,Idiyappam Flour,1303,0
+2025-02-10,SKU14,Idiyappam Flour,1357,0
+2025-02-17,SKU14,Idiyappam Flour,1348,0
+2025-02-24,SKU14,Idiyappam Flour,1434,0
+2025-03-03,SKU14,Idiyappam Flour,1417,0
+2025-03-10,SKU14,Idiyappam Flour,1295,0
+2025-03-17,SKU14,Idiyappam Flour,1151,0
+2025-03-24,SKU14,Idiyappam Flour,1486,0
+2025-03-31,SKU14,Idiyappam Flour,1718,0
+2025-04-07,SKU14,Idiyappam Flour,1522,0
+2025-04-14,SKU14,Idiyappam Flour,1473,0
+2025-04-21,SKU14,Idiyappam Flour,1536,0
+2025-04-28,SKU14,Idiyappam Flour,1409,0
+2025-05-05,SKU14,Idiyappam Flour,1320,0
+2025-05-12,SKU14,Idiyappam Flour,1415,0
+2025-05-19,SKU14,Idiyappam Flour,1585,0
+2025-05-26,SKU14,Idiyappam Flour,1441,0
+2025-06-02,SKU14,Idiyappam Flour,1419,0
+2025-06-09,SKU14,Idiyappam Flour,1661,0
+2025-06-16,SKU14,Idiyappam Flour,1381,0
+2025-06-23,SKU14,Idiyappam Flour,1388,0
+2025-06-30,SKU14,Idiyappam Flour,1490,0
+2025-07-07,SKU14,Idiyappam Flour,1244,0
+2025-07-14,SKU14,Idiyappam Flour,1381,0
+2025-07-21,SKU14,Idiyappam Flour,1488,0
+2025-07-28,SKU14,Idiyappam Flour,1612,0
+2025-08-04,SKU14,Idiyappam Flour,1454,0
+2025-08-11,SKU14,Idiyappam Flour,1380,0
+2025-08-18,SKU14,Idiyappam Flour,1532,0
+2025-08-25,SKU14,Idiyappam Flour,1221,0
+2025-09-01,SKU14,Idiyappam Flour,1342,0
+2025-09-08,SKU14,Idiyappam Flour,1536,0
+2025-09-15,SKU14,Idiyappam Flour,1608,0
+2025-09-22,SKU14,Idiyappam Flour,1248,0
+2025-09-29,SKU14,Idiyappam Flour,1605,0
+2025-10-06,SKU14,Idiyappam Flour,1492,0
+2024-01-01,SKU15,Dosa Mix,1485,0
+2024-01-08,SKU15,Dosa Mix,1164,0
+2024-01-15,SKU15,Dosa Mix,1078,0
+2024-01-22,SKU15,Dosa Mix,1080,0
+2024-01-29,SKU15,Dosa Mix,1466,0
+2024-02-05,SKU15,Dosa Mix,1055,0
+2024-02-12,SKU15,Dosa Mix,1371,0
+2024-02-19,SKU15,Dosa Mix,1396,0
+2024-02-26,SKU15,Dosa Mix,1201,0
+2024-03-04,SKU15,Dosa Mix,1199,0
+2024-03-11,SKU15,Dosa Mix,1221,0
+2024-03-18,SKU15,Dosa Mix,1557,0
+2024-03-25,SKU15,Dosa Mix,1032,0
+2024-04-01,SKU15,Dosa Mix,1220,0
+2024-04-08,SKU15,Dosa Mix,1325,0
+2024-04-15,SKU15,Dosa Mix,1237,0
+2024-04-22,SKU15,Dosa Mix,1157,0
+2024-04-29,SKU15,Dosa Mix,988,0
+2024-05-06,SKU15,Dosa Mix,1161,0
+2024-05-13,SKU15,Dosa Mix,1191,0
+2024-05-20,SKU15,Dosa Mix,1221,0
+2024-05-27,SKU15,Dosa Mix,1216,0
+2024-06-03,SKU15,Dosa Mix,1159,0
+2024-06-10,SKU15,Dosa Mix,1095,0
+2024-06-17,SKU15,Dosa Mix,1001,0
+2024-06-24,SKU15,Dosa Mix,1318,0
+2024-07-01,SKU15,Dosa Mix,1212,0
+2024-07-08,SKU15,Dosa Mix,1071,0
+2024-07-15,SKU15,Dosa Mix,1354,0
+2024-07-22,SKU15,Dosa Mix,1029,0
+2024-07-29,SKU15,Dosa Mix,1175,0
+2024-08-05,SKU15,Dosa Mix,1405,0
+2024-08-12,SKU15,Dosa Mix,1047,0
+2024-08-19,SKU15,Dosa Mix,1058,0
+2024-08-26,SKU15,Dosa Mix,1147,0
+2024-09-02,SKU15,Dosa Mix,1163,0
+2024-09-09,SKU15,Dosa Mix,1319,0
+2024-09-16,SKU15,Dosa Mix,1201,0
+2024-09-23,SKU15,Dosa Mix,1368,0
+2024-09-30,SKU15,Dosa Mix,982,0
+2024-10-07,SKU15,Dosa Mix,1147,0
+2024-10-14,SKU15,Dosa Mix,1138,0
+2024-10-21,SKU15,Dosa Mix,1130,0
+2024-10-28,SKU15,Dosa Mix,1406,0
+2024-11-04,SKU15,Dosa Mix,1048,0
+2024-11-11,SKU15,Dosa Mix,1225,0
+2024-11-18,SKU15,Dosa Mix,1167,0
+2024-11-25,SKU15,Dosa Mix,1095,0
+2024-12-02,SKU15,Dosa Mix,980,0
+2024-12-09,SKU15,Dosa Mix,1164,0
+2024-12-16,SKU15,Dosa Mix,1193,0
+2024-12-23,SKU15,Dosa Mix,1184,0
+2024-12-30,SKU15,Dosa Mix,1162,0
+2025-01-06,SKU15,Dosa Mix,1311,0
+2025-01-13,SKU15,Dosa Mix,1176,0
+2025-01-20,SKU15,Dosa Mix,1120,0
+2025-01-27,SKU15,Dosa Mix,1023,0
+2025-02-03,SKU15,Dosa Mix,1302,0
+2025-02-10,SKU15,Dosa Mix,1136,0
+2025-02-17,SKU15,Dosa Mix,1245,0
+2025-02-24,SKU15,Dosa Mix,1231,0
+2025-03-03,SKU15,Dosa Mix,1268,0
+2025-03-10,SKU15,Dosa Mix,983,0
+2025-03-17,SKU15,Dosa Mix,1200,0
+2025-03-24,SKU15,Dosa Mix,922,0
+2025-03-31,SKU15,Dosa Mix,1159,0
+2025-04-07,SKU15,Dosa Mix,1123,0
+2025-04-14,SKU15,Dosa Mix,1182,0
+2025-04-21,SKU15,Dosa Mix,1180,0
+2025-04-28,SKU15,Dosa Mix,1211,0
+2025-05-05,SKU15,Dosa Mix,1325,0
+2025-05-12,SKU15,Dosa Mix,1354,0
+2025-05-19,SKU15,Dosa Mix,1156,0
+2025-05-26,SKU15,Dosa Mix,1127,0
+2025-06-02,SKU15,Dosa Mix,1186,0
+2025-06-09,SKU15,Dosa Mix,1097,0
+2025-06-16,SKU15,Dosa Mix,1050,0
+2025-06-23,SKU15,Dosa Mix,1057,0
+2025-06-30,SKU15,Dosa Mix,963,0
+2025-07-07,SKU15,Dosa Mix,1289,0
+2025-07-14,SKU15,Dosa Mix,1172,0
+2025-07-21,SKU15,Dosa Mix,1192,0
+2025-07-28,SKU15,Dosa Mix,1157,0
+2025-08-04,SKU15,Dosa Mix,1370,0
+2025-08-11,SKU15,Dosa Mix,1197,0
+2025-08-18,SKU15,Dosa Mix,1019,0
+2025-08-25,SKU15,Dosa Mix,1313,0
+2025-09-01,SKU15,Dosa Mix,1027,0
+2025-09-08,SKU15,Dosa Mix,1267,0
+2025-09-15,SKU15,Dosa Mix,1362,0
+2025-09-22,SKU15,Dosa Mix,1193,0
+2025-09-29,SKU15,Dosa Mix,1338,0
+2025-10-06,SKU15,Dosa Mix,1157,0
+2024-01-01,SKU16,Sambar Powder,3200,0
+2024-01-08,SKU16,Sambar Powder,3324,0
+2024-01-15,SKU16,Sambar Powder,3584,0
+2024-01-22,SKU16,Sambar Powder,3737,0
+2024-01-29,SKU16,Sambar Powder,3459,0
+2024-02-05,SKU16,Sambar Powder,3504,0
+2024-02-12,SKU16,Sambar Powder,3084,0
+2024-02-19,SKU16,Sambar Powder,4136,0
+2024-02-26,SKU16,Sambar Powder,3544,0
+2024-03-04,SKU16,Sambar Powder,3249,0
+2024-03-11,SKU16,Sambar Powder,3213,0
+2024-03-18,SKU16,Sambar Powder,3439,0
+2024-03-25,SKU16,Sambar Powder,3395,0
+2024-04-01,SKU16,Sambar Powder,3891,0
+2024-04-08,SKU16,Sambar Powder,3196,0
+2024-04-15,SKU16,Sambar Powder,3134,0
+2024-04-22,SKU16,Sambar Powder,3959,0
+2024-04-29,SKU16,Sambar Powder,3556,0
+2024-05-06,SKU16,Sambar Powder,3996,0
+2024-05-13,SKU16,Sambar Powder,3547,0
+2024-05-20,SKU16,Sambar Powder,3272,0
+2024-05-27,SKU16,Sambar Powder,4012,0
+2024-06-03,SKU16,Sambar Powder,2714,0
+2024-06-10,SKU16,Sambar Powder,3669,0
+2024-06-17,SKU16,Sambar Powder,3214,0
+2024-06-24,SKU16,Sambar Powder,3065,0
+2024-07-01,SKU16,Sambar Powder,3510,0
+2024-07-08,SKU16,Sambar Powder,3563,0
+2024-07-15,SKU16,Sambar Powder,4208,0
+2024-07-22,SKU16,Sambar Powder,4157,0
+2024-07-29,SKU16,Sambar Powder,3800,0
+2024-08-05,SKU16,Sambar Powder,3005,0
+2024-08-12,SKU16,Sambar Powder,3994,0
+2024-08-19,SKU16,Sambar Powder,3477,0
+2024-08-26,SKU16,Sambar Powder,3114,0
+2024-09-02,SKU16,Sambar Powder,3023,0
+2024-09-09,SKU16,Sambar Powder,2848,0
+2024-09-16,SKU16,Sambar Powder,3324,0
+2024-09-23,SKU16,Sambar Powder,3803,0
+2024-09-30,SKU16,Sambar Powder,3068,0
+2024-10-07,SKU16,Sambar Powder,3251,0
+2024-10-14,SKU16,Sambar Powder,3641,0
+2024-10-21,SKU16,Sambar Powder,3656,0
+2024-10-28,SKU16,Sambar Powder,3477,0
+2024-11-04,SKU16,Sambar Powder,3452,0
+2024-11-11,SKU16,Sambar Powder,4328,0
+2024-11-18,SKU16,Sambar Powder,3315,0
+2024-11-25,SKU16,Sambar Powder,3806,0
+2024-12-02,SKU16,Sambar Powder,3195,0
+2024-12-09,SKU16,Sambar Powder,3627,0
+2024-12-16,SKU16,Sambar Powder,3325,0
+2024-12-23,SKU16,Sambar Powder,3614,0
+2024-12-30,SKU16,Sambar Powder,3832,0
+2025-01-06,SKU16,Sambar Powder,3214,0
+2025-01-13,SKU16,Sambar Powder,3527,0
+2025-01-20,SKU16,Sambar Powder,3112,0
+2025-01-27,SKU16,Sambar Powder,3473,0
+2025-02-03,SKU16,Sambar Powder,3653,0
+2025-02-10,SKU16,Sambar Powder,3619,0
+2025-02-17,SKU16,Sambar Powder,3281,0
+2025-02-24,SKU16,Sambar Powder,3421,0
+2025-03-03,SKU16,Sambar Powder,3922,0
+2025-03-10,SKU16,Sambar Powder,3063,0
+2025-03-17,SKU16,Sambar Powder,3190,0
+2025-03-24,SKU16,Sambar Powder,3389,0
+2025-03-31,SKU16,Sambar Powder,3695,0
+2025-04-07,SKU16,Sambar Powder,3876,0
+2025-04-14,SKU16,Sambar Powder,2883,0
+2025-04-21,SKU16,Sambar Powder,3318,0
+2025-04-28,SKU16,Sambar Powder,2937,0
+2025-05-05,SKU16,Sambar Powder,3412,0
+2025-05-12,SKU16,Sambar Powder,3341,0
+2025-05-19,SKU16,Sambar Powder,3477,0
+2025-05-26,SKU16,Sambar Powder,3134,0
+2025-06-02,SKU16,Sambar Powder,3892,0
+2025-06-09,SKU16,Sambar Powder,2971,0
+2025-06-16,SKU16,Sambar Powder,3761,0
+2025-06-23,SKU16,Sambar Powder,3541,0
+2025-06-30,SKU16,Sambar Powder,3765,0
+2025-07-07,SKU16,Sambar Powder,3166,0
+2025-07-14,SKU16,Sambar Powder,3409,0
+2025-07-21,SKU16,Sambar Powder,3009,0
+2025-07-28,SKU16,Sambar Powder,4150,0
+2025-08-04,SKU16,Sambar Powder,3677,0
+2025-08-11,SKU16,Sambar Powder,3534,0
+2025-08-18,SKU16,Sambar Powder,3723,0
+2025-08-25,SKU16,Sambar Powder,2888,0
+2025-09-01,SKU16,Sambar Powder,3859,0
+2025-09-08,SKU16,Sambar Powder,3356,0
+2025-09-15,SKU16,Sambar Powder,3533,0
+2025-09-22,SKU16,Sambar Powder,2908,0
+2025-09-29,SKU16,Sambar Powder,3266,0
+2025-10-06,SKU16,Sambar Powder,3290,0
+2024-01-01,SKU17,Rasam Powder,1001,0
+2024-01-08,SKU17,Rasam Powder,1073,0
+2024-01-15,SKU17,Rasam Powder,1001,0
+2024-01-22,SKU17,Rasam Powder,1281,0
+2024-01-29,SKU17,Rasam Powder,1101,0
+2024-02-05,SKU17,Rasam Powder,1267,0
+2024-02-12,SKU17,Rasam Powder,1196,0
+2024-02-19,SKU17,Rasam Powder,981,0
+2024-02-26,SKU17,Rasam Powder,1264,0
+2024-03-04,SKU17,Rasam Powder,955,0
+2024-03-11,SKU17,Rasam Powder,890,0
+2024-03-18,SKU17,Rasam Powder,1224,0
+2024-03-25,SKU17,Rasam Powder,1269,0
+2024-04-01,SKU17,Rasam Powder,920,0
+2024-04-08,SKU17,Rasam Powder,1053,0
+2024-04-15,SKU17,Rasam Powder,1383,0
+2024-04-22,SKU17,Rasam Powder,1186,0
+2024-04-29,SKU17,Rasam Powder,1185,0
+2024-05-06,SKU17,Rasam Powder,1156,0
+2024-05-13,SKU17,Rasam Powder,1024,0
+2024-05-20,SKU17,Rasam Powder,1200,0
+2024-05-27,SKU17,Rasam Powder,994,0
+2024-06-03,SKU17,Rasam Powder,1010,0
+2024-06-10,SKU17,Rasam Powder,1045,0
+2024-06-17,SKU17,Rasam Powder,1119,0
+2024-06-24,SKU17,Rasam Powder,980,0
+2024-07-01,SKU17,Rasam Powder,1207,0
+2024-07-08,SKU17,Rasam Powder,1082,0
+2024-07-15,SKU17,Rasam Powder,1080,0
+2024-07-22,SKU17,Rasam Powder,1090,0
+2024-07-29,SKU17,Rasam Powder,1093,0
+2024-08-05,SKU17,Rasam Powder,1159,0
+2024-08-12,SKU17,Rasam Powder,1121,0
+2024-08-19,SKU17,Rasam Powder,1152,0
+2024-08-26,SKU17,Rasam Powder,1087,0
+2024-09-02,SKU17,Rasam Powder,927,0
+2024-09-09,SKU17,Rasam Powder,994,0
+2024-09-16,SKU17,Rasam Powder,1083,0
+2024-09-23,SKU17,Rasam Powder,1111,0
+2024-09-30,SKU17,Rasam Powder,1003,0
+2024-10-07,SKU17,Rasam Powder,967,0
+2024-10-14,SKU17,Rasam Powder,1035,0
+2024-10-21,SKU17,Rasam Powder,1244,0
+2024-10-28,SKU17,Rasam Powder,1023,0
+2024-11-04,SKU17,Rasam Powder,1219,0
+2024-11-11,SKU17,Rasam Powder,1037,0
+2024-11-18,SKU17,Rasam Powder,1278,0
+2024-11-25,SKU17,Rasam Powder,1038,0
+2024-12-02,SKU17,Rasam Powder,1082,0
+2024-12-09,SKU17,Rasam Powder,1125,0
+2024-12-16,SKU17,Rasam Powder,1130,0
+2024-12-23,SKU17,Rasam Powder,978,0
+2024-12-30,SKU17,Rasam Powder,869,0
+2025-01-06,SKU17,Rasam Powder,1077,0
+2025-01-13,SKU17,Rasam Powder,1145,0
+2025-01-20,SKU17,Rasam Powder,1061,0
+2025-01-27,SKU17,Rasam Powder,1323,0
+2025-02-03,SKU17,Rasam Powder,901,0
+2025-02-10,SKU17,Rasam Powder,985,0
+2025-02-17,SKU17,Rasam Powder,1110,0
+2025-02-24,SKU17,Rasam Powder,1238,0
+2025-03-03,SKU17,Rasam Powder,884,0
+2025-03-10,SKU17,Rasam Powder,1168,0
+2025-03-17,SKU17,Rasam Powder,1050,0
+2025-03-24,SKU17,Rasam Powder,1234,0
+2025-03-31,SKU17,Rasam Powder,948,0
+2025-04-07,SKU17,Rasam Powder,1067,0
+2025-04-14,SKU17,Rasam Powder,1121,0
+2025-04-21,SKU17,Rasam Powder,1119,0
+2025-04-28,SKU17,Rasam Powder,910,0
+2025-05-05,SKU17,Rasam Powder,1250,0
+2025-05-12,SKU17,Rasam Powder,1054,0
+2025-05-19,SKU17,Rasam Powder,1186,0
+2025-05-26,SKU17,Rasam Powder,1036,0
+2025-06-02,SKU17,Rasam Powder,1075,0
+2025-06-09,SKU17,Rasam Powder,1197,0
+2025-06-16,SKU17,Rasam Powder,1069,0
+2025-06-23,SKU17,Rasam Powder,1075,0
+2025-06-30,SKU17,Rasam Powder,1280,0
+2025-07-07,SKU17,Rasam Powder,1175,0
+2025-07-14,SKU17,Rasam Powder,1154,0
+2025-07-21,SKU17,Rasam Powder,1160,0
+2025-07-28,SKU17,Rasam Powder,997,0
+2025-08-04,SKU17,Rasam Powder,1122,0
+2025-08-11,SKU17,Rasam Powder,1565,0
+2025-08-18,SKU17,Rasam Powder,1079,0
+2025-08-25,SKU17,Rasam Powder,1163,0
+2025-09-01,SKU17,Rasam Powder,1019,0
+2025-09-08,SKU17,Rasam Powder,898,0
+2025-09-15,SKU17,Rasam Powder,1083,0
+2025-09-22,SKU17,Rasam Powder,1040,0
+2025-09-29,SKU17,Rasam Powder,1022,0
+2025-10-06,SKU17,Rasam Powder,1066,0
+2024-01-01,SKU18,Chicken Masala,2093,0
+2024-01-08,SKU18,Chicken Masala,2909,0
+2024-01-15,SKU18,Chicken Masala,3179,0
+2024-01-22,SKU18,Chicken Masala,2644,0
+2024-01-29,SKU18,Chicken Masala,2366,0
+2024-02-05,SKU18,Chicken Masala,3355,0
+2024-02-12,SKU18,Chicken Masala,2057,0
+2024-02-19,SKU18,Chicken Masala,1625,0
+2024-02-26,SKU18,Chicken Masala,2675,0
+2024-03-04,SKU18,Chicken Masala,2423,0
+2024-03-11,SKU18,Chicken Masala,3459,0
+2024-03-18,SKU18,Chicken Masala,2758,0
+2024-03-25,SKU18,Chicken Masala,3195,0
+2024-04-01,SKU18,Chicken Masala,2461,0
+2024-04-08,SKU18,Chicken Masala,3766,0
+2024-04-15,SKU18,Chicken Masala,2506,0
+2024-04-22,SKU18,Chicken Masala,4512,0
+2024-04-29,SKU18,Chicken Masala,3741,0
+2024-05-06,SKU18,Chicken Masala,2164,0
+2024-05-13,SKU18,Chicken Masala,2901,0
+2024-05-20,SKU18,Chicken Masala,2486,0
+2024-05-27,SKU18,Chicken Masala,2702,0
+2024-06-03,SKU18,Chicken Masala,1257,0
+2024-06-10,SKU18,Chicken Masala,2420,0
+2024-06-17,SKU18,Chicken Masala,1348,0
+2024-06-24,SKU18,Chicken Masala,2405,0
+2024-07-01,SKU18,Chicken Masala,1470,0
+2024-07-08,SKU18,Chicken Masala,2635,0
+2024-07-15,SKU18,Chicken Masala,2305,0
+2024-07-22,SKU18,Chicken Masala,2597,0
+2024-07-29,SKU18,Chicken Masala,1837,0
+2024-08-05,SKU18,Chicken Masala,2354,0
+2024-08-12,SKU18,Chicken Masala,2377,0
+2024-08-19,SKU18,Chicken Masala,1870,0
+2024-08-26,SKU18,Chicken Masala,2145,0
+2024-09-02,SKU18,Chicken Masala,2792,0
+2024-09-09,SKU18,Chicken Masala,2783,0
+2024-09-16,SKU18,Chicken Masala,2747,0
+2024-09-23,SKU18,Chicken Masala,2867,0
+2024-09-30,SKU18,Chicken Masala,2321,0
+2024-10-07,SKU18,Chicken Masala,2836,0
+2024-10-14,SKU18,Chicken Masala,2353,0
+2024-10-21,SKU18,Chicken Masala,2619,0
+2024-10-28,SKU18,Chicken Masala,2410,0
+2024-11-04,SKU18,Chicken Masala,2827,0
+2024-11-11,SKU18,Chicken Masala,2647,0
+2024-11-18,SKU18,Chicken Masala,2012,0
+2024-11-25,SKU18,Chicken Masala,2864,0
+2024-12-02,SKU18,Chicken Masala,2703,0
+2024-12-09,SKU18,Chicken Masala,2652,0
+2024-12-16,SKU18,Chicken Masala,3011,0
+2024-12-23,SKU18,Chicken Masala,3122,0
+2024-12-30,SKU18,Chicken Masala,2837,0
+2025-01-06,SKU18,Chicken Masala,2029,0
+2025-01-13,SKU18,Chicken Masala,2876,0
+2025-01-20,SKU18,Chicken Masala,1641,0
+2025-01-27,SKU18,Chicken Masala,3432,0
+2025-02-03,SKU18,Chicken Masala,2731,0
+2025-02-10,SKU18,Chicken Masala,2684,0
+2025-02-17,SKU18,Chicken Masala,1493,0
+2025-02-24,SKU18,Chicken Masala,2340,0
+2025-03-03,SKU18,Chicken Masala,2114,0
+2025-03-10,SKU18,Chicken Masala,2355,0
+2025-03-17,SKU18,Chicken Masala,2939,0
+2025-03-24,SKU18,Chicken Masala,4461,0
+2025-03-31,SKU18,Chicken Masala,2540,0
+2025-04-07,SKU18,Chicken Masala,2093,0
+2025-04-14,SKU18,Chicken Masala,2862,0
+2025-04-21,SKU18,Chicken Masala,3284,0
+2025-04-28,SKU18,Chicken Masala,2710,0
+2025-05-05,SKU18,Chicken Masala,2178,0
+2025-05-12,SKU18,Chicken Masala,2440,0
+2025-05-19,SKU18,Chicken Masala,3256,0
+2025-05-26,SKU18,Chicken Masala,2184,0
+2025-06-02,SKU18,Chicken Masala,2027,0
+2025-06-09,SKU18,Chicken Masala,2237,0
+2025-06-16,SKU18,Chicken Masala,3305,0
+2025-06-23,SKU18,Chicken Masala,2573,0
+2025-06-30,SKU18,Chicken Masala,3595,0
+2025-07-07,SKU18,Chicken Masala,1743,0
+2025-07-14,SKU18,Chicken Masala,2862,0
+2025-07-21,SKU18,Chicken Masala,2163,0
+2025-07-28,SKU18,Chicken Masala,2687,0
+2025-08-04,SKU18,Chicken Masala,3293,0
+2025-08-11,SKU18,Chicken Masala,2165,0
+2025-08-18,SKU18,Chicken Masala,2899,0
+2025-08-25,SKU18,Chicken Masala,3043,0
+2025-09-01,SKU18,Chicken Masala,3002,0
+2025-09-08,SKU18,Chicken Masala,2101,0
+2025-09-15,SKU18,Chicken Masala,2181,0
+2025-09-22,SKU18,Chicken Masala,1995,0
+2025-09-29,SKU18,Chicken Masala,2550,0
+2025-10-06,SKU18,Chicken Masala,1895,0
+2024-01-01,SKU19,Fish Curry Masala,1920,0
+2024-01-08,SKU19,Fish Curry Masala,1639,0
+2024-01-15,SKU19,Fish Curry Masala,1603,0
+2024-01-22,SKU19,Fish Curry Masala,1851,0
+2024-01-29,SKU19,Fish Curry Masala,1618,0
+2024-02-05,SKU19,Fish Curry Masala,1871,0
+2024-02-12,SKU19,Fish Curry Masala,1731,0
+2024-02-19,SKU19,Fish Curry Masala,1523,0
+2024-02-26,SKU19,Fish Curry Masala,1514,0
+2024-03-04,SKU19,Fish Curry Masala,1631,0
+2024-03-11,SKU19,Fish Curry Masala,1621,0
+2024-03-18,SKU19,Fish Curry Masala,1725,0
+2024-03-25,SKU19,Fish Curry Masala,1583,0
+2024-04-01,SKU19,Fish Curry Masala,1704,0
+2024-04-08,SKU19,Fish Curry Masala,1637,0
+2024-04-15,SKU19,Fish Curry Masala,1378,0
+2024-04-22,SKU19,Fish Curry Masala,1943,0
+2024-04-29,SKU19,Fish Curry Masala,2022,0
+2024-05-06,SKU19,Fish Curry Masala,1609,0
+2024-05-13,SKU19,Fish Curry Masala,1440,0
+2024-05-20,SKU19,Fish Curry Masala,1603,0
+2024-05-27,SKU19,Fish Curry Masala,1471,0
+2024-06-03,SKU19,Fish Curry Masala,1803,0
+2024-06-10,SKU19,Fish Curry Masala,2118,0
+2024-06-17,SKU19,Fish Curry Masala,1467,0
+2024-06-24,SKU19,Fish Curry Masala,1932,0
+2024-07-01,SKU19,Fish Curry Masala,1870,0
+2024-07-08,SKU19,Fish Curry Masala,1684,0
+2024-07-15,SKU19,Fish Curry Masala,1909,0
+2024-07-22,SKU19,Fish Curry Masala,1912,0
+2024-07-29,SKU19,Fish Curry Masala,1490,0
+2024-08-05,SKU19,Fish Curry Masala,1761,0
+2024-08-12,SKU19,Fish Curry Masala,1476,0
+2024-08-19,SKU19,Fish Curry Masala,1624,0
+2024-08-26,SKU19,Fish Curry Masala,1755,0
+2024-09-02,SKU19,Fish Curry Masala,1647,0
+2024-09-09,SKU19,Fish Curry Masala,1704,0
+2024-09-16,SKU19,Fish Curry Masala,2027,0
+2024-09-23,SKU19,Fish Curry Masala,1579,0
+2024-09-30,SKU19,Fish Curry Masala,1595,0
+2024-10-07,SKU19,Fish Curry Masala,1583,0
+2024-10-14,SKU19,Fish Curry Masala,1662,0
+2024-10-21,SKU19,Fish Curry Masala,1421,0
+2024-10-28,SKU19,Fish Curry Masala,1820,0
+2024-11-04,SKU19,Fish Curry Masala,1612,0
+2024-11-11,SKU19,Fish Curry Masala,1901,0
+2024-11-18,SKU19,Fish Curry Masala,1806,0
+2024-11-25,SKU19,Fish Curry Masala,1459,0
+2024-12-02,SKU19,Fish Curry Masala,1799,0
+2024-12-09,SKU19,Fish Curry Masala,1643,0
+2024-12-16,SKU19,Fish Curry Masala,1514,0
+2024-12-23,SKU19,Fish Curry Masala,1330,0
+2024-12-30,SKU19,Fish Curry Masala,1366,0
+2025-01-06,SKU19,Fish Curry Masala,1727,0
+2025-01-13,SKU19,Fish Curry Masala,1571,0
+2025-01-20,SKU19,Fish Curry Masala,1508,0
+2025-01-27,SKU19,Fish Curry Masala,1393,0
+2025-02-03,SKU19,Fish Curry Masala,2134,0
+2025-02-10,SKU19,Fish Curry Masala,1477,0
+2025-02-17,SKU19,Fish Curry Masala,1711,0
+2025-02-24,SKU19,Fish Curry Masala,1847,0
+2025-03-03,SKU19,Fish Curry Masala,1925,0
+2025-03-10,SKU19,Fish Curry Masala,1799,0
+2025-03-17,SKU19,Fish Curry Masala,1629,0
+2025-03-24,SKU19,Fish Curry Masala,1850,0
+2025-03-31,SKU19,Fish Curry Masala,1815,0
+2025-04-07,SKU19,Fish Curry Masala,1742,0
+2025-04-14,SKU19,Fish Curry Masala,1461,0
+2025-04-21,SKU19,Fish Curry Masala,1335,0
+2025-04-28,SKU19,Fish Curry Masala,1751,0
+2025-05-05,SKU19,Fish Curry Masala,1737,0
+2025-05-12,SKU19,Fish Curry Masala,1630,0
+2025-05-19,SKU19,Fish Curry Masala,1737,0
+2025-05-26,SKU19,Fish Curry Masala,1868,0
+2025-06-02,SKU19,Fish Curry Masala,2066,0
+2025-06-09,SKU19,Fish Curry Masala,1737,0
+2025-06-16,SKU19,Fish Curry Masala,1792,0
+2025-06-23,SKU19,Fish Curry Masala,1613,0
+2025-06-30,SKU19,Fish Curry Masala,1470,0
+2025-07-07,SKU19,Fish Curry Masala,1767,0
+2025-07-14,SKU19,Fish Curry Masala,1866,0
+2025-07-21,SKU19,Fish Curry Masala,1800,0
+2025-07-28,SKU19,Fish Curry Masala,1709,0
+2025-08-04,SKU19,Fish Curry Masala,1467,0
+2025-08-11,SKU19,Fish Curry Masala,1619,0
+2025-08-18,SKU19,Fish Curry Masala,1587,0
+2025-08-25,SKU19,Fish Curry Masala,1724,0
+2025-09-01,SKU19,Fish Curry Masala,1450,0
+2025-09-08,SKU19,Fish Curry Masala,1656,0
+2025-09-15,SKU19,Fish Curry Masala,1500,0
+2025-09-22,SKU19,Fish Curry Masala,1775,0
+2025-09-29,SKU19,Fish Curry Masala,1520,0
+2025-10-06,SKU19,Fish Curry Masala,1423,0
+2024-01-01,SKU20,Garam Masala,1562,0
+2024-01-08,SKU20,Garam Masala,1557,0
+2024-01-15,SKU20,Garam Masala,1161,0
+2024-01-22,SKU20,Garam Masala,935,0
+2024-01-29,SKU20,Garam Masala,789,0
+2024-02-05,SKU20,Garam Masala,1207,0
+2024-02-12,SKU20,Garam Masala,1028,0
+2024-02-19,SKU20,Garam Masala,974,0
+2024-02-26,SKU20,Garam Masala,1441,0
+2024-03-04,SKU20,Garam Masala,1296,0
+2024-03-11,SKU20,Garam Masala,1562,0
+2024-03-18,SKU20,Garam Masala,1077,0
+2024-03-25,SKU20,Garam Masala,1320,0
+2024-04-01,SKU20,Garam Masala,1572,0
+2024-04-08,SKU20,Garam Masala,2176,0
+2024-04-15,SKU20,Garam Masala,1612,0
+2024-04-22,SKU20,Garam Masala,1797,0
+2024-04-29,SKU20,Garam Masala,1145,0
+2024-05-06,SKU20,Garam Masala,2360,0
+2024-05-13,SKU20,Garam Masala,1794,0
+2024-05-20,SKU20,Garam Masala,1442,0
+2024-05-27,SKU20,Garam Masala,1406,0
+2024-06-03,SKU20,Garam Masala,1025,0
+2024-06-10,SKU20,Garam Masala,904,0
+2024-06-17,SKU20,Garam Masala,1885,0
+2024-06-24,SKU20,Garam Masala,1477,0
+2024-07-01,SKU20,Garam Masala,1444,0
+2024-07-08,SKU20,Garam Masala,797,0
+2024-07-15,SKU20,Garam Masala,1265,0
+2024-07-22,SKU20,Garam Masala,1268,0
+2024-07-29,SKU20,Garam Masala,1564,0
+2024-08-05,SKU20,Garam Masala,1484,0
+2024-08-12,SKU20,Garam Masala,1694,0
+2024-08-19,SKU20,Garam Masala,1586,0
+2024-08-26,SKU20,Garam Masala,1408,0
+2024-09-02,SKU20,Garam Masala,1842,0
+2024-09-09,SKU20,Garam Masala,1811,0
+2024-09-16,SKU20,Garam Masala,1009,0
+2024-09-23,SKU20,Garam Masala,1650,0
+2024-09-30,SKU20,Garam Masala,1008,0
+2024-10-07,SKU20,Garam Masala,1438,0
+2024-10-14,SKU20,Garam Masala,987,0
+2024-10-21,SKU20,Garam Masala,1628,0
+2024-10-28,SKU20,Garam Masala,1455,0
+2024-11-04,SKU20,Garam Masala,1112,0
+2024-11-11,SKU20,Garam Masala,1037,0
+2024-11-18,SKU20,Garam Masala,1709,0
+2024-11-25,SKU20,Garam Masala,1492,0
+2024-12-02,SKU20,Garam Masala,1621,0
+2024-12-09,SKU20,Garam Masala,1926,0
+2024-12-16,SKU20,Garam Masala,1266,0
+2024-12-23,SKU20,Garam Masala,1810,0
+2024-12-30,SKU20,Garam Masala,1476,0
+2025-01-06,SKU20,Garam Masala,1138,0
+2025-01-13,SKU20,Garam Masala,965,0
+2025-01-20,SKU20,Garam Masala,942,0
+2025-01-27,SKU20,Garam Masala,1437,0
+2025-02-03,SKU20,Garam Masala,1505,0
+2025-02-10,SKU20,Garam Masala,1766,0
+2025-02-17,SKU20,Garam Masala,1468,0
+2025-02-24,SKU20,Garam Masala,1467,0
+2025-03-03,SKU20,Garam Masala,1019,0
+2025-03-10,SKU20,Garam Masala,1519,0
+2025-03-17,SKU20,Garam Masala,1795,0
+2025-03-24,SKU20,Garam Masala,1870,0
+2025-03-31,SKU20,Garam Masala,1500,0
+2025-04-07,SKU20,Garam Masala,905,0
+2025-04-14,SKU20,Garam Masala,1408,0
+2025-04-21,SKU20,Garam Masala,1649,0
+2025-04-28,SKU20,Garam Masala,1014,0
+2025-05-05,SKU20,Garam Masala,1126,0
+2025-05-12,SKU20,Garam Masala,1112,0
+2025-05-19,SKU20,Garam Masala,1776,0
+2025-05-26,SKU20,Garam Masala,1403,0
+2025-06-02,SKU20,Garam Masala,1403,0
+2025-06-09,SKU20,Garam Masala,577,0
+2025-06-16,SKU20,Garam Masala,1951,0
+2025-06-23,SKU20,Garam Masala,1489,0
+2025-06-30,SKU20,Garam Masala,1108,0
+2025-07-07,SKU20,Garam Masala,1481,0
+2025-07-14,SKU20,Garam Masala,1563,0
+2025-07-21,SKU20,Garam Masala,1628,0
+2025-07-28,SKU20,Garam Masala,1236,0
+2025-08-04,SKU20,Garam Masala,1817,0
+2025-08-11,SKU20,Garam Masala,2153,0
+2025-08-18,SKU20,Garam Masala,1383,0
+2025-08-25,SKU20,Garam Masala,1405,0
+2025-09-01,SKU20,Garam Masala,1314,0
+2025-09-08,SKU20,Garam Masala,1152,0
+2025-09-15,SKU20,Garam Masala,1159,0
+2025-09-22,SKU20,Garam Masala,1100,0
+2025-09-29,SKU20,Garam Masala,1100,0
+2025-10-06,SKU20,Garam Masala,1314,0
+2024-01-01,SKU21,Turmeric Powder,2198,0
+2024-01-08,SKU21,Turmeric Powder,2152,0
+2024-01-15,SKU21,Turmeric Powder,2480,0
+2024-01-22,SKU21,Turmeric Powder,2195,0
+2024-01-29,SKU21,Turmeric Powder,2594,0
+2024-02-05,SKU21,Turmeric Powder,2470,0
+2024-02-12,SKU21,Turmeric Powder,2306,0
+2024-02-19,SKU21,Turmeric Powder,2112,0
+2024-02-26,SKU21,Turmeric Powder,2285,0
+2024-03-04,SKU21,Turmeric Powder,1941,0
+2024-03-11,SKU21,Turmeric Powder,2193,0
+2024-03-18,SKU21,Turmeric Powder,2225,0
+2024-03-25,SKU21,Turmeric Powder,2177,0
+2024-04-01,SKU21,Turmeric Powder,1936,0
+2024-04-08,SKU21,Turmeric Powder,2276,0
+2024-04-15,SKU21,Turmeric Powder,2239,0
+2024-04-22,SKU21,Turmeric Powder,2312,0
+2024-04-29,SKU21,Turmeric Powder,1939,0
+2024-05-06,SKU21,Turmeric Powder,2029,0
+2024-05-13,SKU21,Turmeric Powder,2375,0
+2024-05-20,SKU21,Turmeric Powder,1897,0
+2024-05-27,SKU21,Turmeric Powder,2098,0
+2024-06-03,SKU21,Turmeric Powder,2365,0
+2024-06-10,SKU21,Turmeric Powder,2175,0
+2024-06-17,SKU21,Turmeric Powder,2673,0
+2024-06-24,SKU21,Turmeric Powder,2237,0
+2024-07-01,SKU21,Turmeric Powder,1757,0
+2024-07-08,SKU21,Turmeric Powder,2132,0
+2024-07-15,SKU21,Turmeric Powder,2174,0
+2024-07-22,SKU21,Turmeric Powder,2076,0
+2024-07-29,SKU21,Turmeric Powder,2161,0
+2024-08-05,SKU21,Turmeric Powder,1898,0
+2024-08-12,SKU21,Turmeric Powder,2558,0
+2024-08-19,SKU21,Turmeric Powder,2036,0
+2024-08-26,SKU21,Turmeric Powder,1995,0
+2024-09-02,SKU21,Turmeric Powder,1966,0
+2024-09-09,SKU21,Turmeric Powder,2098,0
+2024-09-16,SKU21,Turmeric Powder,2204,0
+2024-09-23,SKU21,Turmeric Powder,2391,0
+2024-09-30,SKU21,Turmeric Powder,2160,0
+2024-10-07,SKU21,Turmeric Powder,2761,0
+2024-10-14,SKU21,Turmeric Powder,1565,0
+2024-10-21,SKU21,Turmeric Powder,2090,0
+2024-10-28,SKU21,Turmeric Powder,2390,0
+2024-11-04,SKU21,Turmeric Powder,2360,0
+2024-11-11,SKU21,Turmeric Powder,2225,0
+2024-11-18,SKU21,Turmeric Powder,2531,0
+2024-11-25,SKU21,Turmeric Powder,1752,0
+2024-12-02,SKU21,Turmeric Powder,2214,0
+2024-12-09,SKU21,Turmeric Powder,2139,0
+2024-12-16,SKU21,Turmeric Powder,2317,0
+2024-12-23,SKU21,Turmeric Powder,2056,0
+2024-12-30,SKU21,Turmeric Powder,2073,0
+2025-01-06,SKU21,Turmeric Powder,2247,0
+2025-01-13,SKU21,Turmeric Powder,2425,0
+2025-01-20,SKU21,Turmeric Powder,1938,0
+2025-01-27,SKU21,Turmeric Powder,2511,0
+2025-02-03,SKU21,Turmeric Powder,1891,0
+2025-02-10,SKU21,Turmeric Powder,2132,0
+2025-02-17,SKU21,Turmeric Powder,2037,0
+2025-02-24,SKU21,Turmeric Powder,1795,0
+2025-03-03,SKU21,Turmeric Powder,2569,0
+2025-03-10,SKU21,Turmeric Powder,2431,0
+2025-03-17,SKU21,Turmeric Powder,2067,0
+2025-03-24,SKU21,Turmeric Powder,2542,0
+2025-03-31,SKU21,Turmeric Powder,2088,0
+2025-04-07,SKU21,Turmeric Powder,2310,0
+2025-04-14,SKU21,Turmeric Powder,2126,0
+2025-04-21,SKU21,Turmeric Powder,2373,0
+2025-04-28,SKU21,Turmeric Powder,1903,0
+2025-05-05,SKU21,Turmeric Powder,2127,0
+2025-05-12,SKU21,Turmeric Powder,2824,0
+2025-05-19,SKU21,Turmeric Powder,2411,0
+2025-05-26,SKU21,Turmeric Powder,2500,0
+2025-06-02,SKU21,Turmeric Powder,2148,0
+2025-06-09,SKU21,Turmeric Powder,1948,0
+2025-06-16,SKU21,Turmeric Powder,2280,0
+2025-06-23,SKU21,Turmeric Powder,1837,0
+2025-06-30,SKU21,Turmeric Powder,1931,0
+2025-07-07,SKU21,Turmeric Powder,2306,0
+2025-07-14,SKU21,Turmeric Powder,1757,0
+2025-07-21,SKU21,Turmeric Powder,2112,0
+2025-07-28,SKU21,Turmeric Powder,1903,0
+2025-08-04,SKU21,Turmeric Powder,2384,0
+2025-08-11,SKU21,Turmeric Powder,2154,0
+2025-08-18,SKU21,Turmeric Powder,2065,0
+2025-08-25,SKU21,Turmeric Powder,1956,0
+2025-09-01,SKU21,Turmeric Powder,1914,0
+2025-09-08,SKU21,Turmeric Powder,1989,0
+2025-09-15,SKU21,Turmeric Powder,2045,0
+2025-09-22,SKU21,Turmeric Powder,2154,0
+2025-09-29,SKU21,Turmeric Powder,2334,0
+2025-10-06,SKU21,Turmeric Powder,2035,0
+2024-01-01,SKU22,Chilli Powder,2818,0
+2024-01-08,SKU22,Chilli Powder,2959,0
+2024-01-15,SKU22,Chilli Powder,2737,0
+2024-01-22,SKU22,Chilli Powder,2270,0
+2024-01-29,SKU22,Chilli Powder,2291,0
+2024-02-05,SKU22,Chilli Powder,2290,0
+2024-02-12,SKU22,Chilli Powder,2883,0
+2024-02-19,SKU22,Chilli Powder,2505,0
+2024-02-26,SKU22,Chilli Powder,2568,0
+2024-03-04,SKU22,Chilli Powder,2374,0
+2024-03-11,SKU22,Chilli Powder,2317,0
+2024-03-18,SKU22,Chilli Powder,2302,0
+2024-03-25,SKU22,Chilli Powder,2111,0
+2024-04-01,SKU22,Chilli Powder,2207,0
+2024-04-08,SKU22,Chilli Powder,2208,0
+2024-04-15,SKU22,Chilli Powder,2106,0
+2024-04-22,SKU22,Chilli Powder,2330,0
+2024-04-29,SKU22,Chilli Powder,2338,0
+2024-05-06,SKU22,Chilli Powder,2553,0
+2024-05-13,SKU22,Chilli Powder,2474,0
+2024-05-20,SKU22,Chilli Powder,2251,0
+2024-05-27,SKU22,Chilli Powder,2331,0
+2024-06-03,SKU22,Chilli Powder,2728,0
+2024-06-10,SKU22,Chilli Powder,2620,0
+2024-06-17,SKU22,Chilli Powder,2409,0
+2024-06-24,SKU22,Chilli Powder,2536,0
+2024-07-01,SKU22,Chilli Powder,2241,0
+2024-07-08,SKU22,Chilli Powder,2256,0
+2024-07-15,SKU22,Chilli Powder,2224,0
+2024-07-22,SKU22,Chilli Powder,2608,0
+2024-07-29,SKU22,Chilli Powder,2376,0
+2024-08-05,SKU22,Chilli Powder,2136,0
+2024-08-12,SKU22,Chilli Powder,2469,0
+2024-08-19,SKU22,Chilli Powder,2505,0
+2024-08-26,SKU22,Chilli Powder,2432,0
+2024-09-02,SKU22,Chilli Powder,2109,0
+2024-09-09,SKU22,Chilli Powder,2421,0
+2024-09-16,SKU22,Chilli Powder,2729,0
+2024-09-23,SKU22,Chilli Powder,2242,0
+2024-09-30,SKU22,Chilli Powder,2224,0
+2024-10-07,SKU22,Chilli Powder,2200,0
+2024-10-14,SKU22,Chilli Powder,2412,0
+2024-10-21,SKU22,Chilli Powder,2462,0
+2024-10-28,SKU22,Chilli Powder,2449,0
+2024-11-04,SKU22,Chilli Powder,2280,0
+2024-11-11,SKU22,Chilli Powder,2201,0
+2024-11-18,SKU22,Chilli Powder,2305,0
+2024-11-25,SKU22,Chilli Powder,2546,0
+2024-12-02,SKU22,Chilli Powder,2525,0
+2024-12-09,SKU22,Chilli Powder,2413,0
+2024-12-16,SKU22,Chilli Powder,2814,0
+2024-12-23,SKU22,Chilli Powder,2207,0
+2024-12-30,SKU22,Chilli Powder,2215,0
+2025-01-06,SKU22,Chilli Powder,2269,0
+2025-01-13,SKU22,Chilli Powder,1927,0
+2025-01-20,SKU22,Chilli Powder,2021,0
+2025-01-27,SKU22,Chilli Powder,2428,0
+2025-02-03,SKU22,Chilli Powder,2185,0
+2025-02-10,SKU22,Chilli Powder,2610,0
+2025-02-17,SKU22,Chilli Powder,2394,0
+2025-02-24,SKU22,Chilli Powder,2521,0
+2025-03-03,SKU22,Chilli Powder,1678,0
+2025-03-10,SKU22,Chilli Powder,2572,0
+2025-03-17,SKU22,Chilli Powder,2604,0
+2025-03-24,SKU22,Chilli Powder,2662,0
+2025-03-31,SKU22,Chilli Powder,2208,0
+2025-04-07,SKU22,Chilli Powder,2332,0
+2025-04-14,SKU22,Chilli Powder,3017,0
+2025-04-21,SKU22,Chilli Powder,2541,0
+2025-04-28,SKU22,Chilli Powder,2493,0
+2025-05-05,SKU22,Chilli Powder,2296,0
+2025-05-12,SKU22,Chilli Powder,2244,0
+2025-05-19,SKU22,Chilli Powder,2540,0
+2025-05-26,SKU22,Chilli Powder,2536,0
+2025-06-02,SKU22,Chilli Powder,2489,0
+2025-06-09,SKU22,Chilli Powder,2168,0
+2025-06-16,SKU22,Chilli Powder,2134,0
+2025-06-23,SKU22,Chilli Powder,2766,0
+2025-06-30,SKU22,Chilli Powder,2375,0
+2025-07-07,SKU22,Chilli Powder,2079,0
+2025-07-14,SKU22,Chilli Powder,2464,0
+2025-07-21,SKU22,Chilli Powder,2390,0
+2025-07-28,SKU22,Chilli Powder,2751,0
+2025-08-04,SKU22,Chilli Powder,2726,0
+2025-08-11,SKU22,Chilli Powder,2588,0
+2025-08-18,SKU22,Chilli Powder,2324,0
+2025-08-25,SKU22,Chilli Powder,2209,0
+2025-09-01,SKU22,Chilli Powder,2103,0
+2025-09-08,SKU22,Chilli Powder,2626,0
+2025-09-15,SKU22,Chilli Powder,2340,0
+2025-09-22,SKU22,Chilli Powder,2583,0
+2025-09-29,SKU22,Chilli Powder,2249,0
+2025-10-06,SKU22,Chilli Powder,1820,0
+2024-01-01,SKU23,Coriander Powder,1991,0
+2024-01-08,SKU23,Coriander Powder,2055,0
+2024-01-15,SKU23,Coriander Powder,1839,0
+2024-01-22,SKU23,Coriander Powder,1601,0
+2024-01-29,SKU23,Coriander Powder,1565,0
+2024-02-05,SKU23,Coriander Powder,2031,0
+2024-02-12,SKU23,Coriander Powder,2493,0
+2024-02-19,SKU23,Coriander Powder,1727,0
+2024-02-26,SKU23,Coriander Powder,1945,0
+2024-03-04,SKU23,Coriander Powder,2034,0
+2024-03-11,SKU23,Coriander Powder,1931,0
+2024-03-18,SKU23,Coriander Powder,1989,0
+2024-03-25,SKU23,Coriander Powder,2228,0
+2024-04-01,SKU23,Coriander Powder,2010,0
+2024-04-08,SKU23,Coriander Powder,1976,0
+2024-04-15,SKU23,Coriander Powder,2043,0
+2024-04-22,SKU23,Coriander Powder,2103,0
+2024-04-29,SKU23,Coriander Powder,2033,0
+2024-05-06,SKU23,Coriander Powder,2075,0
+2024-05-13,SKU23,Coriander Powder,2069,0
+2024-05-20,SKU23,Coriander Powder,1888,0
+2024-05-27,SKU23,Coriander Powder,1932,0
+2024-06-03,SKU23,Coriander Powder,1943,0
+2024-06-10,SKU23,Coriander Powder,1985,0
+2024-06-17,SKU23,Coriander Powder,2407,0
+2024-06-24,SKU23,Coriander Powder,1876,0
+2024-07-01,SKU23,Coriander Powder,2434,0
+2024-07-08,SKU23,Coriander Powder,2022,0
+2024-07-15,SKU23,Coriander Powder,1792,0
+2024-07-22,SKU23,Coriander Powder,2208,0
+2024-07-29,SKU23,Coriander Powder,1905,0
+2024-08-05,SKU23,Coriander Powder,2228,0
+2024-08-12,SKU23,Coriander Powder,1746,0
+2024-08-19,SKU23,Coriander Powder,2070,0
+2024-08-26,SKU23,Coriander Powder,2094,0
+2024-09-02,SKU23,Coriander Powder,2094,0
+2024-09-09,SKU23,Coriander Powder,2392,0
+2024-09-16,SKU23,Coriander Powder,1941,0
+2024-09-23,SKU23,Coriander Powder,2043,0
+2024-09-30,SKU23,Coriander Powder,1977,0
+2024-10-07,SKU23,Coriander Powder,2023,0
+2024-10-14,SKU23,Coriander Powder,2197,0
+2024-10-21,SKU23,Coriander Powder,2408,0
+2024-10-28,SKU23,Coriander Powder,1744,0
+2024-11-04,SKU23,Coriander Powder,1996,0
+2024-11-11,SKU23,Coriander Powder,1976,0
+2024-11-18,SKU23,Coriander Powder,2009,0
+2024-11-25,SKU23,Coriander Powder,2130,0
+2024-12-02,SKU23,Coriander Powder,2109,0
+2024-12-09,SKU23,Coriander Powder,2021,0
+2024-12-16,SKU23,Coriander Powder,2092,0
+2024-12-23,SKU23,Coriander Powder,2321,0
+2024-12-30,SKU23,Coriander Powder,1746,0
+2025-01-06,SKU23,Coriander Powder,2135,0
+2025-01-13,SKU23,Coriander Powder,2164,0
+2025-01-20,SKU23,Coriander Powder,2074,0
+2025-01-27,SKU23,Coriander Powder,2158,0
+2025-02-03,SKU23,Coriander Powder,2285,0
+2025-02-10,SKU23,Coriander Powder,2110,0
+2025-02-17,SKU23,Coriander Powder,1829,0
+2025-02-24,SKU23,Coriander Powder,1813,0
+2025-03-03,SKU23,Coriander Powder,1780,0
+2025-03-10,SKU23,Coriander Powder,2044,0
+2025-03-17,SKU23,Coriander Powder,2005,0
+2025-03-24,SKU23,Coriander Powder,2244,0
+2025-03-31,SKU23,Coriander Powder,2307,0
+2025-04-07,SKU23,Coriander Powder,1977,0
+2025-04-14,SKU23,Coriander Powder,2042,0
+2025-04-21,SKU23,Coriander Powder,1830,0
+2025-04-28,SKU23,Coriander Powder,2049,0
+2025-05-05,SKU23,Coriander Powder,1988,0
+2025-05-12,SKU23,Coriander Powder,1755,0
+2025-05-19,SKU23,Coriander Powder,1653,0
+2025-05-26,SKU23,Coriander Powder,2147,0
+2025-06-02,SKU23,Coriander Powder,2307,0
+2025-06-09,SKU23,Coriander Powder,1911,0
+2025-06-16,SKU23,Coriander Powder,1824,0
+2025-06-23,SKU23,Coriander Powder,1732,0
+2025-06-30,SKU23,Coriander Powder,1766,0
+2025-07-07,SKU23,Coriander Powder,1722,0
+2025-07-14,SKU23,Coriander Powder,2170,0
+2025-07-21,SKU23,Coriander Powder,1956,0
+2025-07-28,SKU23,Coriander Powder,1798,0
+2025-08-04,SKU23,Coriander Powder,2050,0
+2025-08-11,SKU23,Coriander Powder,1711,0
+2025-08-18,SKU23,Coriander Powder,1847,0
+2025-08-25,SKU23,Coriander Powder,2350,0
+2025-09-01,SKU23,Coriander Powder,1844,0
+2025-09-08,SKU23,Coriander Powder,1805,0
+2025-09-15,SKU23,Coriander Powder,1701,0
+2025-09-22,SKU23,Coriander Powder,2134,0
+2025-09-29,SKU23,Coriander Powder,2297,0
+2025-10-06,SKU23,Coriander Powder,1695,0
+2024-01-01,SKU24,Biryani Masala,1010,0
+2024-01-08,SKU24,Biryani Masala,914,0
+2024-01-15,SKU24,Biryani Masala,988,0
+2024-01-22,SKU24,Biryani Masala,1190,0
+2024-01-29,SKU24,Biryani Masala,912,0
+2024-02-05,SKU24,Biryani Masala,937,0
+2024-02-12,SKU24,Biryani Masala,1015,0
+2024-02-19,SKU24,Biryani Masala,759,0
+2024-02-26,SKU24,Biryani Masala,753,0
+2024-03-04,SKU24,Biryani Masala,1017,0
+2024-03-11,SKU24,Biryani Masala,702,0
+2024-03-18,SKU24,Biryani Masala,782,0
+2024-03-25,SKU24,Biryani Masala,919,0
+2024-04-01,SKU24,Biryani Masala,1909,0
+2024-04-08,SKU24,Biryani Masala,1164,0
+2024-04-15,SKU24,Biryani Masala,793,0
+2024-04-22,SKU24,Biryani Masala,816,0
+2024-04-29,SKU24,Biryani Masala,1351,0
+2024-05-06,SKU24,Biryani Masala,892,0
+2024-05-13,SKU24,Biryani Masala,993,0
+2024-05-20,SKU24,Biryani Masala,953,0
+2024-05-27,SKU24,Biryani Masala,1005,0
+2024-06-03,SKU24,Biryani Masala,1016,0
+2024-06-10,SKU24,Biryani Masala,1043,0
+2024-06-17,SKU24,Biryani Masala,865,0
+2024-06-24,SKU24,Biryani Masala,1219,0
+2024-07-01,SKU24,Biryani Masala,603,0
+2024-07-08,SKU24,Biryani Masala,708,0
+2024-07-15,SKU24,Biryani Masala,920,0
+2024-07-22,SKU24,Biryani Masala,777,0
+2024-07-29,SKU24,Biryani Masala,1007,0
+2024-08-05,SKU24,Biryani Masala,916,0
+2024-08-12,SKU24,Biryani Masala,880,0
+2024-08-19,SKU24,Biryani Masala,792,0
+2024-08-26,SKU24,Biryani Masala,989,0
+2024-09-02,SKU24,Biryani Masala,1059,0
+2024-09-09,SKU24,Biryani Masala,805,0
+2024-09-16,SKU24,Biryani Masala,803,0
+2024-09-23,SKU24,Biryani Masala,994,0
+2024-09-30,SKU24,Biryani Masala,853,0
+2024-10-07,SKU24,Biryani Masala,948,0
+2024-10-14,SKU24,Biryani Masala,948,0
+2024-10-21,SKU24,Biryani Masala,532,0
+2024-10-28,SKU24,Biryani Masala,963,0
+2024-11-04,SKU24,Biryani Masala,825,0
+2024-11-11,SKU24,Biryani Masala,872,0
+2024-11-18,SKU24,Biryani Masala,1095,0
+2024-11-25,SKU24,Biryani Masala,1091,0
+2024-12-02,SKU24,Biryani Masala,663,0
+2024-12-09,SKU24,Biryani Masala,1284,0
+2024-12-16,SKU24,Biryani Masala,1170,0
+2024-12-23,SKU24,Biryani Masala,1222,0
+2024-12-30,SKU24,Biryani Masala,988,0
+2025-01-06,SKU24,Biryani Masala,969,0
+2025-01-13,SKU24,Biryani Masala,831,0
+2025-01-20,SKU24,Biryani Masala,1094,0
+2025-01-27,SKU24,Biryani Masala,1048,0
+2025-02-03,SKU24,Biryani Masala,1113,0
+2025-02-10,SKU24,Biryani Masala,673,0
+2025-02-17,SKU24,Biryani Masala,723,0
+2025-02-24,SKU24,Biryani Masala,861,0
+2025-03-03,SKU24,Biryani Masala,657,0
+2025-03-10,SKU24,Biryani Masala,922,0
+2025-03-17,SKU24,Biryani Masala,988,0
+2025-03-24,SKU24,Biryani Masala,1426,0
+2025-03-31,SKU24,Biryani Masala,1195,0
+2025-04-07,SKU24,Biryani Masala,777,0
+2025-04-14,SKU24,Biryani Masala,766,0
+2025-04-21,SKU24,Biryani Masala,985,0
+2025-04-28,SKU24,Biryani Masala,1177,0
+2025-05-05,SKU24,Biryani Masala,798,0
+2025-05-12,SKU24,Biryani Masala,1409,0
+2025-05-19,SKU24,Biryani Masala,1222,0
+2025-05-26,SKU24,Biryani Masala,871,0
+2025-06-02,SKU24,Biryani Masala,758,0
+2025-06-09,SKU24,Biryani Masala,882,0
+2025-06-16,SKU24,Biryani Masala,825,0
+2025-06-23,SKU24,Biryani Masala,816,0
+2025-06-30,SKU24,Biryani Masala,650,0
+2025-07-07,SKU24,Biryani Masala,740,0
+2025-07-14,SKU24,Biryani Masala,775,0
+2025-07-21,SKU24,Biryani Masala,891,0
+2025-07-28,SKU24,Biryani Masala,1019,0
+2025-08-04,SKU24,Biryani Masala,898,0
+2025-08-11,SKU24,Biryani Masala,691,0
+2025-08-18,SKU24,Biryani Masala,957,0
+2025-08-25,SKU24,Biryani Masala,704,0
+2025-09-01,SKU24,Biryani Masala,812,0
+2025-09-08,SKU24,Biryani Masala,920,0
+2025-09-15,SKU24,Biryani Masala,1035,0
+2025-09-22,SKU24,Biryani Masala,1173,0
+2025-09-29,SKU24,Biryani Masala,826,0
+2025-10-06,SKU24,Biryani Masala,949,0
+2024-01-01,SKU25,Rice Flour Puttu,2904,0
+2024-01-08,SKU25,Rice Flour Puttu,3485,0
+2024-01-15,SKU25,Rice Flour Puttu,3021,0
+2024-01-22,SKU25,Rice Flour Puttu,2679,0
+2024-01-29,SKU25,Rice Flour Puttu,3391,0
+2024-02-05,SKU25,Rice Flour Puttu,2839,0
+2024-02-12,SKU25,Rice Flour Puttu,2620,0
+2024-02-19,SKU25,Rice Flour Puttu,2930,0
+2024-02-26,SKU25,Rice Flour Puttu,2671,0
+2024-03-04,SKU25,Rice Flour Puttu,3418,0
+2024-03-11,SKU25,Rice Flour Puttu,3114,0
+2024-03-18,SKU25,Rice Flour Puttu,2889,0
+2024-03-25,SKU25,Rice Flour Puttu,3154,0
+2024-04-01,SKU25,Rice Flour Puttu,3336,0
+2024-04-08,SKU25,Rice Flour Puttu,2156,0
+2024-04-15,SKU25,Rice Flour Puttu,2862,0
+2024-04-22,SKU25,Rice Flour Puttu,3066,0
+2024-04-29,SKU25,Rice Flour Puttu,2369,0
+2024-05-06,SKU25,Rice Flour Puttu,3143,0
+2024-05-13,SKU25,Rice Flour Puttu,2877,0
+2024-05-20,SKU25,Rice Flour Puttu,2523,0
+2024-05-27,SKU25,Rice Flour Puttu,3107,0
+2024-06-03,SKU25,Rice Flour Puttu,2898,0
+2024-06-10,SKU25,Rice Flour Puttu,2792,0
+2024-06-17,SKU25,Rice Flour Puttu,2749,0
+2024-06-24,SKU25,Rice Flour Puttu,3017,0
+2024-07-01,SKU25,Rice Flour Puttu,3370,0
+2024-07-08,SKU25,Rice Flour Puttu,2827,0
+2024-07-15,SKU25,Rice Flour Puttu,2591,0
+2024-07-22,SKU25,Rice Flour Puttu,2865,0
+2024-07-29,SKU25,Rice Flour Puttu,2812,0
+2024-08-05,SKU25,Rice Flour Puttu,2869,0
+2024-08-12,SKU25,Rice Flour Puttu,3303,0
+2024-08-19,SKU25,Rice Flour Puttu,3030,0
+2024-08-26,SKU25,Rice Flour Puttu,2943,0
+2024-09-02,SKU25,Rice Flour Puttu,2695,0
+2024-09-09,SKU25,Rice Flour Puttu,3032,0
+2024-09-16,SKU25,Rice Flour Puttu,2461,0
+2024-09-23,SKU25,Rice Flour Puttu,2726,0
+2024-09-30,SKU25,Rice Flour Puttu,3045,0
+2024-10-07,SKU25,Rice Flour Puttu,2696,0
+2024-10-14,SKU25,Rice Flour Puttu,2605,0
+2024-10-21,SKU25,Rice Flour Puttu,3115,0
+2024-10-28,SKU25,Rice Flour Puttu,2660,0
+2024-11-04,SKU25,Rice Flour Puttu,3302,0
+2024-11-11,SKU25,Rice Flour Puttu,3202,0
+2024-11-18,SKU25,Rice Flour Puttu,2832,0
+2024-11-25,SKU25,Rice Flour Puttu,2995,0
+2024-12-02,SKU25,Rice Flour Puttu,3487,0
+2024-12-09,SKU25,Rice Flour Puttu,3423,0
+2024-12-16,SKU25,Rice Flour Puttu,2815,0
+2024-12-23,SKU25,Rice Flour Puttu,2706,0
+2024-12-30,SKU25,Rice Flour Puttu,3232,0
+2025-01-06,SKU25,Rice Flour Puttu,3035,0
+2025-01-13,SKU25,Rice Flour Puttu,3196,0
+2025-01-20,SKU25,Rice Flour Puttu,3061,0
+2025-01-27,SKU25,Rice Flour Puttu,3139,0
+2025-02-03,SKU25,Rice Flour Puttu,2784,0
+2025-02-10,SKU25,Rice Flour Puttu,3087,0
+2025-02-17,SKU25,Rice Flour Puttu,3114,0
+2025-02-24,SKU25,Rice Flour Puttu,2714,0
+2025-03-03,SKU25,Rice Flour Puttu,2533,0
+2025-03-10,SKU25,Rice Flour Puttu,3324,0
+2025-03-17,SKU25,Rice Flour Puttu,3453,0
+2025-03-24,SKU25,Rice Flour Puttu,2673,0
+2025-03-31,SKU25,Rice Flour Puttu,2757,0
+2025-04-07,SKU25,Rice Flour Puttu,3119,0
+2025-04-14,SKU25,Rice Flour Puttu,2994,0
+2025-04-21,SKU25,Rice Flour Puttu,2583,0
+2025-04-28,SKU25,Rice Flour Puttu,2982,0
+2025-05-05,SKU25,Rice Flour Puttu,2853,0
+2025-05-12,SKU25,Rice Flour Puttu,2567,0
+2025-05-19,SKU25,Rice Flour Puttu,2948,0
+2025-05-26,SKU25,Rice Flour Puttu,2648,0
+2025-06-02,SKU25,Rice Flour Puttu,2674,0
+2025-06-09,SKU25,Rice Flour Puttu,2369,0
+2025-06-16,SKU25,Rice Flour Puttu,2815,0
+2025-06-23,SKU25,Rice Flour Puttu,3865,0
+2025-06-30,SKU25,Rice Flour Puttu,3633,0
+2025-07-07,SKU25,Rice Flour Puttu,3525,0
+2025-07-14,SKU25,Rice Flour Puttu,2914,0
+2025-07-21,SKU25,Rice Flour Puttu,3106,0
+2025-07-28,SKU25,Rice Flour Puttu,2970,0
+2025-08-04,SKU25,Rice Flour Puttu,3336,0
+2025-08-11,SKU25,Rice Flour Puttu,3175,0
+2025-08-18,SKU25,Rice Flour Puttu,2903,0
+2025-08-25,SKU25,Rice Flour Puttu,2939,0
+2025-09-01,SKU25,Rice Flour Puttu,3447,0
+2025-09-08,SKU25,Rice Flour Puttu,2846,0
+2025-09-15,SKU25,Rice Flour Puttu,2876,0
+2025-09-22,SKU25,Rice Flour Puttu,3224,0
+2025-09-29,SKU25,Rice Flour Puttu,2251,0
+2025-10-06,SKU25,Rice Flour Puttu,2858,0
+2024-01-01,SKU26,Rice Flour Appam,1511,0
+2024-01-08,SKU26,Rice Flour Appam,1272,0
+2024-01-15,SKU26,Rice Flour Appam,1495,0
+2024-01-22,SKU26,Rice Flour Appam,1333,0
+2024-01-29,SKU26,Rice Flour Appam,1431,0
+2024-02-05,SKU26,Rice Flour Appam,1668,0
+2024-02-12,SKU26,Rice Flour Appam,1432,0
+2024-02-19,SKU26,Rice Flour Appam,1555,0
+2024-02-26,SKU26,Rice Flour Appam,1353,0
+2024-03-04,SKU26,Rice Flour Appam,1675,0
+2024-03-11,SKU26,Rice Flour Appam,1606,0
+2024-03-18,SKU26,Rice Flour Appam,1544,0
+2024-03-25,SKU26,Rice Flour Appam,1491,0
+2024-04-01,SKU26,Rice Flour Appam,1493,0
+2024-04-08,SKU26,Rice Flour Appam,1511,0
+2024-04-15,SKU26,Rice Flour Appam,1438,0
+2024-04-22,SKU26,Rice Flour Appam,1484,0
+2024-04-29,SKU26,Rice Flour Appam,1284,0
+2024-05-06,SKU26,Rice Flour Appam,1522,0
+2024-05-13,SKU26,Rice Flour Appam,1632,0
+2024-05-20,SKU26,Rice Flour Appam,1389,0
+2024-05-27,SKU26,Rice Flour Appam,1555,0
+2024-06-03,SKU26,Rice Flour Appam,1640,0
+2024-06-10,SKU26,Rice Flour Appam,1481,0
+2024-06-17,SKU26,Rice Flour Appam,1697,0
+2024-06-24,SKU26,Rice Flour Appam,1586,0
+2024-07-01,SKU26,Rice Flour Appam,1585,0
+2024-07-08,SKU26,Rice Flour Appam,1515,0
+2024-07-15,SKU26,Rice Flour Appam,1273,0
+2024-07-22,SKU26,Rice Flour Appam,1492,0
+2024-07-29,SKU26,Rice Flour Appam,1378,0
+2024-08-05,SKU26,Rice Flour Appam,1464,0
+2024-08-12,SKU26,Rice Flour Appam,1204,0
+2024-08-19,SKU26,Rice Flour Appam,1789,0
+2024-08-26,SKU26,Rice Flour Appam,1265,0
+2024-09-02,SKU26,Rice Flour Appam,1543,0
+2024-09-09,SKU26,Rice Flour Appam,1512,0
+2024-09-16,SKU26,Rice Flour Appam,1500,0
+2024-09-23,SKU26,Rice Flour Appam,1195,0
+2024-09-30,SKU26,Rice Flour Appam,1509,0
+2024-10-07,SKU26,Rice Flour Appam,1444,0
+2024-10-14,SKU26,Rice Flour Appam,1520,0
+2024-10-21,SKU26,Rice Flour Appam,1552,0
+2024-10-28,SKU26,Rice Flour Appam,1803,0
+2024-11-04,SKU26,Rice Flour Appam,1475,0
+2024-11-11,SKU26,Rice Flour Appam,1204,0
+2024-11-18,SKU26,Rice Flour Appam,1440,0
+2024-11-25,SKU26,Rice Flour Appam,1650,0
+2024-12-02,SKU26,Rice Flour Appam,1620,0
+2024-12-09,SKU26,Rice Flour Appam,1716,0
+2024-12-16,SKU26,Rice Flour Appam,1790,0
+2024-12-23,SKU26,Rice Flour Appam,1893,0
+2024-12-30,SKU26,Rice Flour Appam,1701,0
+2025-01-06,SKU26,Rice Flour Appam,1263,0
+2025-01-13,SKU26,Rice Flour Appam,1380,0
+2025-01-20,SKU26,Rice Flour Appam,1610,0
+2025-01-27,SKU26,Rice Flour Appam,1606,0
+2025-02-03,SKU26,Rice Flour Appam,1781,0
+2025-02-10,SKU26,Rice Flour Appam,1322,0
+2025-02-17,SKU26,Rice Flour Appam,1683,0
+2025-02-24,SKU26,Rice Flour Appam,1419,0
+2025-03-03,SKU26,Rice Flour Appam,1569,0
+2025-03-10,SKU26,Rice Flour Appam,1560,0
+2025-03-17,SKU26,Rice Flour Appam,1606,0
+2025-03-24,SKU26,Rice Flour Appam,1377,0
+2025-03-31,SKU26,Rice Flour Appam,1683,0
+2025-04-07,SKU26,Rice Flour Appam,1311,0
+2025-04-14,SKU26,Rice Flour Appam,1785,0
+2025-04-21,SKU26,Rice Flour Appam,1507,0
+2025-04-28,SKU26,Rice Flour Appam,1218,0
+2025-05-05,SKU26,Rice Flour Appam,1790,0
+2025-05-12,SKU26,Rice Flour Appam,1466,0
+2025-05-19,SKU26,Rice Flour Appam,1598,0
+2025-05-26,SKU26,Rice Flour Appam,1378,0
+2025-06-02,SKU26,Rice Flour Appam,1426,0
+2025-06-09,SKU26,Rice Flour Appam,1698,0
+2025-06-16,SKU26,Rice Flour Appam,1350,0
+2025-06-23,SKU26,Rice Flour Appam,1718,0
+2025-06-30,SKU26,Rice Flour Appam,1866,0
+2025-07-07,SKU26,Rice Flour Appam,1388,0
+2025-07-14,SKU26,Rice Flour Appam,1372,0
+2025-07-21,SKU26,Rice Flour Appam,1581,0
+2025-07-28,SKU26,Rice Flour Appam,1527,0
+2025-08-04,SKU26,Rice Flour Appam,1494,0
+2025-08-11,SKU26,Rice Flour Appam,1229,0
+2025-08-18,SKU26,Rice Flour Appam,1600,0
+2025-08-25,SKU26,Rice Flour Appam,1623,0
+2025-09-01,SKU26,Rice Flour Appam,1663,0
+2025-09-08,SKU26,Rice Flour Appam,1644,0
+2025-09-15,SKU26,Rice Flour Appam,1315,0
+2025-09-22,SKU26,Rice Flour Appam,1433,0
+2025-09-29,SKU26,Rice Flour Appam,1480,0
+2025-10-06,SKU26,Rice Flour Appam,1385,0
+2024-01-01,SKU27,Ragi Flour,252,0
+2024-01-08,SKU27,Ragi Flour,615,0
+2024-01-15,SKU27,Ragi Flour,226,0
+2024-01-22,SKU27,Ragi Flour,288,0
+2024-01-29,SKU27,Ragi Flour,310,0
+2024-02-05,SKU27,Ragi Flour,304,0
+2024-02-12,SKU27,Ragi Flour,556,0
+2024-02-19,SKU27,Ragi Flour,205,0
+2024-02-26,SKU27,Ragi Flour,221,0
+2024-03-04,SKU27,Ragi Flour,527,0
+2024-03-11,SKU27,Ragi Flour,329,0
+2024-03-18,SKU27,Ragi Flour,163,0
+2024-03-25,SKU27,Ragi Flour,375,0
+2024-04-01,SKU27,Ragi Flour,262,0
+2024-04-08,SKU27,Ragi Flour,404,0
+2024-04-15,SKU27,Ragi Flour,235,0
+2024-04-22,SKU27,Ragi Flour,334,0
+2024-04-29,SKU27,Ragi Flour,389,0
+2024-05-06,SKU27,Ragi Flour,477,0
+2024-05-13,SKU27,Ragi Flour,232,0
+2024-05-20,SKU27,Ragi Flour,169,0
+2024-05-27,SKU27,Ragi Flour,352,0
+2024-06-03,SKU27,Ragi Flour,177,0
+2024-06-10,SKU27,Ragi Flour,161,0
+2024-06-17,SKU27,Ragi Flour,296,0
+2024-06-24,SKU27,Ragi Flour,327,0
+2024-07-01,SKU27,Ragi Flour,351,0
+2024-07-08,SKU27,Ragi Flour,423,0
+2024-07-15,SKU27,Ragi Flour,489,0
+2024-07-22,SKU27,Ragi Flour,282,0
+2024-07-29,SKU27,Ragi Flour,207,0
+2024-08-05,SKU27,Ragi Flour,296,0
+2024-08-12,SKU27,Ragi Flour,313,0
+2024-08-19,SKU27,Ragi Flour,555,0
+2024-08-26,SKU27,Ragi Flour,637,0
+2024-09-02,SKU27,Ragi Flour,545,0
+2024-09-09,SKU27,Ragi Flour,749,0
+2024-09-16,SKU27,Ragi Flour,327,0
+2024-09-23,SKU27,Ragi Flour,188,0
+2024-09-30,SKU27,Ragi Flour,497,0
+2024-10-07,SKU27,Ragi Flour,331,0
+2024-10-14,SKU27,Ragi Flour,430,0
+2024-10-21,SKU27,Ragi Flour,259,0
+2024-10-28,SKU27,Ragi Flour,368,0
+2024-11-04,SKU27,Ragi Flour,114,0
+2024-11-11,SKU27,Ragi Flour,443,0
+2024-11-18,SKU27,Ragi Flour,674,0
+2024-11-25,SKU27,Ragi Flour,365,0
+2024-12-02,SKU27,Ragi Flour,728,0
+2024-12-09,SKU27,Ragi Flour,598,0
+2024-12-16,SKU27,Ragi Flour,436,0
+2024-12-23,SKU27,Ragi Flour,300,0
+2024-12-30,SKU27,Ragi Flour,190,0
+2025-01-06,SKU27,Ragi Flour,508,0
+2025-01-13,SKU27,Ragi Flour,266,0
+2025-01-20,SKU27,Ragi Flour,426,0
+2025-01-27,SKU27,Ragi Flour,256,0
+2025-02-03,SKU27,Ragi Flour,494,0
+2025-02-10,SKU27,Ragi Flour,520,0
+2025-02-17,SKU27,Ragi Flour,341,0
+2025-02-24,SKU27,Ragi Flour,430,0
+2025-03-03,SKU27,Ragi Flour,115,0
+2025-03-10,SKU27,Ragi Flour,569,0
+2025-03-17,SKU27,Ragi Flour,351,0
+2025-03-24,SKU27,Ragi Flour,304,0
+2025-03-31,SKU27,Ragi Flour,423,0
+2025-04-07,SKU27,Ragi Flour,371,0
+2025-04-14,SKU27,Ragi Flour,389,0
+2025-04-21,SKU27,Ragi Flour,231,0
+2025-04-28,SKU27,Ragi Flour,411,0
+2025-05-05,SKU27,Ragi Flour,296,0
+2025-05-12,SKU27,Ragi Flour,308,0
+2025-05-19,SKU27,Ragi Flour,163,0
+2025-05-26,SKU27,Ragi Flour,672,0
+2025-06-02,SKU27,Ragi Flour,988,0
+2025-06-09,SKU27,Ragi Flour,237,0
+2025-06-16,SKU27,Ragi Flour,359,0
+2025-06-23,SKU27,Ragi Flour,524,0
+2025-06-30,SKU27,Ragi Flour,273,0
+2025-07-07,SKU27,Ragi Flour,279,0
+2025-07-14,SKU27,Ragi Flour,482,0
+2025-07-21,SKU27,Ragi Flour,141,0
+2025-07-28,SKU27,Ragi Flour,245,0
+2025-08-04,SKU27,Ragi Flour,144,0
+2025-08-11,SKU27,Ragi Flour,445,0
+2025-08-18,SKU27,Ragi Flour,244,0
+2025-08-25,SKU27,Ragi Flour,416,0
+2025-09-01,SKU27,Ragi Flour,476,0
+2025-09-08,SKU27,Ragi Flour,305,0
+2025-09-15,SKU27,Ragi Flour,286,0
+2025-09-22,SKU27,Ragi Flour,485,0
+2025-09-29,SKU27,Ragi Flour,410,0
+2025-10-06,SKU27,Ragi Flour,401,0
+2024-01-01,SKU28,Matta Rice 5kg,848,0
+2024-01-08,SKU28,Matta Rice 5kg,856,0
+2024-01-15,SKU28,Matta Rice 5kg,987,0
+2024-01-22,SKU28,Matta Rice 5kg,930,0
+2024-01-29,SKU28,Matta Rice 5kg,721,0
+2024-02-05,SKU28,Matta Rice 5kg,881,0
+2024-02-12,SKU28,Matta Rice 5kg,1008,0
+2024-02-19,SKU28,Matta Rice 5kg,807,0
+2024-02-26,SKU28,Matta Rice 5kg,899,0
+2024-03-04,SKU28,Matta Rice 5kg,1040,0
+2024-03-11,SKU28,Matta Rice 5kg,839,0
+2024-03-18,SKU28,Matta Rice 5kg,1055,0
+2024-03-25,SKU28,Matta Rice 5kg,606,0
+2024-04-01,SKU28,Matta Rice 5kg,830,0
+2024-04-08,SKU28,Matta Rice 5kg,912,0
+2024-04-15,SKU28,Matta Rice 5kg,746,0
+2024-04-22,SKU28,Matta Rice 5kg,575,0
+2024-04-29,SKU28,Matta Rice 5kg,743,0
+2024-05-06,SKU28,Matta Rice 5kg,579,0
+2024-05-13,SKU28,Matta Rice 5kg,506,0
+2024-05-20,SKU28,Matta Rice 5kg,727,0
+2024-05-27,SKU28,Matta Rice 5kg,761,0
+2024-06-03,SKU28,Matta Rice 5kg,892,0
+2024-06-10,SKU28,Matta Rice 5kg,821,0
+2024-06-17,SKU28,Matta Rice 5kg,891,0
+2024-06-24,SKU28,Matta Rice 5kg,765,0
+2024-07-01,SKU28,Matta Rice 5kg,845,0
+2024-07-08,SKU28,Matta Rice 5kg,958,0
+2024-07-15,SKU28,Matta Rice 5kg,772,0
+2024-07-22,SKU28,Matta Rice 5kg,544,0
+2024-07-29,SKU28,Matta Rice 5kg,659,0
+2024-08-05,SKU28,Matta Rice 5kg,485,0
+2024-08-12,SKU28,Matta Rice 5kg,684,0
+2024-08-19,SKU28,Matta Rice 5kg,767,0
+2024-08-26,SKU28,Matta Rice 5kg,625,0
+2024-09-02,SKU28,Matta Rice 5kg,799,0
+2024-09-09,SKU28,Matta Rice 5kg,969,0
+2024-09-16,SKU28,Matta Rice 5kg,544,0
+2024-09-23,SKU28,Matta Rice 5kg,758,0
+2024-09-30,SKU28,Matta Rice 5kg,603,0
+2024-10-07,SKU28,Matta Rice 5kg,781,0
+2024-10-14,SKU28,Matta Rice 5kg,721,0
+2024-10-21,SKU28,Matta Rice 5kg,725,0
+2024-10-28,SKU28,Matta Rice 5kg,572,0
+2024-11-04,SKU28,Matta Rice 5kg,680,0
+2024-11-11,SKU28,Matta Rice 5kg,1187,0
+2024-11-18,SKU28,Matta Rice 5kg,953,0
+2024-11-25,SKU28,Matta Rice 5kg,530,0
+2024-12-02,SKU28,Matta Rice 5kg,1169,0
+2024-12-09,SKU28,Matta Rice 5kg,846,0
+2024-12-16,SKU28,Matta Rice 5kg,821,0
+2024-12-23,SKU28,Matta Rice 5kg,606,0
+2024-12-30,SKU28,Matta Rice 5kg,585,0
+2025-01-06,SKU28,Matta Rice 5kg,842,0
+2025-01-13,SKU28,Matta Rice 5kg,829,0
+2025-01-20,SKU28,Matta Rice 5kg,912,0
+2025-01-27,SKU28,Matta Rice 5kg,936,0
+2025-02-03,SKU28,Matta Rice 5kg,713,0
+2025-02-10,SKU28,Matta Rice 5kg,620,0
+2025-02-17,SKU28,Matta Rice 5kg,623,0
+2025-02-24,SKU28,Matta Rice 5kg,744,0
+2025-03-03,SKU28,Matta Rice 5kg,740,0
+2025-03-10,SKU28,Matta Rice 5kg,856,0
+2025-03-17,SKU28,Matta Rice 5kg,982,0
+2025-03-24,SKU28,Matta Rice 5kg,826,0
+2025-03-31,SKU28,Matta Rice 5kg,806,0
+2025-04-07,SKU28,Matta Rice 5kg,1100,0
+2025-04-14,SKU28,Matta Rice 5kg,815,0
+2025-04-21,SKU28,Matta Rice 5kg,1019,0
+2025-04-28,SKU28,Matta Rice 5kg,549,0
+2025-05-05,SKU28,Matta Rice 5kg,643,0
+2025-05-12,SKU28,Matta Rice 5kg,647,0
+2025-05-19,SKU28,Matta Rice 5kg,848,0
+2025-05-26,SKU28,Matta Rice 5kg,722,0
+2025-06-02,SKU28,Matta Rice 5kg,735,0
+2025-06-09,SKU28,Matta Rice 5kg,923,0
+2025-06-16,SKU28,Matta Rice 5kg,799,0
+2025-06-23,SKU28,Matta Rice 5kg,1075,0
+2025-06-30,SKU28,Matta Rice 5kg,1085,0
+2025-07-07,SKU28,Matta Rice 5kg,786,0
+2025-07-14,SKU28,Matta Rice 5kg,1176,0
+2025-07-21,SKU28,Matta Rice 5kg,398,0
+2025-07-28,SKU28,Matta Rice 5kg,725,0
+2025-08-04,SKU28,Matta Rice 5kg,842,0
+2025-08-11,SKU28,Matta Rice 5kg,1038,0
+2025-08-18,SKU28,Matta Rice 5kg,1098,0
+2025-08-25,SKU28,Matta Rice 5kg,748,0
+2025-09-01,SKU28,Matta Rice 5kg,1034,0
+2025-09-08,SKU28,Matta Rice 5kg,1104,0
+2025-09-15,SKU28,Matta Rice 5kg,375,0
+2025-09-22,SKU28,Matta Rice 5kg,683,0
+2025-09-29,SKU28,Matta Rice 5kg,962,0
+2025-10-06,SKU28,Matta Rice 5kg,604,0
+2024-01-01,SKU29,Red Aval,174,0
+2024-01-08,SKU29,Red Aval,649,0
+2024-01-15,SKU29,Red Aval,187,0
+2024-01-22,SKU29,Red Aval,268,0
+2024-01-29,SKU29,Red Aval,393,0
+2024-02-05,SKU29,Red Aval,229,0
+2024-02-12,SKU29,Red Aval,360,0
+2024-02-19,SKU29,Red Aval,711,0
+2024-02-26,SKU29,Red Aval,371,0
+2024-03-04,SKU29,Red Aval,321,0
+2024-03-11,SKU29,Red Aval,465,0
+2024-03-18,SKU29,Red Aval,370,0
+2024-03-25,SKU29,Red Aval,577,0
+2024-04-01,SKU29,Red Aval,509,0
+2024-04-08,SKU29,Red Aval,126,0
+2024-04-15,SKU29,Red Aval,332,0
+2024-04-22,SKU29,Red Aval,922,0
+2024-04-29,SKU29,Red Aval,424,0
+2024-05-06,SKU29,Red Aval,300,0
+2024-05-13,SKU29,Red Aval,191,0
+2024-05-20,SKU29,Red Aval,195,0
+2024-05-27,SKU29,Red Aval,381,0
+2024-06-03,SKU29,Red Aval,239,0
+2024-06-10,SKU29,Red Aval,180,0
+2024-06-17,SKU29,Red Aval,369,0
+2024-06-24,SKU29,Red Aval,460,0
+2024-07-01,SKU29,Red Aval,509,0
+2024-07-08,SKU29,Red Aval,573,0
+2024-07-15,SKU29,Red Aval,134,0
+2024-07-22,SKU29,Red Aval,524,0
+2024-07-29,SKU29,Red Aval,248,0
+2024-08-05,SKU29,Red Aval,241,0
+2024-08-12,SKU29,Red Aval,473,0
+2024-08-19,SKU29,Red Aval,185,0
+2024-08-26,SKU29,Red Aval,349,0
+2024-09-02,SKU29,Red Aval,956,0
+2024-09-09,SKU29,Red Aval,419,0
+2024-09-16,SKU29,Red Aval,799,0
+2024-09-23,SKU29,Red Aval,111,0
+2024-09-30,SKU29,Red Aval,772,0
+2024-10-07,SKU29,Red Aval,474,0
+2024-10-14,SKU29,Red Aval,168,0
+2024-10-21,SKU29,Red Aval,247,0
+2024-10-28,SKU29,Red Aval,215,0
+2024-11-04,SKU29,Red Aval,594,0
+2024-11-11,SKU29,Red Aval,506,0
+2024-11-18,SKU29,Red Aval,446,0
+2024-11-25,SKU29,Red Aval,592,0
+2024-12-02,SKU29,Red Aval,544,0
+2024-12-09,SKU29,Red Aval,308,0
+2024-12-16,SKU29,Red Aval,271,0
+2024-12-23,SKU29,Red Aval,314,0
+2024-12-30,SKU29,Red Aval,395,0
+2025-01-06,SKU29,Red Aval,292,0
+2025-01-13,SKU29,Red Aval,259,0
+2025-01-20,SKU29,Red Aval,209,0
+2025-01-27,SKU29,Red Aval,261,0
+2025-02-03,SKU29,Red Aval,218,0
+2025-02-10,SKU29,Red Aval,386,0
+2025-02-17,SKU29,Red Aval,188,0
+2025-02-24,SKU29,Red Aval,276,0
+2025-03-03,SKU29,Red Aval,133,0
+2025-03-10,SKU29,Red Aval,400,0
+2025-03-17,SKU29,Red Aval,419,0
+2025-03-24,SKU29,Red Aval,127,0
+2025-03-31,SKU29,Red Aval,589,0
+2025-04-07,SKU29,Red Aval,573,0
+2025-04-14,SKU29,Red Aval,228,0
+2025-04-21,SKU29,Red Aval,493,0
+2025-04-28,SKU29,Red Aval,259,0
+2025-05-05,SKU29,Red Aval,300,0
+2025-05-12,SKU29,Red Aval,227,0
+2025-05-19,SKU29,Red Aval,223,0
+2025-05-26,SKU29,Red Aval,374,0
+2025-06-02,SKU29,Red Aval,267,0
+2025-06-09,SKU29,Red Aval,528,0
+2025-06-16,SKU29,Red Aval,179,0
+2025-06-23,SKU29,Red Aval,655,0
+2025-06-30,SKU29,Red Aval,161,0
+2025-07-07,SKU29,Red Aval,324,0
+2025-07-14,SKU29,Red Aval,362,0
+2025-07-21,SKU29,Red Aval,396,0
+2025-07-28,SKU29,Red Aval,378,0
+2025-08-04,SKU29,Red Aval,256,0
+2025-08-11,SKU29,Red Aval,648,0
+2025-08-18,SKU29,Red Aval,287,0
+2025-08-25,SKU29,Red Aval,138,0
+2025-09-01,SKU29,Red Aval,885,0
+2025-09-08,SKU29,Red Aval,199,0
+2025-09-15,SKU29,Red Aval,300,0
+2025-09-22,SKU29,Red Aval,344,0
+2025-09-29,SKU29,Red Aval,121,0
+2025-10-06,SKU29,Red Aval,201,0
+2024-01-01,SKU30,Vermicelli,1767,0
+2024-01-08,SKU30,Vermicelli,2426,0
+2024-01-15,SKU30,Vermicelli,2374,0
+2024-01-22,SKU30,Vermicelli,2130,0
+2024-01-29,SKU30,Vermicelli,1812,0
+2024-02-05,SKU30,Vermicelli,1725,0
+2024-02-12,SKU30,Vermicelli,2330,0
+2024-02-19,SKU30,Vermicelli,2008,0
+2024-02-26,SKU30,Vermicelli,1606,0
+2024-03-04,SKU30,Vermicelli,2025,0
+2024-03-11,SKU30,Vermicelli,1275,0
+2024-03-18,SKU30,Vermicelli,2536,0
+2024-03-25,SKU30,Vermicelli,1713,0
+2024-04-01,SKU30,Vermicelli,2412,0
+2024-04-08,SKU30,Vermicelli,3815,0
+2024-04-15,SKU30,Vermicelli,1824,0
+2024-04-22,SKU30,Vermicelli,2341,0
+2024-04-29,SKU30,Vermicelli,2878,0
+2024-05-06,SKU30,Vermicelli,2011,0
+2024-05-13,SKU30,Vermicelli,1878,0
+2024-05-20,SKU30,Vermicelli,2570,0
+2024-05-27,SKU30,Vermicelli,2147,0
+2024-06-03,SKU30,Vermicelli,3100,0
+2024-06-10,SKU30,Vermicelli,1735,0
+2024-06-17,SKU30,Vermicelli,2152,0
+2024-06-24,SKU30,Vermicelli,1735,0
+2024-07-01,SKU30,Vermicelli,2112,0
+2024-07-08,SKU30,Vermicelli,2978,0
+2024-07-15,SKU30,Vermicelli,1794,0
+2024-07-22,SKU30,Vermicelli,1826,0
+2024-07-29,SKU30,Vermicelli,1931,0
+2024-08-05,SKU30,Vermicelli,3615,0
+2024-08-12,SKU30,Vermicelli,2188,0
+2024-08-19,SKU30,Vermicelli,1924,0
+2024-08-26,SKU30,Vermicelli,1660,0
+2024-09-02,SKU30,Vermicelli,2989,0
+2024-09-09,SKU30,Vermicelli,3414,0
+2024-09-16,SKU30,Vermicelli,1462,0
+2024-09-23,SKU30,Vermicelli,1864,0
+2024-09-30,SKU30,Vermicelli,2178,0
+2024-10-07,SKU30,Vermicelli,1417,0
+2024-10-14,SKU30,Vermicelli,2062,0
+2024-10-21,SKU30,Vermicelli,2575,0
+2024-10-28,SKU30,Vermicelli,2215,0
+2024-11-04,SKU30,Vermicelli,1460,0
+2024-11-11,SKU30,Vermicelli,1703,0
+2024-11-18,SKU30,Vermicelli,2876,0
+2024-11-25,SKU30,Vermicelli,2587,0
+2024-12-02,SKU30,Vermicelli,2487,0
+2024-12-09,SKU30,Vermicelli,2410,0
+2024-12-16,SKU30,Vermicelli,2578,0
+2024-12-23,SKU30,Vermicelli,2349,0
+2024-12-30,SKU30,Vermicelli,1910,0
+2025-01-06,SKU30,Vermicelli,1871,0
+2025-01-13,SKU30,Vermicelli,2948,0
+2025-01-20,SKU30,Vermicelli,2038,0
+2025-01-27,SKU30,Vermicelli,2745,0
+2025-02-03,SKU30,Vermicelli,2478,0
+2025-02-10,SKU30,Vermicelli,2564,0
+2025-02-17,SKU30,Vermicelli,2156,0
+2025-02-24,SKU30,Vermicelli,2268,0
+2025-03-03,SKU30,Vermicelli,2119,0
+2025-03-10,SKU30,Vermicelli,2206,0
+2025-03-17,SKU30,Vermicelli,2541,0
+2025-03-24,SKU30,Vermicelli,3376,0
+2025-03-31,SKU30,Vermicelli,2562,0
+2025-04-07,SKU30,Vermicelli,1828,0
+2025-04-14,SKU30,Vermicelli,1802,0
+2025-04-21,SKU30,Vermicelli,2731,0
+2025-04-28,SKU30,Vermicelli,1745,0
+2025-05-05,SKU30,Vermicelli,1628,0
+2025-05-12,SKU30,Vermicelli,2350,0
+2025-05-19,SKU30,Vermicelli,2229,0
+2025-05-26,SKU30,Vermicelli,1551,0
+2025-06-02,SKU30,Vermicelli,2335,0
+2025-06-09,SKU30,Vermicelli,2614,0
+2025-06-16,SKU30,Vermicelli,2205,0
+2025-06-23,SKU30,Vermicelli,2514,0
+2025-06-30,SKU30,Vermicelli,2299,0
+2025-07-07,SKU30,Vermicelli,2264,0
+2025-07-14,SKU30,Vermicelli,2276,0
+2025-07-21,SKU30,Vermicelli,2883,0
+2025-07-28,SKU30,Vermicelli,2218,0
+2025-08-04,SKU30,Vermicelli,2820,0
+2025-08-11,SKU30,Vermicelli,2947,0
+2025-08-18,SKU30,Vermicelli,2834,0
+2025-08-25,SKU30,Vermicelli,2869,2
+2025-09-01,SKU30,Vermicelli,5043,3
+2025-09-08,SKU30,Vermicelli,2163,2
+2025-09-15,SKU30,Vermicelli,1640,0
+2025-09-22,SKU30,Vermicelli,2362,0
+2025-09-29,SKU30,Vermicelli,2370,0
+2025-10-06,SKU30,Vermicelli,1617,0
+2024-01-01,SKU31,Wheat Flour,2023,0
+2024-01-08,SKU31,Wheat Flour,2043,0
+2024-01-15,SKU31,Wheat Flour,2192,0
+2024-01-22,SKU31,Wheat Flour,1936,0
+2024-01-29,SKU31,Wheat Flour,1570,0
+2024-02-05,SKU31,Wheat Flour,1757,0
+2024-02-12,SKU31,Wheat Flour,1764,0
+2024-02-19,SKU31,Wheat Flour,1892,0
+2024-02-26,SKU31,Wheat Flour,2031,0
+2024-03-04,SKU31,Wheat Flour,2112,0
+2024-03-11,SKU31,Wheat Flour,1680,0
+2024-03-18,SKU31,Wheat Flour,1999,0
+2024-03-25,SKU31,Wheat Flour,2175,0
+2024-04-01,SKU31,Wheat Flour,2112,0
+2024-04-08,SKU31,Wheat Flour,2034,0
+2024-04-15,SKU31,Wheat Flour,1800,0
+2024-04-22,SKU31,Wheat Flour,2048,0
+2024-04-29,SKU31,Wheat Flour,1878,0
+2024-05-06,SKU31,Wheat Flour,1980,0
+2024-05-13,SKU31,Wheat Flour,2201,0
+2024-05-20,SKU31,Wheat Flour,1640,0
+2024-05-27,SKU31,Wheat Flour,1775,0
+2024-06-03,SKU31,Wheat Flour,2096,0
+2024-06-10,SKU31,Wheat Flour,1773,0
+2024-06-17,SKU31,Wheat Flour,1946,0
+2024-06-24,SKU31,Wheat Flour,1786,0
+2024-07-01,SKU31,Wheat Flour,2058,0
+2024-07-08,SKU31,Wheat Flour,1927,0
+2024-07-15,SKU31,Wheat Flour,1631,0
+2024-07-22,SKU31,Wheat Flour,1702,0
+2024-07-29,SKU31,Wheat Flour,1954,0
+2024-08-05,SKU31,Wheat Flour,2334,0
+2024-08-12,SKU31,Wheat Flour,1984,0
+2024-08-19,SKU31,Wheat Flour,1975,0
+2024-08-26,SKU31,Wheat Flour,1907,0
+2024-09-02,SKU31,Wheat Flour,1666,0
+2024-09-09,SKU31,Wheat Flour,1782,0
+2024-09-16,SKU31,Wheat Flour,1860,0
+2024-09-23,SKU31,Wheat Flour,2143,0
+2024-09-30,SKU31,Wheat Flour,2072,0
+2024-10-07,SKU31,Wheat Flour,1969,0
+2024-10-14,SKU31,Wheat Flour,1611,0
+2024-10-21,SKU31,Wheat Flour,1918,0
+2024-10-28,SKU31,Wheat Flour,1657,0
+2024-11-04,SKU31,Wheat Flour,1978,0
+2024-11-11,SKU31,Wheat Flour,1949,0
+2024-11-18,SKU31,Wheat Flour,1957,0
+2024-11-25,SKU31,Wheat Flour,2078,0
+2024-12-02,SKU31,Wheat Flour,1849,0
+2024-12-09,SKU31,Wheat Flour,1861,0
+2024-12-16,SKU31,Wheat Flour,1751,0
+2024-12-23,SKU31,Wheat Flour,1534,0
+2024-12-30,SKU31,Wheat Flour,1770,0
+2025-01-06,SKU31,Wheat Flour,1979,0
+2025-01-13,SKU31,Wheat Flour,2074,0
+2025-01-20,SKU31,Wheat Flour,1825,0
+2025-01-27,SKU31,Wheat Flour,1750,0
+2025-02-03,SKU31,Wheat Flour,1695,0
+2025-02-10,SKU31,Wheat Flour,2055,0
+2025-02-17,SKU31,Wheat Flour,1978,0
+2025-02-24,SKU31,Wheat Flour,1771,0
+2025-03-03,SKU31,Wheat Flour,1778,0
+2025-03-10,SKU31,Wheat Flour,1808,0
+2025-03-17,SKU31,Wheat Flour,2175,0
+2025-03-24,SKU31,Wheat Flour,1912,0
+2025-03-31,SKU31,Wheat Flour,1903,0
+2025-04-07,SKU31,Wheat Flour,1923,0
+2025-04-14,SKU31,Wheat Flour,1651,0
+2025-04-21,SKU31,Wheat Flour,1888,0
+2025-04-28,SKU31,Wheat Flour,1841,0
+2025-05-05,SKU31,Wheat Flour,1967,0
+2025-05-12,SKU31,Wheat Flour,2219,0
+2025-05-19,SKU31,Wheat Flour,1529,0
+2025-05-26,SKU31,Wheat Flour,1995,0
+2025-06-02,SKU31,Wheat Flour,1785,0
+2025-06-09,SKU31,Wheat Flour,1664,0
+2025-06-16,SKU31,Wheat Flour,2034,0
+2025-06-23,SKU31,Wheat Flour,1780,0
+2025-06-30,SKU31,Wheat Flour,1764,0
+2025-07-07,SKU31,Wheat Flour,1776,0
+2025-07-14,SKU31,Wheat Flour,1933,0
+2025-07-21,SKU31,Wheat Flour,1822,0
+2025-07-28,SKU31,Wheat Flour,1977,0
+2025-08-04,SKU31,Wheat Flour,2022,0
+2025-08-11,SKU31,Wheat Flour,2023,0
+2025-08-18,SKU31,Wheat Flour,1637,0
+2025-08-25,SKU31,Wheat Flour,1934,0
+2025-09-01,SKU31,Wheat Flour,1915,0
+2025-09-08,SKU31,Wheat Flour,2025,0
+2025-09-15,SKU31,Wheat Flour,1988,0
+2025-09-22,SKU31,Wheat Flour,1604,0
+2025-09-29,SKU31,Wheat Flour,1936,0
+2025-10-06,SKU31,Wheat Flour,1785,0
+2024-01-01,SKU32,Coconut Oil 1L,1085,0
+2024-01-08,SKU32,Coconut Oil 1L,2119,0
+2024-01-15,SKU32,Coconut Oil 1L,1918,0
+2024-01-22,SKU32,Coconut Oil 1L,2153,0
+2024-01-29,SKU32,Coconut Oil 1L,1265,0
+2024-02-05,SKU32,Coconut Oil 1L,1921,0
+2024-02-12,SKU32,Coconut Oil 1L,1655,0
+2024-02-19,SKU32,Coconut Oil 1L,2132,0
+2024-02-26,SKU32,Coconut Oil 1L,1963,0
+2024-03-04,SKU32,Coconut Oil 1L,1518,0
+2024-03-11,SKU32,Coconut Oil 1L,1536,0
+2024-03-18,SKU32,Coconut Oil 1L,1442,0
+2024-03-25,SKU32,Coconut Oil 1L,1949,0
+2024-04-01,SKU32,Coconut Oil 1L,2655,0
+2024-04-08,SKU32,Coconut Oil 1L,2023,0
+2024-04-15,SKU32,Coconut Oil 1L,1790,0
+2024-04-22,SKU32,Coconut Oil 1L,1792,0
+2024-04-29,SKU32,Coconut Oil 1L,1141,0
+2024-05-06,SKU32,Coconut Oil 1L,1337,0
+2024-05-13,SKU32,Coconut Oil 1L,1183,0
+2024-05-20,SKU32,Coconut Oil 1L,1133,0
+2024-05-27,SKU32,Coconut Oil 1L,2109,0
+2024-06-03,SKU32,Coconut Oil 1L,1522,0
+2024-06-10,SKU32,Coconut Oil 1L,2331,0
+2024-06-17,SKU32,Coconut Oil 1L,1837,0
+2024-06-24,SKU32,Coconut Oil 1L,2363,0
+2024-07-01,SKU32,Coconut Oil 1L,1046,0
+2024-07-08,SKU32,Coconut Oil 1L,1664,0
+2024-07-15,SKU32,Coconut Oil 1L,1383,0
+2024-07-22,SKU32,Coconut Oil 1L,1560,0
+2024-07-29,SKU32,Coconut Oil 1L,1906,0
+2024-08-05,SKU32,Coconut Oil 1L,1893,0
+2024-08-12,SKU32,Coconut Oil 1L,1216,0
+2024-08-19,SKU32,Coconut Oil 1L,1565,0
+2024-08-26,SKU32,Coconut Oil 1L,1977,0
+2024-09-02,SKU32,Coconut Oil 1L,1516,0
+2024-09-09,SKU32,Coconut Oil 1L,2645,0
+2024-09-16,SKU32,Coconut Oil 1L,1707,0
+2024-09-23,SKU32,Coconut Oil 1L,1445,0
+2024-09-30,SKU32,Coconut Oil 1L,1697,0
+2024-10-07,SKU32,Coconut Oil 1L,2038,0
+2024-10-14,SKU32,Coconut Oil 1L,2192,0
+2024-10-21,SKU32,Coconut Oil 1L,1405,0
+2024-10-28,SKU32,Coconut Oil 1L,1938,0
+2024-11-04,SKU32,Coconut Oil 1L,1176,0
+2024-11-11,SKU32,Coconut Oil 1L,2194,0
+2024-11-18,SKU32,Coconut Oil 1L,2121,0
+2024-11-25,SKU32,Coconut Oil 1L,2216,0
+2024-12-02,SKU32,Coconut Oil 1L,1633,0
+2024-12-09,SKU32,Coconut Oil 1L,1883,0
+2024-12-16,SKU32,Coconut Oil 1L,1618,0
+2024-12-23,SKU32,Coconut Oil 1L,2344,0
+2024-12-30,SKU32,Coconut Oil 1L,2238,0
+2025-01-06,SKU32,Coconut Oil 1L,1903,0
+2025-01-13,SKU32,Coconut Oil 1L,2006,0
+2025-01-20,SKU32,Coconut Oil 1L,1898,0
+2025-01-27,SKU32,Coconut Oil 1L,1493,0
+2025-02-03,SKU32,Coconut Oil 1L,1043,0
+2025-02-10,SKU32,Coconut Oil 1L,1427,0
+2025-02-17,SKU32,Coconut Oil 1L,1805,0
+2025-02-24,SKU32,Coconut Oil 1L,1917,0
+2025-03-03,SKU32,Coconut Oil 1L,2239,0
+2025-03-10,SKU32,Coconut Oil 1L,2416,0
+2025-03-17,SKU32,Coconut Oil 1L,1348,0
+2025-03-24,SKU32,Coconut Oil 1L,1371,0
+2025-03-31,SKU32,Coconut Oil 1L,2157,0
+2025-04-07,SKU32,Coconut Oil 1L,2286,0
+2025-04-14,SKU32,Coconut Oil 1L,1535,0
+2025-04-21,SKU32,Coconut Oil 1L,1408,0
+2025-04-28,SKU32,Coconut Oil 1L,2100,0
+2025-05-05,SKU32,Coconut Oil 1L,2036,0
+2025-05-12,SKU32,Coconut Oil 1L,2175,0
+2025-05-19,SKU32,Coconut Oil 1L,2081,0
+2025-05-26,SKU32,Coconut Oil 1L,1474,0
+2025-06-02,SKU32,Coconut Oil 1L,1092,0
+2025-06-09,SKU32,Coconut Oil 1L,2076,0
+2025-06-16,SKU32,Coconut Oil 1L,1713,0
+2025-06-23,SKU32,Coconut Oil 1L,1552,0
+2025-06-30,SKU32,Coconut Oil 1L,1896,0
+2025-07-07,SKU32,Coconut Oil 1L,2194,0
+2025-07-14,SKU32,Coconut Oil 1L,1825,0
+2025-07-21,SKU32,Coconut Oil 1L,1579,0
+2025-07-28,SKU32,Coconut Oil 1L,2077,0
+2025-08-04,SKU32,Coconut Oil 1L,2687,0
+2025-08-11,SKU32,Coconut Oil 1L,2366,0
+2025-08-18,SKU32,Coconut Oil 1L,1524,0
+2025-08-25,SKU32,Coconut Oil 1L,2594,0
+2025-09-01,SKU32,Coconut Oil 1L,2984,0
+2025-09-08,SKU32,Coconut Oil 1L,1160,0
+2025-09-15,SKU32,Coconut Oil 1L,1648,0
+2025-09-22,SKU32,Coconut Oil 1L,1301,0
+2025-09-29,SKU32,Coconut Oil 1L,1872,0
+2025-10-06,SKU32,Coconut Oil 1L,2085,0
+2024-01-01,SKU33,Coconut Oil 500ml,1224,0
+2024-01-08,SKU33,Coconut Oil 500ml,1939,0
+2024-01-15,SKU33,Coconut Oil 500ml,1242,0
+2024-01-22,SKU33,Coconut Oil 500ml,1466,0
+2024-01-29,SKU33,Coconut Oil 500ml,1639,0
+2024-02-05,SKU33,Coconut Oil 500ml,1415,0
+2024-02-12,SKU33,Coconut Oil 500ml,1621,0
+2024-02-19,SKU33,Coconut Oil 500ml,1701,0
+2024-02-26,SKU33,Coconut Oil 500ml,1407,0
+2024-03-04,SKU33,Coconut Oil 500ml,1430,0
+2024-03-11,SKU33,Coconut Oil 500ml,1164,0
+2024-03-18,SKU33,Coconut Oil 500ml,1256,0
+2024-03-25,SKU33,Coconut Oil 500ml,2244,0
+2024-04-01,SKU33,Coconut Oil 500ml,1599,0
+2024-04-08,SKU33,Coconut Oil 500ml,2196,0
+2024-04-15,SKU33,Coconut Oil 500ml,1190,0
+2024-04-22,SKU33,Coconut Oil 500ml,1438,0
+2024-04-29,SKU33,Coconut Oil 500ml,1842,0
+2024-05-06,SKU33,Coconut Oil 500ml,1424,0
+2024-05-13,SKU33,Coconut Oil 500ml,1905,0
+2024-05-20,SKU33,Coconut Oil 500ml,2124,0
+2024-05-27,SKU33,Coconut Oil 500ml,1490,0
+2024-06-03,SKU33,Coconut Oil 500ml,1235,0
+2024-06-10,SKU33,Coconut Oil 500ml,1961,0
+2024-06-17,SKU33,Coconut Oil 500ml,1356,0
+2024-06-24,SKU33,Coconut Oil 500ml,1225,0
+2024-07-01,SKU33,Coconut Oil 500ml,1598,0
+2024-07-08,SKU33,Coconut Oil 500ml,2067,0
+2024-07-15,SKU33,Coconut Oil 500ml,1846,0
+2024-07-22,SKU33,Coconut Oil 500ml,1283,0
+2024-07-29,SKU33,Coconut Oil 500ml,1663,0
+2024-08-05,SKU33,Coconut Oil 500ml,1391,0
+2024-08-12,SKU33,Coconut Oil 500ml,1756,0
+2024-08-19,SKU33,Coconut Oil 500ml,1297,0
+2024-08-26,SKU33,Coconut Oil 500ml,1537,0
+2024-09-02,SKU33,Coconut Oil 500ml,1176,0
+2024-09-09,SKU33,Coconut Oil 500ml,2542,0
+2024-09-16,SKU33,Coconut Oil 500ml,1926,0
+2024-09-23,SKU33,Coconut Oil 500ml,1717,0
+2024-09-30,SKU33,Coconut Oil 500ml,1718,0
+2024-10-07,SKU33,Coconut Oil 500ml,1082,0
+2024-10-14,SKU33,Coconut Oil 500ml,1752,0
+2024-10-21,SKU33,Coconut Oil 500ml,1569,0
+2024-10-28,SKU33,Coconut Oil 500ml,1940,0
+2024-11-04,SKU33,Coconut Oil 500ml,1352,0
+2024-11-11,SKU33,Coconut Oil 500ml,1293,0
+2024-11-18,SKU33,Coconut Oil 500ml,1306,0
+2024-11-25,SKU33,Coconut Oil 500ml,1421,0
+2024-12-02,SKU33,Coconut Oil 500ml,1133,0
+2024-12-09,SKU33,Coconut Oil 500ml,1611,0
+2024-12-16,SKU33,Coconut Oil 500ml,1552,0
+2024-12-23,SKU33,Coconut Oil 500ml,1041,0
+2024-12-30,SKU33,Coconut Oil 500ml,2148,0
+2025-01-06,SKU33,Coconut Oil 500ml,1430,0
+2025-01-13,SKU33,Coconut Oil 500ml,1252,0
+2025-01-20,SKU33,Coconut Oil 500ml,1464,0
+2025-01-27,SKU33,Coconut Oil 500ml,1187,0
+2025-02-03,SKU33,Coconut Oil 500ml,1122,0
+2025-02-10,SKU33,Coconut Oil 500ml,760,0
+2025-02-17,SKU33,Coconut Oil 500ml,1221,0
+2025-02-24,SKU33,Coconut Oil 500ml,1181,0
+2025-03-03,SKU33,Coconut Oil 500ml,1423,0
+2025-03-10,SKU33,Coconut Oil 500ml,1548,0
+2025-03-17,SKU33,Coconut Oil 500ml,1299,0
+2025-03-24,SKU33,Coconut Oil 500ml,1492,0
+2025-03-31,SKU33,Coconut Oil 500ml,1378,0
+2025-04-07,SKU33,Coconut Oil 500ml,1542,0
+2025-04-14,SKU33,Coconut Oil 500ml,1556,0
+2025-04-21,SKU33,Coconut Oil 500ml,1817,0
+2025-04-28,SKU33,Coconut Oil 500ml,1552,0
+2025-05-05,SKU33,Coconut Oil 500ml,2223,0
+2025-05-12,SKU33,Coconut Oil 500ml,1539,0
+2025-05-19,SKU33,Coconut Oil 500ml,2119,0
+2025-05-26,SKU33,Coconut Oil 500ml,838,0
+2025-06-02,SKU33,Coconut Oil 500ml,1560,0
+2025-06-09,SKU33,Coconut Oil 500ml,1922,0
+2025-06-16,SKU33,Coconut Oil 500ml,1214,0
+2025-06-23,SKU33,Coconut Oil 500ml,1391,0
+2025-06-30,SKU33,Coconut Oil 500ml,914,0
+2025-07-07,SKU33,Coconut Oil 500ml,1530,0
+2025-07-14,SKU33,Coconut Oil 500ml,1362,0
+2025-07-21,SKU33,Coconut Oil 500ml,1199,0
+2025-07-28,SKU33,Coconut Oil 500ml,1217,0
+2025-08-04,SKU33,Coconut Oil 500ml,1416,0
+2025-08-11,SKU33,Coconut Oil 500ml,1298,0
+2025-08-18,SKU33,Coconut Oil 500ml,1219,0
+2025-08-25,SKU33,Coconut Oil 500ml,1925,0
+2025-09-01,SKU33,Coconut Oil 500ml,1596,0
+2025-09-08,SKU33,Coconut Oil 500ml,1372,0
+2025-09-15,SKU33,Coconut Oil 500ml,1540,0
+2025-09-22,SKU33,Coconut Oil 500ml,1532,0
+2025-09-29,SKU33,Coconut Oil 500ml,1548,0
+2025-10-06,SKU33,Coconut Oil 500ml,1101,0
+2024-01-01,SKU34,Mango Pickle,1120,0
+2024-01-08,SKU34,Mango Pickle,545,0
+2024-01-15,SKU34,Mango Pickle,1207,0
+2024-01-22,SKU34,Mango Pickle,655,0
+2024-01-29,SKU34,Mango Pickle,991,0
+2024-02-05,SKU34,Mango Pickle,1006,0
+2024-02-12,SKU34,Mango Pickle,853,0
+2024-02-19,SKU34,Mango Pickle,1500,0
+2024-02-26,SKU34,Mango Pickle,1051,0
+2024-03-04,SKU34,Mango Pickle,793,0
+2024-03-11,SKU34,Mango Pickle,793,0
+2024-03-18,SKU34,Mango Pickle,750,0
+2024-03-25,SKU34,Mango Pickle,707,0
+2024-04-01,SKU34,Mango Pickle,1327,0
+2024-04-08,SKU34,Mango Pickle,1741,0
+2024-04-15,SKU34,Mango Pickle,1315,0
+2024-04-22,SKU34,Mango Pickle,908,0
+2024-04-29,SKU34,Mango Pickle,758,0
+2024-05-06,SKU34,Mango Pickle,814,0
+2024-05-13,SKU34,Mango Pickle,1048,0
+2024-05-20,SKU34,Mango Pickle,1228,0
+2024-05-27,SKU34,Mango Pickle,934,0
+2024-06-03,SKU34,Mango Pickle,1384,0
+2024-06-10,SKU34,Mango Pickle,1299,0
+2024-06-17,SKU34,Mango Pickle,806,0
+2024-06-24,SKU34,Mango Pickle,1027,0
+2024-07-01,SKU34,Mango Pickle,733,0
+2024-07-08,SKU34,Mango Pickle,778,0
+2024-07-15,SKU34,Mango Pickle,995,0
+2024-07-22,SKU34,Mango Pickle,647,0
+2024-07-29,SKU34,Mango Pickle,1013,0
+2024-08-05,SKU34,Mango Pickle,642,0
+2024-08-12,SKU34,Mango Pickle,812,0
+2024-08-19,SKU34,Mango Pickle,720,0
+2024-08-26,SKU34,Mango Pickle,857,0
+2024-09-02,SKU34,Mango Pickle,846,0
+2024-09-09,SKU34,Mango Pickle,1208,0
+2024-09-16,SKU34,Mango Pickle,926,0
+2024-09-23,SKU34,Mango Pickle,1016,0
+2024-09-30,SKU34,Mango Pickle,1306,0
+2024-10-07,SKU34,Mango Pickle,835,0
+2024-10-14,SKU34,Mango Pickle,928,0
+2024-10-21,SKU34,Mango Pickle,932,0
+2024-10-28,SKU34,Mango Pickle,604,0
+2024-11-04,SKU34,Mango Pickle,670,0
+2024-11-11,SKU34,Mango Pickle,1190,0
+2024-11-18,SKU34,Mango Pickle,1132,0
+2024-11-25,SKU34,Mango Pickle,1009,0
+2024-12-02,SKU34,Mango Pickle,866,0
+2024-12-09,SKU34,Mango Pickle,1012,0
+2024-12-16,SKU34,Mango Pickle,1332,0
+2024-12-23,SKU34,Mango Pickle,1130,0
+2024-12-30,SKU34,Mango Pickle,1014,0
+2025-01-06,SKU34,Mango Pickle,1365,0
+2025-01-13,SKU34,Mango Pickle,1123,0
+2025-01-20,SKU34,Mango Pickle,810,0
+2025-01-27,SKU34,Mango Pickle,1051,0
+2025-02-03,SKU34,Mango Pickle,968,0
+2025-02-10,SKU34,Mango Pickle,988,0
+2025-02-17,SKU34,Mango Pickle,785,0
+2025-02-24,SKU34,Mango Pickle,858,0
+2025-03-03,SKU34,Mango Pickle,643,0
+2025-03-10,SKU34,Mango Pickle,1167,0
+2025-03-17,SKU34,Mango Pickle,1239,0
+2025-03-24,SKU34,Mango Pickle,1291,0
+2025-03-31,SKU34,Mango Pickle,975,0
+2025-04-07,SKU34,Mango Pickle,1479,0
+2025-04-14,SKU34,Mango Pickle,1091,0
+2025-04-21,SKU34,Mango Pickle,959,0
+2025-04-28,SKU34,Mango Pickle,991,0
+2025-05-05,SKU34,Mango Pickle,1502,0
+2025-05-12,SKU34,Mango Pickle,1207,0
+2025-05-19,SKU34,Mango Pickle,1509,0
+2025-05-26,SKU34,Mango Pickle,875,0
+2025-06-02,SKU34,Mango Pickle,891,0
+2025-06-09,SKU34,Mango Pickle,1375,0
+2025-06-16,SKU34,Mango Pickle,588,0
+2025-06-23,SKU34,Mango Pickle,1223,0
+2025-06-30,SKU34,Mango Pickle,924,0
+2025-07-07,SKU34,Mango Pickle,1140,0
+2025-07-14,SKU34,Mango Pickle,653,0
+2025-07-21,SKU34,Mango Pickle,919,0
+2025-07-28,SKU34,Mango Pickle,1158,0
+2025-08-04,SKU34,Mango Pickle,1093,0
+2025-08-11,SKU34,Mango Pickle,1097,0
+2025-08-18,SKU34,Mango Pickle,920,0
+2025-08-25,SKU34,Mango Pickle,778,0
+2025-09-01,SKU34,Mango Pickle,1096,0
+2025-09-08,SKU34,Mango Pickle,902,0
+2025-09-15,SKU34,Mango Pickle,883,0
+2025-09-22,SKU34,Mango Pickle,1377,0
+2025-09-29,SKU34,Mango Pickle,1102,0
+2025-10-06,SKU34,Mango Pickle,662,0
+2024-01-01,SKU35,Lime Pickle,856,0
+2024-01-08,SKU35,Lime Pickle,790,0
+2024-01-15,SKU35,Lime Pickle,769,0
+2024-01-22,SKU35,Lime Pickle,822,0
+2024-01-29,SKU35,Lime Pickle,794,0
+2024-02-05,SKU35,Lime Pickle,858,0
+2024-02-12,SKU35,Lime Pickle,814,0
+2024-02-19,SKU35,Lime Pickle,902,0
+2024-02-26,SKU35,Lime Pickle,745,0
+2024-03-04,SKU35,Lime Pickle,919,0
+2024-03-11,SKU35,Lime Pickle,885,0
+2024-03-18,SKU35,Lime Pickle,717,0
+2024-03-25,SKU35,Lime Pickle,972,0
+2024-04-01,SKU35,Lime Pickle,738,0
+2024-04-08,SKU35,Lime Pickle,818,0
+2024-04-15,SKU35,Lime Pickle,876,0
+2024-04-22,SKU35,Lime Pickle,665,0
+2024-04-29,SKU35,Lime Pickle,805,0
+2024-05-06,SKU35,Lime Pickle,867,0
+2024-05-13,SKU35,Lime Pickle,797,0
+2024-05-20,SKU35,Lime Pickle,873,0
+2024-05-27,SKU35,Lime Pickle,849,0
+2024-06-03,SKU35,Lime Pickle,704,0
+2024-06-10,SKU35,Lime Pickle,977,0
+2024-06-17,SKU35,Lime Pickle,773,0
+2024-06-24,SKU35,Lime Pickle,828,0
+2024-07-01,SKU35,Lime Pickle,727,0
+2024-07-08,SKU35,Lime Pickle,748,0
+2024-07-15,SKU35,Lime Pickle,727,0
+2024-07-22,SKU35,Lime Pickle,776,0
+2024-07-29,SKU35,Lime Pickle,836,0
+2024-08-05,SKU35,Lime Pickle,757,0
+2024-08-12,SKU35,Lime Pickle,955,0
+2024-08-19,SKU35,Lime Pickle,851,0
+2024-08-26,SKU35,Lime Pickle,728,0
+2024-09-02,SKU35,Lime Pickle,817,0
+2024-09-09,SKU35,Lime Pickle,887,0
+2024-09-16,SKU35,Lime Pickle,832,0
+2024-09-23,SKU35,Lime Pickle,714,0
+2024-09-30,SKU35,Lime Pickle,704,0
+2024-10-07,SKU35,Lime Pickle,836,0
+2024-10-14,SKU35,Lime Pickle,742,0
+2024-10-21,SKU35,Lime Pickle,789,0
+2024-10-28,SKU35,Lime Pickle,822,0
+2024-11-04,SKU35,Lime Pickle,754,0
+2024-11-11,SKU35,Lime Pickle,1010,0
+2024-11-18,SKU35,Lime Pickle,842,0
+2024-11-25,SKU35,Lime Pickle,811,0
+2024-12-02,SKU35,Lime Pickle,799,0
+2024-12-09,SKU35,Lime Pickle,746,0
+2024-12-16,SKU35,Lime Pickle,745,0
+2024-12-23,SKU35,Lime Pickle,878,0
+2024-12-30,SKU35,Lime Pickle,781,0
+2025-01-06,SKU35,Lime Pickle,775,0
+2025-01-13,SKU35,Lime Pickle,922,0
+2025-01-20,SKU35,Lime Pickle,874,0
+2025-01-27,SKU35,Lime Pickle,795,0
+2025-02-03,SKU35,Lime Pickle,869,0
+2025-02-10,SKU35,Lime Pickle,803,0
+2025-02-17,SKU35,Lime Pickle,896,0
+2025-02-24,SKU35,Lime Pickle,796,0
+2025-03-03,SKU35,Lime Pickle,792,0
+2025-03-10,SKU35,Lime Pickle,836,0
+2025-03-17,SKU35,Lime Pickle,789,0
+2025-03-24,SKU35,Lime Pickle,799,0
+2025-03-31,SKU35,Lime Pickle,836,0
+2025-04-07,SKU35,Lime Pickle,726,0
+2025-04-14,SKU35,Lime Pickle,784,0
+2025-04-21,SKU35,Lime Pickle,922,0
+2025-04-28,SKU35,Lime Pickle,905,0
+2025-05-05,SKU35,Lime Pickle,858,0
+2025-05-12,SKU35,Lime Pickle,649,0
+2025-05-19,SKU35,Lime Pickle,887,0
+2025-05-26,SKU35,Lime Pickle,719,0
+2025-06-02,SKU35,Lime Pickle,908,0
+2025-06-09,SKU35,Lime Pickle,702,0
+2025-06-16,SKU35,Lime Pickle,725,0
+2025-06-23,SKU35,Lime Pickle,652,0
+2025-06-30,SKU35,Lime Pickle,661,0
+2025-07-07,SKU35,Lime Pickle,878,0
+2025-07-14,SKU35,Lime Pickle,924,0
+2025-07-21,SKU35,Lime Pickle,880,0
+2025-07-28,SKU35,Lime Pickle,813,0
+2025-08-04,SKU35,Lime Pickle,660,0
+2025-08-11,SKU35,Lime Pickle,893,0
+2025-08-18,SKU35,Lime Pickle,796,0
+2025-08-25,SKU35,Lime Pickle,860,0
+2025-09-01,SKU35,Lime Pickle,790,0
+2025-09-08,SKU35,Lime Pickle,765,0
+2025-09-15,SKU35,Lime Pickle,739,0
+2025-09-22,SKU35,Lime Pickle,894,0
+2025-09-29,SKU35,Lime Pickle,884,0
+2025-10-06,SKU35,Lime Pickle,908,0
+2024-01-01,SKU36,Garlic Pickle,315,0
+2024-01-08,SKU36,Garlic Pickle,245,0
+2024-01-15,SKU36,Garlic Pickle,833,0
+2024-01-22,SKU36,Garlic Pickle,221,0
+2024-01-29,SKU36,Garlic Pickle,239,0
+2024-02-05,SKU36,Garlic Pickle,129,0
+2024-02-12,SKU36,Garlic Pickle,384,0
+2024-02-19,SKU36,Garlic Pickle,288,0
+2024-02-26,SKU36,Garlic Pickle,277,0
+2024-03-04,SKU36,Garlic Pickle,199,0
+2024-03-11,SKU36,Garlic Pickle,632,0
+2024-03-18,SKU36,Garlic Pickle,346,0
+2024-03-25,SKU36,Garlic Pickle,472,0
+2024-04-01,SKU36,Garlic Pickle,266,0
+2024-04-08,SKU36,Garlic Pickle,265,0
+2024-04-15,SKU36,Garlic Pickle,304,0
+2024-04-22,SKU36,Garlic Pickle,340,0
+2024-04-29,SKU36,Garlic Pickle,175,0
+2024-05-06,SKU36,Garlic Pickle,405,0
+2024-05-13,SKU36,Garlic Pickle,362,0
+2024-05-20,SKU36,Garlic Pickle,581,0
+2024-05-27,SKU36,Garlic Pickle,235,0
+2024-06-03,SKU36,Garlic Pickle,80,0
+2024-06-10,SKU36,Garlic Pickle,307,0
+2024-06-17,SKU36,Garlic Pickle,480,0
+2024-06-24,SKU36,Garlic Pickle,316,0
+2024-07-01,SKU36,Garlic Pickle,287,0
+2024-07-08,SKU36,Garlic Pickle,342,0
+2024-07-15,SKU36,Garlic Pickle,497,0
+2024-07-22,SKU36,Garlic Pickle,338,0
+2024-07-29,SKU36,Garlic Pickle,413,0
+2024-08-05,SKU36,Garlic Pickle,227,0
+2024-08-12,SKU36,Garlic Pickle,616,0
+2024-08-19,SKU36,Garlic Pickle,156,0
+2024-08-26,SKU36,Garlic Pickle,204,0
+2024-09-02,SKU36,Garlic Pickle,670,0
+2024-09-09,SKU36,Garlic Pickle,254,0
+2024-09-16,SKU36,Garlic Pickle,284,0
+2024-09-23,SKU36,Garlic Pickle,594,0
+2024-09-30,SKU36,Garlic Pickle,454,0
+2024-10-07,SKU36,Garlic Pickle,166,0
+2024-10-14,SKU36,Garlic Pickle,82,0
+2024-10-21,SKU36,Garlic Pickle,343,0
+2024-10-28,SKU36,Garlic Pickle,389,0
+2024-11-04,SKU36,Garlic Pickle,259,0
+2024-11-11,SKU36,Garlic Pickle,316,0
+2024-11-18,SKU36,Garlic Pickle,548,0
+2024-11-25,SKU36,Garlic Pickle,345,0
+2024-12-02,SKU36,Garlic Pickle,312,0
+2024-12-09,SKU36,Garlic Pickle,371,0
+2024-12-16,SKU36,Garlic Pickle,114,0
+2024-12-23,SKU36,Garlic Pickle,372,0
+2024-12-30,SKU36,Garlic Pickle,160,0
+2025-01-06,SKU36,Garlic Pickle,239,0
+2025-01-13,SKU36,Garlic Pickle,166,0
+2025-01-20,SKU36,Garlic Pickle,187,0
+2025-01-27,SKU36,Garlic Pickle,423,0
+2025-02-03,SKU36,Garlic Pickle,290,0
+2025-02-10,SKU36,Garlic Pickle,509,0
+2025-02-17,SKU36,Garlic Pickle,272,0
+2025-02-24,SKU36,Garlic Pickle,218,0
+2025-03-03,SKU36,Garlic Pickle,432,0
+2025-03-10,SKU36,Garlic Pickle,568,0
+2025-03-17,SKU36,Garlic Pickle,260,0
+2025-03-24,SKU36,Garlic Pickle,444,0
+2025-03-31,SKU36,Garlic Pickle,505,0
+2025-04-07,SKU36,Garlic Pickle,603,0
+2025-04-14,SKU36,Garlic Pickle,120,0
+2025-04-21,SKU36,Garlic Pickle,231,0
+2025-04-28,SKU36,Garlic Pickle,185,0
+2025-05-05,SKU36,Garlic Pickle,461,0
+2025-05-12,SKU36,Garlic Pickle,261,0
+2025-05-19,SKU36,Garlic Pickle,578,0
+2025-05-26,SKU36,Garlic Pickle,200,0
+2025-06-02,SKU36,Garlic Pickle,293,0
+2025-06-09,SKU36,Garlic Pickle,241,0
+2025-06-16,SKU36,Garlic Pickle,516,0
+2025-06-23,SKU36,Garlic Pickle,565,0
+2025-06-30,SKU36,Garlic Pickle,190,0
+2025-07-07,SKU36,Garlic Pickle,514,0
+2025-07-14,SKU36,Garlic Pickle,220,0
+2025-07-21,SKU36,Garlic Pickle,117,0
+2025-07-28,SKU36,Garlic Pickle,139,0
+2025-08-04,SKU36,Garlic Pickle,334,0
+2025-08-11,SKU36,Garlic Pickle,605,0
+2025-08-18,SKU36,Garlic Pickle,443,0
+2025-08-25,SKU36,Garlic Pickle,278,0
+2025-09-01,SKU36,Garlic Pickle,477,0
+2025-09-08,SKU36,Garlic Pickle,428,0
+2025-09-15,SKU36,Garlic Pickle,345,0
+2025-09-22,SKU36,Garlic Pickle,195,0
+2025-09-29,SKU36,Garlic Pickle,180,0
+2025-10-06,SKU36,Garlic Pickle,242,0
+2024-01-01,SKU37,Fish Pickle,419,0
+2024-01-08,SKU37,Fish Pickle,144,0
+2024-01-15,SKU37,Fish Pickle,142,0
+2024-01-22,SKU37,Fish Pickle,49,0
+2024-01-29,SKU37,Fish Pickle,291,0
+2024-02-05,SKU37,Fish Pickle,187,0
+2024-02-12,SKU37,Fish Pickle,165,0
+2024-02-19,SKU37,Fish Pickle,213,0
+2024-02-26,SKU37,Fish Pickle,537,0
+2024-03-04,SKU37,Fish Pickle,295,0
+2024-03-11,SKU37,Fish Pickle,136,0
+2024-03-18,SKU37,Fish Pickle,239,0
+2024-03-25,SKU37,Fish Pickle,122,0
+2024-04-01,SKU37,Fish Pickle,442,0
+2024-04-08,SKU37,Fish Pickle,164,0
+2024-04-15,SKU37,Fish Pickle,282,0
+2024-04-22,SKU37,Fish Pickle,100,0
+2024-04-29,SKU37,Fish Pickle,204,0
+2024-05-06,SKU37,Fish Pickle,129,0
+2024-05-13,SKU37,Fish Pickle,136,0
+2024-05-20,SKU37,Fish Pickle,420,0
+2024-05-27,SKU37,Fish Pickle,206,0
+2024-06-03,SKU37,Fish Pickle,221,0
+2024-06-10,SKU37,Fish Pickle,218,0
+2024-06-17,SKU37,Fish Pickle,342,0
+2024-06-24,SKU37,Fish Pickle,439,0
+2024-07-01,SKU37,Fish Pickle,139,0
+2024-07-08,SKU37,Fish Pickle,563,0
+2024-07-15,SKU37,Fish Pickle,95,0
+2024-07-22,SKU37,Fish Pickle,187,0
+2024-07-29,SKU37,Fish Pickle,322,0
+2024-08-05,SKU37,Fish Pickle,227,0
+2024-08-12,SKU37,Fish Pickle,239,0
+2024-08-19,SKU37,Fish Pickle,185,0
+2024-08-26,SKU37,Fish Pickle,203,0
+2024-09-02,SKU37,Fish Pickle,332,0
+2024-09-09,SKU37,Fish Pickle,129,0
+2024-09-16,SKU37,Fish Pickle,330,0
+2024-09-23,SKU37,Fish Pickle,223,0
+2024-09-30,SKU37,Fish Pickle,161,0
+2024-10-07,SKU37,Fish Pickle,285,0
+2024-10-14,SKU37,Fish Pickle,162,0
+2024-10-21,SKU37,Fish Pickle,236,0
+2024-10-28,SKU37,Fish Pickle,241,0
+2024-11-04,SKU37,Fish Pickle,498,0
+2024-11-11,SKU37,Fish Pickle,194,0
+2024-11-18,SKU37,Fish Pickle,645,0
+2024-11-25,SKU37,Fish Pickle,182,0
+2024-12-02,SKU37,Fish Pickle,193,0
+2024-12-09,SKU37,Fish Pickle,184,0
+2024-12-16,SKU37,Fish Pickle,144,0
+2024-12-23,SKU37,Fish Pickle,70,0
+2024-12-30,SKU37,Fish Pickle,209,0
+2025-01-06,SKU37,Fish Pickle,262,0
+2025-01-13,SKU37,Fish Pickle,127,0
+2025-01-20,SKU37,Fish Pickle,158,0
+2025-01-27,SKU37,Fish Pickle,219,0
+2025-02-03,SKU37,Fish Pickle,336,0
+2025-02-10,SKU37,Fish Pickle,130,0
+2025-02-17,SKU37,Fish Pickle,198,0
+2025-02-24,SKU37,Fish Pickle,137,0
+2025-03-03,SKU37,Fish Pickle,213,0
+2025-03-10,SKU37,Fish Pickle,306,0
+2025-03-17,SKU37,Fish Pickle,430,0
+2025-03-24,SKU37,Fish Pickle,192,0
+2025-03-31,SKU37,Fish Pickle,172,0
+2025-04-07,SKU37,Fish Pickle,291,0
+2025-04-14,SKU37,Fish Pickle,188,0
+2025-04-21,SKU37,Fish Pickle,180,0
+2025-04-28,SKU37,Fish Pickle,161,0
+2025-05-05,SKU37,Fish Pickle,431,0
+2025-05-12,SKU37,Fish Pickle,369,0
+2025-05-19,SKU37,Fish Pickle,215,0
+2025-05-26,SKU37,Fish Pickle,307,0
+2025-06-02,SKU37,Fish Pickle,177,0
+2025-06-09,SKU37,Fish Pickle,198,0
+2025-06-16,SKU37,Fish Pickle,150,0
+2025-06-23,SKU37,Fish Pickle,234,0
+2025-06-30,SKU37,Fish Pickle,81,0
+2025-07-07,SKU37,Fish Pickle,215,0
+2025-07-14,SKU37,Fish Pickle,187,0
+2025-07-21,SKU37,Fish Pickle,121,0
+2025-07-28,SKU37,Fish Pickle,152,0
+2025-08-04,SKU37,Fish Pickle,313,0
+2025-08-11,SKU37,Fish Pickle,79,0
+2025-08-18,SKU37,Fish Pickle,79,0
+2025-08-25,SKU37,Fish Pickle,245,0
+2025-09-01,SKU37,Fish Pickle,291,0
+2025-09-08,SKU37,Fish Pickle,280,0
+2025-09-15,SKU37,Fish Pickle,116,0
+2025-09-22,SKU37,Fish Pickle,350,0
+2025-09-29,SKU37,Fish Pickle,454,0
+2025-10-06,SKU37,Fish Pickle,229,0
+2024-01-01,SKU38,Malabar Parotta frozen,1622,0
+2024-01-08,SKU38,Malabar Parotta frozen,2293,0
+2024-01-15,SKU38,Malabar Parotta frozen,2095,0
+2024-01-22,SKU38,Malabar Parotta frozen,2839,0
+2024-01-29,SKU38,Malabar Parotta frozen,2269,0
+2024-02-05,SKU38,Malabar Parotta frozen,2836,0
+2024-02-12,SKU38,Malabar Parotta frozen,2070,0
+2024-02-19,SKU38,Malabar Parotta frozen,2909,0
+2024-02-26,SKU38,Malabar Parotta frozen,2264,0
+2024-03-04,SKU38,Malabar Parotta frozen,2879,0
+2024-03-11,SKU38,Malabar Parotta frozen,1800,0
+2024-03-18,SKU38,Malabar Parotta frozen,1633,0
+2024-03-25,SKU38,Malabar Parotta frozen,1683,0
+2024-04-01,SKU38,Malabar Parotta frozen,3207,0
+2024-04-08,SKU38,Malabar Parotta frozen,2842,0
+2024-04-15,SKU38,Malabar Parotta frozen,1717,0
+2024-04-22,SKU38,Malabar Parotta frozen,2205,0
+2024-04-29,SKU38,Malabar Parotta frozen,2431,0
+2024-05-06,SKU38,Malabar Parotta frozen,1547,0
+2024-05-13,SKU38,Malabar Parotta frozen,2713,0
+2024-05-20,SKU38,Malabar Parotta frozen,1767,0
+2024-05-27,SKU38,Malabar Parotta frozen,2393,0
+2024-06-03,SKU38,Malabar Parotta frozen,3284,0
+2024-06-10,SKU38,Malabar Parotta frozen,2910,0
+2024-06-17,SKU38,Malabar Parotta frozen,1979,0
+2024-06-24,SKU38,Malabar Parotta frozen,2993,0
+2024-07-01,SKU38,Malabar Parotta frozen,1416,0
+2024-07-08,SKU38,Malabar Parotta frozen,2246,0
+2024-07-15,SKU38,Malabar Parotta frozen,2191,0
+2024-07-22,SKU38,Malabar Parotta frozen,2015,0
+2024-07-29,SKU38,Malabar Parotta frozen,2447,0
+2024-08-05,SKU38,Malabar Parotta frozen,1767,0
+2024-08-12,SKU38,Malabar Parotta frozen,2061,0
+2024-08-19,SKU38,Malabar Parotta frozen,1527,0
+2024-08-26,SKU38,Malabar Parotta frozen,2069,0
+2024-09-02,SKU38,Malabar Parotta frozen,2264,0
+2024-09-09,SKU38,Malabar Parotta frozen,3277,0
+2024-09-16,SKU38,Malabar Parotta frozen,2533,0
+2024-09-23,SKU38,Malabar Parotta frozen,1873,0
+2024-09-30,SKU38,Malabar Parotta frozen,3026,0
+2024-10-07,SKU38,Malabar Parotta frozen,1981,0
+2024-10-14,SKU38,Malabar Parotta frozen,2026,0
+2024-10-21,SKU38,Malabar Parotta frozen,2529,0
+2024-10-28,SKU38,Malabar Parotta frozen,2206,0
+2024-11-04,SKU38,Malabar Parotta frozen,2918,0
+2024-11-11,SKU38,Malabar Parotta frozen,2069,0
+2024-11-18,SKU38,Malabar Parotta frozen,3336,0
+2024-11-25,SKU38,Malabar Parotta frozen,2414,0
+2024-12-02,SKU38,Malabar Parotta frozen,3075,0
+2024-12-09,SKU38,Malabar Parotta frozen,2097,0
+2024-12-16,SKU38,Malabar Parotta frozen,2840,0
+2024-12-23,SKU38,Malabar Parotta frozen,2048,0
+2024-12-30,SKU38,Malabar Parotta frozen,2494,0
+2025-01-06,SKU38,Malabar Parotta frozen,1939,0
+2025-01-13,SKU38,Malabar Parotta frozen,1959,0
+2025-01-20,SKU38,Malabar Parotta frozen,2645,0
+2025-01-27,SKU38,Malabar Parotta frozen,1981,0
+2025-02-03,SKU38,Malabar Parotta frozen,3708,0
+2025-02-10,SKU38,Malabar Parotta frozen,3426,0
+2025-02-17,SKU38,Malabar Parotta frozen,1604,0
+2025-02-24,SKU38,Malabar Parotta frozen,1576,0
+2025-03-03,SKU38,Malabar Parotta frozen,1380,0
+2025-03-10,SKU38,Malabar Parotta frozen,1966,0
+2025-03-17,SKU38,Malabar Parotta frozen,3175,0
+2025-03-24,SKU38,Malabar Parotta frozen,3705,0
+2025-03-31,SKU38,Malabar Parotta frozen,2616,0
+2025-04-07,SKU38,Malabar Parotta frozen,2475,0
+2025-04-14,SKU38,Malabar Parotta frozen,2285,0
+2025-04-21,SKU38,Malabar Parotta frozen,2367,0
+2025-04-28,SKU38,Malabar Parotta frozen,2927,0
+2025-05-05,SKU38,Malabar Parotta frozen,1521,0
+2025-05-12,SKU38,Malabar Parotta frozen,1725,0
+2025-05-19,SKU38,Malabar Parotta frozen,2364,0
+2025-05-26,SKU38,Malabar Parotta frozen,2139,0
+2025-06-02,SKU38,Malabar Parotta frozen,2530,0
+2025-06-09,SKU38,Malabar Parotta frozen,2000,0
+2025-06-16,SKU38,Malabar Parotta frozen,1837,0
+2025-06-23,SKU38,Malabar Parotta frozen,2834,0
+2025-06-30,SKU38,Malabar Parotta frozen,3145,0
+2025-07-07,SKU38,Malabar Parotta frozen,1588,0
+2025-07-14,SKU38,Malabar Parotta frozen,1693,0
+2025-07-21,SKU38,Malabar Parotta frozen,2539,0
+2025-07-28,SKU38,Malabar Parotta frozen,1567,0
+2025-08-04,SKU38,Malabar Parotta frozen,2390,0
+2025-08-11,SKU38,Malabar Parotta frozen,2768,0
+2025-08-18,SKU38,Malabar Parotta frozen,1859,0
+2025-08-25,SKU38,Malabar Parotta frozen,2808,0
+2025-09-01,SKU38,Malabar Parotta frozen,3094,0
+2025-09-08,SKU38,Malabar Parotta frozen,2330,0
+2025-09-15,SKU38,Malabar Parotta frozen,1598,0
+2025-09-22,SKU38,Malabar Parotta frozen,1629,0
+2025-09-29,SKU38,Malabar Parotta frozen,2709,0
+2025-10-06,SKU38,Malabar Parotta frozen,1992,0
+2024-01-01,SKU39,Chapati frozen,660,0
+2024-01-08,SKU39,Chapati frozen,643,0
+2024-01-15,SKU39,Chapati frozen,682,0
+2024-01-22,SKU39,Chapati frozen,650,0
+2024-01-29,SKU39,Chapati frozen,661,0
+2024-02-05,SKU39,Chapati frozen,676,0
+2024-02-12,SKU39,Chapati frozen,1063,0
+2024-02-19,SKU39,Chapati frozen,804,0
+2024-02-26,SKU39,Chapati frozen,944,0
+2024-03-04,SKU39,Chapati frozen,811,0
+2024-03-11,SKU39,Chapati frozen,840,0
+2024-03-18,SKU39,Chapati frozen,533,0
+2024-03-25,SKU39,Chapati frozen,689,0
+2024-04-01,SKU39,Chapati frozen,531,0
+2024-04-08,SKU39,Chapati frozen,762,0
+2024-04-15,SKU39,Chapati frozen,386,0
+2024-04-22,SKU39,Chapati frozen,552,0
+2024-04-29,SKU39,Chapati frozen,1039,0
+2024-05-06,SKU39,Chapati frozen,564,0
+2024-05-13,SKU39,Chapati frozen,747,0
+2024-05-20,SKU39,Chapati frozen,756,0
+2024-05-27,SKU39,Chapati frozen,892,0
+2024-06-03,SKU39,Chapati frozen,606,0
+2024-06-10,SKU39,Chapati frozen,753,0
+2024-06-17,SKU39,Chapati frozen,903,0
+2024-06-24,SKU39,Chapati frozen,711,0
+2024-07-01,SKU39,Chapati frozen,606,0
+2024-07-08,SKU39,Chapati frozen,657,0
+2024-07-15,SKU39,Chapati frozen,701,0
+2024-07-22,SKU39,Chapati frozen,701,0
+2024-07-29,SKU39,Chapati frozen,594,0
+2024-08-05,SKU39,Chapati frozen,474,0
+2024-08-12,SKU39,Chapati frozen,660,0
+2024-08-19,SKU39,Chapati frozen,713,0
+2024-08-26,SKU39,Chapati frozen,699,0
+2024-09-02,SKU39,Chapati frozen,699,0
+2024-09-09,SKU39,Chapati frozen,840,0
+2024-09-16,SKU39,Chapati frozen,966,0
+2024-09-23,SKU39,Chapati frozen,776,0
+2024-09-30,SKU39,Chapati frozen,615,0
+2024-10-07,SKU39,Chapati frozen,844,0
+2024-10-14,SKU39,Chapati frozen,790,0
+2024-10-21,SKU39,Chapati frozen,614,0
+2024-10-28,SKU39,Chapati frozen,765,0
+2024-11-04,SKU39,Chapati frozen,537,0
+2024-11-11,SKU39,Chapati frozen,723,0
+2024-11-18,SKU39,Chapati frozen,685,0
+2024-11-25,SKU39,Chapati frozen,579,0
+2024-12-02,SKU39,Chapati frozen,360,0
+2024-12-09,SKU39,Chapati frozen,376,0
+2024-12-16,SKU39,Chapati frozen,793,0
+2024-12-23,SKU39,Chapati frozen,551,0
+2024-12-30,SKU39,Chapati frozen,1000,0
+2025-01-06,SKU39,Chapati frozen,733,0
+2025-01-13,SKU39,Chapati frozen,782,0
+2025-01-20,SKU39,Chapati frozen,1154,0
+2025-01-27,SKU39,Chapati frozen,781,0
+2025-02-03,SKU39,Chapati frozen,698,0
+2025-02-10,SKU39,Chapati frozen,460,0
+2025-02-17,SKU39,Chapati frozen,610,0
+2025-02-24,SKU39,Chapati frozen,975,0
+2025-03-03,SKU39,Chapati frozen,1061,0
+2025-03-10,SKU39,Chapati frozen,556,0
+2025-03-17,SKU39,Chapati frozen,912,0
+2025-03-24,SKU39,Chapati frozen,639,0
+2025-03-31,SKU39,Chapati frozen,738,0
+2025-04-07,SKU39,Chapati frozen,723,0
+2025-04-14,SKU39,Chapati frozen,478,0
+2025-04-21,SKU39,Chapati frozen,597,0
+2025-04-28,SKU39,Chapati frozen,947,0
+2025-05-05,SKU39,Chapati frozen,463,0
+2025-05-12,SKU39,Chapati frozen,643,0
+2025-05-19,SKU39,Chapati frozen,833,0
+2025-05-26,SKU39,Chapati frozen,700,0
+2025-06-02,SKU39,Chapati frozen,1111,0
+2025-06-09,SKU39,Chapati frozen,736,0
+2025-06-16,SKU39,Chapati frozen,698,0
+2025-06-23,SKU39,Chapati frozen,509,0
+2025-06-30,SKU39,Chapati frozen,681,0
+2025-07-07,SKU39,Chapati frozen,573,0
+2025-07-14,SKU39,Chapati frozen,741,0
+2025-07-21,SKU39,Chapati frozen,1038,0
+2025-07-28,SKU39,Chapati frozen,748,0
+2025-08-04,SKU39,Chapati frozen,723,0
+2025-08-11,SKU39,Chapati frozen,690,0
+2025-08-18,SKU39,Chapati frozen,493,0
+2025-08-25,SKU39,Chapati frozen,760,0
+2025-09-01,SKU39,Chapati frozen,779,0
+2025-09-08,SKU39,Chapati frozen,393,0
+2025-09-15,SKU39,Chapati frozen,709,0
+2025-09-22,SKU39,Chapati frozen,744,0
+2025-09-29,SKU39,Chapati frozen,544,0
+2025-10-06,SKU39,Chapati frozen,885,0
+2024-01-01,SKU40,Idli Batter chilled,2509,0
+2024-01-08,SKU40,Idli Batter chilled,1850,0
+2024-01-15,SKU40,Idli Batter chilled,2123,0
+2024-01-22,SKU40,Idli Batter chilled,1472,0
+2024-01-29,SKU40,Idli Batter chilled,2247,0
+2024-02-05,SKU40,Idli Batter chilled,2118,0
+2024-02-12,SKU40,Idli Batter chilled,1995,0
+2024-02-19,SKU40,Idli Batter chilled,1414,0
+2024-02-26,SKU40,Idli Batter chilled,1325,0
+2024-03-04,SKU40,Idli Batter chilled,1538,0
+2024-03-11,SKU40,Idli Batter chilled,1172,0
+2024-03-18,SKU40,Idli Batter chilled,1777,0
+2024-03-25,SKU40,Idli Batter chilled,2407,0
+2024-04-01,SKU40,Idli Batter chilled,2008,0
+2024-04-08,SKU40,Idli Batter chilled,2355,0
+2024-04-15,SKU40,Idli Batter chilled,895,0
+2024-04-22,SKU40,Idli Batter chilled,2154,0
+2024-04-29,SKU40,Idli Batter chilled,2669,0
+2024-05-06,SKU40,Idli Batter chilled,2038,0
+2024-05-13,SKU40,Idli Batter chilled,1494,0
+2024-05-20,SKU40,Idli Batter chilled,1586,0
+2024-05-27,SKU40,Idli Batter chilled,2047,0
+2024-06-03,SKU40,Idli Batter chilled,1850,0
+2024-06-10,SKU40,Idli Batter chilled,1689,0
+2024-06-17,SKU40,Idli Batter chilled,2094,0
+2024-06-24,SKU40,Idli Batter chilled,2231,0
+2024-07-01,SKU40,Idli Batter chilled,1733,0
+2024-07-08,SKU40,Idli Batter chilled,2078,0
+2024-07-15,SKU40,Idli Batter chilled,1119,0
+2024-07-22,SKU40,Idli Batter chilled,1519,0
+2024-07-29,SKU40,Idli Batter chilled,2257,0
+2024-08-05,SKU40,Idli Batter chilled,1482,0
+2024-08-12,SKU40,Idli Batter chilled,1805,0
+2024-08-19,SKU40,Idli Batter chilled,1660,0
+2024-08-26,SKU40,Idli Batter chilled,1588,0
+2024-09-02,SKU40,Idli Batter chilled,1785,0
+2024-09-09,SKU40,Idli Batter chilled,2424,0
+2024-09-16,SKU40,Idli Batter chilled,1256,0
+2024-09-23,SKU40,Idli Batter chilled,1556,0
+2024-09-30,SKU40,Idli Batter chilled,1631,0
+2024-10-07,SKU40,Idli Batter chilled,2359,0
+2024-10-14,SKU40,Idli Batter chilled,2139,0
+2024-10-21,SKU40,Idli Batter chilled,2092,0
+2024-10-28,SKU40,Idli Batter chilled,1941,0
+2024-11-04,SKU40,Idli Batter chilled,1936,0
+2024-11-11,SKU40,Idli Batter chilled,1272,0
+2024-11-18,SKU40,Idli Batter chilled,1745,0
+2024-11-25,SKU40,Idli Batter chilled,1765,0
+2024-12-02,SKU40,Idli Batter chilled,2419,0
+2024-12-09,SKU40,Idli Batter chilled,1533,0
+2024-12-16,SKU40,Idli Batter chilled,1792,0
+2024-12-23,SKU40,Idli Batter chilled,1429,0
+2024-12-30,SKU40,Idli Batter chilled,1395,0
+2025-01-06,SKU40,Idli Batter chilled,1659,0
+2025-01-13,SKU40,Idli Batter chilled,1662,0
+2025-01-20,SKU40,Idli Batter chilled,1243,0
+2025-01-27,SKU40,Idli Batter chilled,1702,0
+2025-02-03,SKU40,Idli Batter chilled,1979,0
+2025-02-10,SKU40,Idli Batter chilled,2626,0
+2025-02-17,SKU40,Idli Batter chilled,1474,0
+2025-02-24,SKU40,Idli Batter chilled,1791,0
+2025-03-03,SKU40,Idli Batter chilled,2131,0
+2025-03-10,SKU40,Idli Batter chilled,3173,0
+2025-03-17,SKU40,Idli Batter chilled,1646,0
+2025-03-24,SKU40,Idli Batter chilled,2008,0
+2025-03-31,SKU40,Idli Batter chilled,1910,0
+2025-04-07,SKU40,Idli Batter chilled,1531,0
+2025-04-14,SKU40,Idli Batter chilled,1362,0
+2025-04-21,SKU40,Idli Batter chilled,1632,0
+2025-04-28,SKU40,Idli Batter chilled,2142,0
+2025-05-05,SKU40,Idli Batter chilled,1686,0
+2025-05-12,SKU40,Idli Batter chilled,1915,0
+2025-05-19,SKU40,Idli Batter chilled,2006,0
+2025-05-26,SKU40,Idli Batter chilled,1986,0
+2025-06-02,SKU40,Idli Batter chilled,1378,0
+2025-06-09,SKU40,Idli Batter chilled,1569,0
+2025-06-16,SKU40,Idli Batter chilled,2854,0
+2025-06-23,SKU40,Idli Batter chilled,1447,0
+2025-06-30,SKU40,Idli Batter chilled,3117,0
+2025-07-07,SKU40,Idli Batter chilled,1986,0
+2025-07-14,SKU40,Idli Batter chilled,1564,0
+2025-07-21,SKU40,Idli Batter chilled,1027,0
+2025-07-28,SKU40,Idli Batter chilled,2367,0
+2025-08-04,SKU40,Idli Batter chilled,1747,0
+2025-08-11,SKU40,Idli Batter chilled,2202,0
+2025-08-18,SKU40,Idli Batter chilled,2218,0
+2025-08-25,SKU40,Idli Batter chilled,2257,0
+2025-09-01,SKU40,Idli Batter chilled,1382,0
+2025-09-08,SKU40,Idli Batter chilled,1527,0
+2025-09-15,SKU40,Idli Batter chilled,2586,0
+2025-09-22,SKU40,Idli Batter chilled,1643,0
+2025-09-29,SKU40,Idli Batter chilled,1231,0
+2025-10-06,SKU40,Idli Batter chilled,1869,0

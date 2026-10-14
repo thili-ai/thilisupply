@@ -1,0 +1,1341 @@
+shipment_id,ship_date,origin_dc,destination_region,lane,carrier,weight_kg,cost_inr,promised_days,actual_days
+SH0001,2024-01-01,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,500,1878,4,4
+SH0002,2024-01-01,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1050,3192,3,3
+SH0003,2024-01-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,7550,16582,3,5
+SH0004,2024-01-02,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,3750,7512,2,2
+SH0005,2024-01-02,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1375,5410,4,4
+SH0006,2024-01-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3100,3096,1,1
+SH0007,2024-01-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2400,7027,3,3
+SH0008,2024-01-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2950,3482,1,1
+SH0009,2024-01-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,1475,1831,1,1
+SH0010,2024-01-05,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4350,7391,2,2
+SH0011,2024-01-05,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,825,1715,2,2
+SH0012,2024-01-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4000,13689,4,4
+SH0013,2024-01-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,500,2186,4,4
+SH0014,2024-01-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,4100,15298,4,4
+SH0015,2024-01-07,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6700,9686,2,2
+SH0016,2024-01-07,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,750,3022,3,3
+SH0017,2024-01-07,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7650,7100,1,1
+SH0018,2024-01-08,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,7050,10463,2,2
+SH0019,2024-01-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1100,4261,4,4
+SH0020,2024-01-08,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2250,2740,1,1
+SH0021,2024-01-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,9200,6852,1,1
+SH0022,2024-01-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,7600,6404,1,1
+SH0023,2024-01-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7100,7323,1,1
+SH0024,2024-01-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9150,8315,1,1
+SH0025,2024-01-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7300,8082,1,1
+SH0026,2024-01-10,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1800,6875,4,4
+SH0027,2024-01-11,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,7100,5900,1,1
+SH0028,2024-01-13,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,625,1314,2,2
+SH0029,2024-01-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9500,9288,1,1
+SH0030,2024-01-14,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,2750,5632,2,4
+SH0031,2024-01-15,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1250,2400,2,2
+SH0032,2024-01-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,8650,6523,1,1
+SH0033,2024-01-16,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8650,7176,1,3
+SH0034,2024-01-17,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6600,9903,2,2
+SH0035,2024-01-17,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,7450,13054,2,3
+SH0036,2024-01-17,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6850,7618,1,1
+SH0037,2024-01-19,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2200,4154,2,2
+SH0038,2024-01-19,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4050,12812,4,4
+SH0039,2024-01-19,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4250,5268,1,1
+SH0040,2024-01-19,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6900,7309,1,1
+SH0041,2024-01-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,600,1676,2,2
+SH0042,2024-01-20,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,9400,24230,3,3
+SH0043,2024-01-20,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,2700,3170,1,1
+SH0044,2024-01-20,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2700,7657,3,3
+SH0045,2024-01-21,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,925,3668,4,4
+SH0046,2024-01-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,875,1124,1,1
+SH0047,2024-01-22,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2100,3132,1,1
+SH0048,2024-01-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,1375,1633,1,1
+SH0049,2024-01-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6850,7741,1,1
+SH0050,2024-01-23,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,350,843,2,2
+SH0051,2024-01-23,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,7300,11859,2,2
+SH0052,2024-01-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,9950,8720,1,1
+SH0053,2024-01-24,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,8400,6903,1,1
+SH0054,2024-01-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,500,1586,3,3
+SH0055,2024-01-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2150,2621,1,1
+SH0056,2024-01-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,600,2039,3,3
+SH0057,2024-01-26,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,475,2049,4,4
+SH0058,2024-01-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7000,5309,1,1
+SH0059,2024-01-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7400,7247,1,1
+SH0060,2024-01-30,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1300,2434,2,3
+SH0061,2024-01-30,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,875,1877,2,2
+SH0062,2024-01-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,325,517,1,1
+SH0063,2024-01-31,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,6000,10512,2,2
+SH0064,2024-02-01,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,8150,12774,2,2
+SH0065,2024-02-01,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1125,3631,3,3
+SH0066,2024-02-02,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,525,1162,2,2
+SH0067,2024-02-02,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,8850,22996,4,4
+SH0068,2024-02-02,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,200,593,2,2
+SH0069,2024-02-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7500,8306,1,1
+SH0070,2024-02-06,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,1600,1855,1,1
+SH0071,2024-02-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,650,2634,4,4
+SH0072,2024-02-09,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,2000,5450,2,2
+SH0073,2024-02-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,4700,4731,1,1
+SH0074,2024-02-11,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,225,439,2,2
+SH0075,2024-02-12,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,350,738,2,2
+SH0076,2024-02-12,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3150,4353,1,1
+SH0077,2024-02-12,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,3850,6967,2,2
+SH0078,2024-02-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1750,3123,2,2
+SH0079,2024-02-14,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,275,1068,4,4
+SH0080,2024-02-14,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,850,3605,4,4
+SH0081,2024-02-15,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9900,7659,1,1
+SH0082,2024-02-15,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,8400,17188,3,3
+SH0083,2024-02-15,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6950,7338,1,1
+SH0084,2024-02-17,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,1400,7150,4,4
+SH0085,2024-02-18,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,975,1998,2,2
+SH0086,2024-02-19,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,7500,10117,2,2
+SH0087,2024-02-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6150,6515,1,2
+SH0088,2024-02-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,3100,7447,2,2
+SH0089,2024-02-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,6600,11515,2,2
+SH0090,2024-02-20,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7400,6922,1,1
+SH0091,2024-02-21,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7850,5939,1,1
+SH0092,2024-02-21,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2800,7305,3,3
+SH0093,2024-02-21,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,9400,15269,2,2
+SH0094,2024-02-24,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1225,2709,2,4
+SH0095,2024-02-26,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9800,9261,1,1
+SH0096,2024-02-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8100,8245,1,1
+SH0097,2024-02-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4800,8405,2,2
+SH0098,2024-02-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7450,6455,1,1
+SH0099,2024-02-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3450,4791,1,1
+SH0100,2024-02-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9350,9279,1,1
+SH0101,2024-02-27,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2300,6870,3,3
+SH0102,2024-02-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7600,7830,1,1
+SH0103,2024-02-29,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2050,5854,3,3
+SH0104,2024-02-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2500,3118,1,1
+SH0105,2024-02-29,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8700,9010,1,1
+SH0106,2024-02-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,2550,2657,1,1
+SH0107,2024-02-29,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,8450,13713,2,2
+SH0108,2024-03-02,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4550,14782,4,4
+SH0109,2024-03-02,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,450,1972,4,4
+SH0110,2024-03-03,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,9450,14181,2,2
+SH0111,2024-03-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3000,8368,3,3
+SH0112,2024-03-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,300,1259,4,4
+SH0113,2024-03-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3500,3741,1,1
+SH0114,2024-03-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9400,8624,1,1
+SH0115,2024-03-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3700,4964,1,1
+SH0116,2024-03-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,675,1959,3,3
+SH0117,2024-03-07,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,6050,11017,2,2
+SH0118,2024-03-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,3350,6377,2,2
+SH0119,2024-03-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,8550,12100,2,2
+SH0120,2024-03-08,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3750,5095,1,2
+SH0121,2024-03-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4350,4784,1,1
+SH0122,2024-03-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,1075,1289,1,1
+SH0123,2024-03-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,6150,6000,1,1
+SH0124,2024-03-11,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1475,3187,2,2
+SH0125,2024-03-12,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6900,5896,1,1
+SH0126,2024-03-12,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4450,13797,4,4
+SH0127,2024-03-12,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1300,2977,2,2
+SH0128,2024-03-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4500,5798,1,2
+SH0129,2024-03-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8100,6864,1,1
+SH0130,2024-03-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8100,7337,1,1
+SH0131,2024-03-14,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8650,9174,1,1
+SH0132,2024-03-15,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1400,4604,3,3
+SH0133,2024-03-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,6750,19024,4,4
+SH0134,2024-03-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,10000,9253,1,1
+SH0135,2024-03-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9150,9486,1,1
+SH0136,2024-03-19,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,9550,12374,2,2
+SH0137,2024-03-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2800,8319,3,3
+SH0138,2024-03-20,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2500,6775,3,3
+SH0139,2024-03-20,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8550,8866,1,1
+SH0140,2024-03-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4150,6955,2,2
+SH0141,2024-03-21,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2650,8966,4,4
+SH0142,2024-03-21,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,925,2626,2,2
+SH0143,2024-03-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8800,9265,1,1
+SH0144,2024-03-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,8000,11205,2,2
+SH0145,2024-03-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3300,3900,1,1
+SH0146,2024-03-23,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,1600,5814,3,3
+SH0147,2024-03-24,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1900,3431,2,2
+SH0148,2024-03-24,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,4100,8500,2,2
+SH0149,2024-03-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1250,2590,2,2
+SH0150,2024-03-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,2750,2886,1,1
+SH0151,2024-03-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2750,5418,2,2
+SH0152,2024-03-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,6600,10124,2,2
+SH0153,2024-03-27,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1500,2815,2,2
+SH0154,2024-03-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4500,4403,1,1
+SH0155,2024-03-27,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3600,9535,3,3
+SH0156,2024-03-28,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,3150,6425,2,2
+SH0157,2024-03-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3700,11907,4,4
+SH0158,2024-03-29,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3050,4200,1,3
+SH0159,2024-03-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,250,1224,4,4
+SH0160,2024-03-31,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,10000,25336,4,4
+SH0161,2024-03-31,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6250,5109,1,1
+SH0162,2024-04-01,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,475,1017,2,2
+SH0163,2024-04-03,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,7650,10077,2,2
+SH0164,2024-04-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4000,13817,4,4
+SH0165,2024-04-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9050,9219,1,1
+SH0166,2024-04-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1050,3905,4,4
+SH0167,2024-04-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7600,7136,1,1
+SH0168,2024-04-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,375,1468,4,4
+SH0169,2024-04-05,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,525,1192,2,3
+SH0170,2024-04-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,6100,14638,3,3
+SH0171,2024-04-07,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,7650,6164,1,1
+SH0172,2024-04-07,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1700,2416,1,1
+SH0173,2024-04-07,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,850,3629,4,4
+SH0174,2024-04-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1275,4790,4,4
+SH0175,2024-04-08,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,3000,5774,2,2
+SH0176,2024-04-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,4450,4075,1,1
+SH0177,2024-04-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3050,3711,1,1
+SH0178,2024-04-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,3750,3710,1,1
+SH0179,2024-04-09,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,3700,7394,2,2
+SH0180,2024-04-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,7150,5849,1,1
+SH0181,2024-04-10,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,8400,12190,2,2
+SH0182,2024-04-11,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,7950,14602,2,2
+SH0183,2024-04-12,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6550,5660,1,1
+SH0184,2024-04-12,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,425,1299,3,3
+SH0185,2024-04-12,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2550,9207,4,4
+SH0186,2024-04-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2350,4327,2,2
+SH0187,2024-04-13,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8150,7860,1,1
+SH0188,2024-04-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,5000,8504,2,3
+SH0189,2024-04-13,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,275,674,2,2
+SH0190,2024-04-15,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2150,8107,4,4
+SH0191,2024-04-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8800,8057,1,1
+SH0192,2024-04-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8150,7869,1,1
+SH0193,2024-04-17,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,7050,10896,2,2
+SH0194,2024-04-18,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,200,384,2,2
+SH0195,2024-04-18,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,475,1122,2,2
+SH0196,2024-04-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1200,3690,3,3
+SH0197,2024-04-19,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1300,2805,2,2
+SH0198,2024-04-19,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,4450,8598,2,2
+SH0199,2024-04-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,975,3279,3,3
+SH0200,2024-04-20,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,8850,22732,4,4
+SH0201,2024-04-20,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,9600,7154,1,1
+SH0202,2024-04-20,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1025,4157,4,4
+SH0203,2024-04-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4900,4771,1,1
+SH0204,2024-04-21,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,6900,20493,4,5
+SH0205,2024-04-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3250,4307,1,1
+SH0206,2024-04-22,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,250,493,2,2
+SH0207,2024-04-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,8100,5702,1,1
+SH0208,2024-04-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6100,6278,1,1
+SH0209,2024-04-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,325,1430,4,4
+SH0210,2024-04-24,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4250,4179,1,1
+SH0211,2024-04-24,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,8300,12443,2,2
+SH0212,2024-04-24,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,3100,6314,2,3
+SH0213,2024-04-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2200,4198,2,2
+SH0214,2024-04-25,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,10000,25757,4,4
+SH0215,2024-04-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7000,6889,1,1
+SH0216,2024-04-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,7050,16428,3,3
+SH0217,2024-04-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1325,2632,2,2
+SH0218,2024-04-27,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,350,721,2,2
+SH0219,2024-04-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8050,8132,1,1
+SH0220,2024-04-28,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2050,7710,4,4
+SH0221,2024-04-28,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3100,3960,1,1
+SH0222,2024-04-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,3850,41720,1,1
+SH0223,2024-04-29,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4250,8082,2,3
+SH0224,2024-04-29,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,3350,6707,2,2
+SH0225,2024-04-30,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1175,2215,2,2
+SH0226,2024-04-30,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,275,601,2,2
+SH0227,2024-04-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9450,10082,1,1
+SH0228,2024-04-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7800,6981,1,1
+SH0229,2024-05-02,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6250,5533,1,1
+SH0230,2024-05-03,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2450,4904,2,2
+SH0231,2024-05-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,8200,17253,3,3
+SH0232,2024-05-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4050,5422,1,1
+SH0233,2024-05-04,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,7450,9940,2,2
+SH0234,2024-05-04,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2250,4591,2,2
+SH0235,2024-05-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2850,3396,1,1
+SH0236,2024-05-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9150,8779,1,1
+SH0237,2024-05-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1325,5274,4,4
+SH0238,2024-05-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,725,2914,4,4
+SH0239,2024-05-06,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,700,1360,2,2
+SH0240,2024-05-06,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1300,2604,2,2
+SH0241,2024-05-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1125,3513,3,3
+SH0242,2024-05-07,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,3400,6472,2,2
+SH0243,2024-05-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,850,3181,4,4
+SH0244,2024-05-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,1325,3431,2,2
+SH0245,2024-05-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,400,1740,4,4
+SH0246,2024-05-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7650,5573,1,1
+SH0247,2024-05-09,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,525,1151,2,2
+SH0248,2024-05-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9600,9260,1,1
+SH0249,2024-05-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9950,9445,1,2
+SH0250,2024-05-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8300,9005,1,2
+SH0251,2024-05-10,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3650,10522,3,5
+SH0252,2024-05-11,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,2750,2910,1,1
+SH0253,2024-05-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,10000,8936,1,1
+SH0254,2024-05-12,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,3800,13283,4,5
+SH0255,2024-05-13,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7000,5601,1,1
+SH0256,2024-05-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1125,2239,2,2
+SH0257,2024-05-14,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3900,3873,1,1
+SH0258,2024-05-14,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,4600,11187,3,3
+SH0259,2024-05-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,2100,1988,1,1
+SH0260,2024-05-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,1950,2063,1,3
+SH0261,2024-05-15,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8300,7235,1,3
+SH0262,2024-05-16,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,200,453,2,2
+SH0263,2024-05-16,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,625,2642,4,4
+SH0264,2024-05-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7250,8161,1,1
+SH0265,2024-05-18,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,3850,6999,2,2
+SH0266,2024-05-19,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,350,753,2,2
+SH0267,2024-05-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,9700,7609,1,1
+SH0268,2024-05-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1850,3845,2,2
+SH0269,2024-05-20,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4400,4236,1,1
+SH0270,2024-05-20,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6600,5898,1,1
+SH0271,2024-05-20,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,8750,22972,4,4
+SH0272,2024-05-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8700,8753,1,1
+SH0273,2024-05-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9700,10528,1,1
+SH0274,2024-05-21,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1025,2371,2,2
+SH0275,2024-05-22,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,400,1267,3,3
+SH0276,2024-05-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3300,3982,1,1
+SH0277,2024-05-22,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9950,10141,1,2
+SH0278,2024-05-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1200,1780,1,1
+SH0279,2024-05-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,8850,18068,3,3
+SH0280,2024-05-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,475,1486,3,3
+SH0281,2024-05-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1250,2382,2,2
+SH0282,2024-05-25,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,2650,2968,1,1
+SH0283,2024-05-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9000,9249,1,1
+SH0284,2024-05-26,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,2950,6227,2,2
+SH0285,2024-05-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6300,6337,1,1
+SH0286,2024-05-28,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3800,9487,3,3
+SH0287,2024-05-29,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,4650,10137,2,2
+SH0288,2024-05-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4250,5125,1,1
+SH0289,2024-05-29,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,4250,8057,2,2
+SH0290,2024-05-29,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,8000,12676,2,2
+SH0291,2024-05-29,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2050,6248,3,3
+SH0292,2024-05-30,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6200,6621,1,1
+SH0293,2024-05-31,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3700,4236,1,1
+SH0294,2024-05-31,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8600,7655,1,1
+SH0295,2024-05-31,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,6850,11932,2,4
+SH0296,2024-06-01,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6600,5551,1,1
+SH0297,2024-06-02,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7900,7358,1,1
+SH0298,2024-06-02,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,300,1554,4,4
+SH0299,2024-06-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,9600,21057,3,3
+SH0300,2024-06-03,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,7850,11122,2,2
+SH0301,2024-06-03,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,3300,5915,2,2
+SH0302,2024-06-04,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,450,905,2,2
+SH0303,2024-06-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1800,6835,4,4
+SH0304,2024-06-04,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,10000,17951,2,2
+SH0305,2024-06-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,10000,22656,3,3
+SH0306,2024-06-06,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,425,882,2,2
+SH0307,2024-06-06,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3400,11045,4,4
+SH0308,2024-06-06,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4650,8595,2,2
+SH0309,2024-06-07,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1025,1918,2,2
+SH0310,2024-06-07,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3900,6909,2,2
+SH0311,2024-06-07,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8400,7552,1,1
+SH0312,2024-06-07,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1375,2968,2,3
+SH0313,2024-06-09,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,4450,9083,2,2
+SH0314,2024-06-09,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1200,3763,3,3
+SH0315,2024-06-10,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,925,2839,3,3
+SH0316,2024-06-10,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3400,8944,3,3
+SH0317,2024-06-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7250,7670,1,1
+SH0318,2024-06-10,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,9750,14507,2,2
+SH0319,2024-06-11,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7800,8386,1,1
+SH0320,2024-06-12,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2400,4267,2,2
+SH0321,2024-06-12,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,525,1097,2,2
+SH0322,2024-06-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7850,7534,1,1
+SH0323,2024-06-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6150,5026,1,2
+SH0324,2024-06-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6600,7007,1,1
+SH0325,2024-06-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6200,6681,1,1
+SH0326,2024-06-16,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7750,8072,1,1
+SH0327,2024-06-16,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,9700,14193,2,2
+SH0328,2024-06-17,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3100,5488,2,2
+SH0329,2024-06-17,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8350,8137,1,1
+SH0330,2024-06-17,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,725,1075,1,1
+SH0331,2024-06-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,1700,1780,1,1
+SH0332,2024-06-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,725,1580,2,2
+SH0333,2024-06-20,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1150,3455,3,3
+SH0334,2024-06-20,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,7250,22623,4,4
+SH0335,2024-06-21,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2750,7258,3,3
+SH0336,2024-06-21,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,8900,17555,3,3
+SH0337,2024-06-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,575,1417,2,2
+SH0338,2024-06-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4850,5788,1,1
+SH0339,2024-06-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6600,7126,1,1
+SH0340,2024-06-21,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,2100,2169,1,1
+SH0341,2024-06-21,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4100,11250,3,3
+SH0342,2024-06-21,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,3000,11695,4,4
+SH0343,2024-06-22,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2400,4850,2,2
+SH0344,2024-06-22,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,9050,12537,2,2
+SH0345,2024-06-23,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1850,5502,3,3
+SH0346,2024-06-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6700,6459,1,1
+SH0347,2024-06-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,1075,5345,4,5
+SH0348,2024-06-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,550,2212,4,4
+SH0349,2024-06-24,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,300,643,2,2
+SH0350,2024-06-24,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,2550,6039,2,2
+SH0351,2024-06-24,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,1650,2107,1,3
+SH0352,2024-06-24,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2750,3886,1,2
+SH0353,2024-06-25,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3700,4991,1,1
+SH0354,2024-06-25,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,3500,15105,4,4
+SH0355,2024-06-25,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,7200,25092,4,5
+SH0356,2024-06-26,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,800,2368,3,3
+SH0357,2024-06-26,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,925,3094,3,3
+SH0358,2024-06-28,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,4550,3975,1,1
+SH0359,2024-06-28,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6000,4709,1,1
+SH0360,2024-06-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,400,1499,4,4
+SH0361,2024-06-29,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3650,9949,3,3
+SH0362,2024-06-30,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7750,7612,1,1
+SH0363,2024-06-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8700,9279,1,1
+SH0364,2024-07-01,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3850,4018,1,1
+SH0365,2024-07-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,7100,15223,3,3
+SH0366,2024-07-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,500,1104,2,2
+SH0367,2024-07-02,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,2300,2598,1,1
+SH0368,2024-07-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,6250,13805,3,3
+SH0369,2024-07-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,625,1955,3,3
+SH0370,2024-07-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2900,4138,1,1
+SH0371,2024-07-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,8850,7157,1,1
+SH0372,2024-07-05,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3800,6713,2,2
+SH0373,2024-07-05,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3100,9105,3,3
+SH0374,2024-07-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3400,8650,3,3
+SH0375,2024-07-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,275,1098,3,3
+SH0376,2024-07-06,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,7850,27669,4,4
+SH0377,2024-07-07,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1025,3013,3,3
+SH0378,2024-07-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,450,1815,4,4
+SH0379,2024-07-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,5000,15834,4,4
+SH0380,2024-07-08,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3250,3935,1,2
+SH0381,2024-07-09,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,600,2322,4,4
+SH0382,2024-07-10,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2150,8055,4,4
+SH0383,2024-07-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8250,7518,1,1
+SH0384,2024-07-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,10000,8930,1,1
+SH0385,2024-07-14,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1475,3334,2,2
+SH0386,2024-07-15,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,9200,11835,2,2
+SH0387,2024-07-15,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,475,1807,3,3
+SH0388,2024-07-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,8300,6216,1,1
+SH0389,2024-07-16,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6800,6015,1,1
+SH0390,2024-07-16,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,625,2529,4,4
+SH0391,2024-07-16,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,9150,13747,2,2
+SH0392,2024-07-17,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1475,2850,2,2
+SH0393,2024-07-17,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,675,2540,4,4
+SH0394,2024-07-17,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,1500,3609,2,2
+SH0395,2024-07-17,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9650,8732,1,1
+SH0396,2024-07-17,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,8100,17915,3,3
+SH0397,2024-07-18,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,3950,7372,2,2
+SH0398,2024-07-18,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3100,8568,3,3
+SH0399,2024-07-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4750,5844,1,1
+SH0400,2024-07-18,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4250,7852,2,2
+SH0401,2024-07-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,6100,5824,1,1
+SH0402,2024-07-20,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3750,6382,2,2
+SH0403,2024-07-22,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,900,1695,2,2
+SH0404,2024-07-22,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1950,4034,2,2
+SH0405,2024-07-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6250,5236,1,1
+SH0406,2024-07-23,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,9050,18436,3,3
+SH0407,2024-07-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8450,7166,1,1
+SH0408,2024-07-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,550,2297,4,4
+SH0409,2024-07-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,550,1617,3,4
+SH0410,2024-07-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,325,863,2,2
+SH0411,2024-07-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6650,6580,1,1
+SH0412,2024-07-25,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,4000,9386,2,2
+SH0413,2024-07-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,8650,12096,2,2
+SH0414,2024-07-26,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1125,2487,2,2
+SH0415,2024-07-27,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,8650,11399,2,2
+SH0416,2024-07-27,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,4850,11385,2,2
+SH0417,2024-07-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,3200,3363,1,1
+SH0418,2024-07-27,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1450,6084,4,4
+SH0419,2024-07-28,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3650,6233,2,2
+SH0420,2024-07-28,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6500,6706,1,1
+SH0421,2024-07-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6400,7671,1,1
+SH0422,2024-07-28,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,9650,13417,2,2
+SH0423,2024-07-29,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1500,2848,2,2
+SH0424,2024-07-29,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1225,3725,3,3
+SH0425,2024-07-30,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,925,1718,2,2
+SH0426,2024-07-30,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1450,5626,4,4
+SH0427,2024-07-30,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6400,5264,1,1
+SH0428,2024-07-31,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,8200,14643,2,2
+SH0429,2024-07-31,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,3350,6429,2,2
+SH0430,2024-08-01,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,7750,19943,4,4
+SH0431,2024-08-01,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6900,6717,1,1
+SH0432,2024-08-02,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,1600,1736,1,1
+SH0433,2024-08-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,275,822,3,3
+SH0434,2024-08-03,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1050,2274,2,3
+SH0435,2024-08-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1450,5445,4,4
+SH0436,2024-08-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3600,4956,1,1
+SH0437,2024-08-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6150,5113,1,1
+SH0438,2024-08-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,5000,12445,3,3
+SH0439,2024-08-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,9850,21135,3,3
+SH0440,2024-08-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,7500,22203,4,4
+SH0441,2024-08-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2600,3671,1,1
+SH0442,2024-08-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8900,7356,1,1
+SH0443,2024-08-06,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,8250,6489,1,1
+SH0444,2024-08-06,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3900,4506,1,1
+SH0445,2024-08-06,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,8800,24351,4,4
+SH0446,2024-08-07,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9850,9992,1,1
+SH0447,2024-08-07,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4500,12433,3,3
+SH0448,2024-08-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,5000,9162,2,2
+SH0449,2024-08-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1075,2487,2,2
+SH0450,2024-08-09,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3900,9829,3,3
+SH0451,2024-08-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4550,5248,1,1
+SH0452,2024-08-09,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,550,2181,3,3
+SH0453,2024-08-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,1700,1928,1,1
+SH0454,2024-08-10,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,7000,10915,2,2
+SH0455,2024-08-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9450,7621,1,1
+SH0456,2024-08-10,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,975,2939,3,3
+SH0457,2024-08-11,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6050,7360,1,1
+SH0458,2024-08-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7950,5676,1,1
+SH0459,2024-08-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,8350,6663,1,1
+SH0460,2024-08-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,1800,4220,2,2
+SH0461,2024-08-15,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1175,2515,2,2
+SH0462,2024-08-15,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4950,8757,2,2
+SH0463,2024-08-15,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,750,2890,4,4
+SH0464,2024-08-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3350,4069,1,1
+SH0465,2024-08-16,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,575,1401,2,2
+SH0466,2024-08-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2750,8015,3,3
+SH0467,2024-08-17,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8500,8134,1,1
+SH0468,2024-08-17,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,8250,12993,2,2
+SH0469,2024-08-17,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,9350,21706,3,3
+SH0470,2024-08-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,4150,3720,1,1
+SH0471,2024-08-19,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6500,9840,2,2
+SH0472,2024-08-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6050,5405,1,1
+SH0473,2024-08-21,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2050,4238,2,2
+SH0474,2024-08-21,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1425,4393,3,3
+SH0475,2024-08-22,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,7200,12501,2,2
+SH0476,2024-08-22,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,825,3506,4,4
+SH0477,2024-08-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7800,7306,1,1
+SH0478,2024-08-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8100,7502,1,1
+SH0479,2024-08-23,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,4900,16377,3,3
+SH0480,2024-08-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,925,4648,4,4
+SH0481,2024-08-24,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4100,4035,1,1
+SH0482,2024-08-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2300,6864,3,3
+SH0483,2024-08-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,1475,3728,2,2
+SH0484,2024-08-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1100,2230,2,2
+SH0485,2024-08-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2950,5456,2,2
+SH0486,2024-08-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,675,2203,3,3
+SH0487,2024-08-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,2750,2825,1,1
+SH0488,2024-08-27,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,2950,10696,4,4
+SH0489,2024-08-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3400,4676,1,1
+SH0490,2024-08-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9800,9157,1,1
+SH0491,2024-08-29,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7750,6639,1,1
+SH0492,2024-08-30,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,9800,16838,2,3
+SH0493,2024-08-30,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1225,4053,3,3
+SH0494,2024-08-31,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1450,4247,3,3
+SH0495,2024-08-31,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,6000,13885,3,3
+SH0496,2024-09-01,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4300,7095,2,2
+SH0497,2024-09-01,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,1750,1774,1,1
+SH0498,2024-09-01,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9800,9564,1,1
+SH0499,2024-09-01,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9500,9661,1,1
+SH0500,2024-09-01,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,900,1846,2,2
+SH0501,2024-09-01,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2100,4280,2,2
+SH0502,2024-09-03,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4250,7046,2,2
+SH0503,2024-09-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,600,1945,3,3
+SH0504,2024-09-04,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1050,2102,2,2
+SH0505,2024-09-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7000,8133,1,2
+SH0506,2024-09-04,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,450,946,2,2
+SH0507,2024-09-04,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4200,7845,2,2
+SH0508,2024-09-05,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1150,3544,3,3
+SH0509,2024-09-06,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,2100,8595,4,4
+SH0510,2024-09-06,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,4950,17294,4,6
+SH0511,2024-09-07,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,425,1263,3,3
+SH0512,2024-09-07,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1350,5234,4,4
+SH0513,2024-09-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,8250,5843,1,1
+SH0514,2024-09-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7650,7764,1,3
+SH0515,2024-09-10,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1425,5251,4,4
+SH0516,2024-09-10,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,3550,8115,2,2
+SH0517,2024-09-10,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,7550,13510,2,2
+SH0518,2024-09-11,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,1225,3431,2,2
+SH0519,2024-09-11,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1900,5743,3,3
+SH0520,2024-09-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3050,3541,1,1
+SH0521,2024-09-13,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,8150,11944,2,2
+SH0522,2024-09-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9150,7031,1,1
+SH0523,2024-09-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,2850,2782,1,1
+SH0524,2024-09-16,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,7950,21752,4,4
+SH0525,2024-09-16,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,875,2140,2,2
+SH0526,2024-09-17,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4550,7595,2,2
+SH0527,2024-09-17,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6000,5574,1,1
+SH0528,2024-09-18,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,7050,12970,2,2
+SH0529,2024-09-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8500,7555,1,1
+SH0530,2024-09-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9400,10043,1,1
+SH0531,2024-09-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9800,10239,1,1
+SH0532,2024-09-18,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,4650,8840,2,2
+SH0533,2024-09-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8550,7221,1,1
+SH0534,2024-09-18,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,725,2337,3,3
+SH0535,2024-09-19,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1800,3523,2,2
+SH0536,2024-09-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,1850,1899,1,1
+SH0537,2024-09-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7450,5576,1,1
+SH0538,2024-09-19,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4800,8901,2,2
+SH0539,2024-09-19,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,200,795,4,4
+SH0540,2024-09-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2950,3796,1,1
+SH0541,2024-09-19,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7250,7789,1,1
+SH0542,2024-09-19,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1100,2550,2,2
+SH0543,2024-09-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1425,2584,2,2
+SH0544,2024-09-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3950,5095,1,1
+SH0545,2024-09-21,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,4000,3986,1,2
+SH0546,2024-09-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2750,3487,1,3
+SH0547,2024-09-22,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1175,3770,3,3
+SH0548,2024-09-23,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3000,5502,2,2
+SH0549,2024-09-23,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,7400,13419,2,2
+SH0550,2024-09-23,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3150,8804,3,3
+SH0551,2024-09-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,675,2790,4,4
+SH0552,2024-09-24,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,9150,6305,1,1
+SH0553,2024-09-24,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2850,5387,2,2
+SH0554,2024-09-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4250,7017,2,2
+SH0555,2024-09-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,5000,12590,3,3
+SH0556,2024-09-25,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3950,13154,4,4
+SH0557,2024-09-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7550,6988,1,1
+SH0558,2024-09-25,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4450,5406,1,1
+SH0559,2024-09-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,3250,6209,2,2
+SH0560,2024-09-27,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,775,1458,2,2
+SH0561,2024-09-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3600,4439,1,1
+SH0562,2024-09-27,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,7100,11135,2,2
+SH0563,2024-09-27,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,8050,12263,2,2
+SH0564,2024-09-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,3050,3431,1,1
+SH0565,2024-09-28,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2550,3118,1,1
+SH0566,2024-09-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6850,7524,1,1
+SH0567,2024-09-28,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,7150,11435,2,2
+SH0568,2024-09-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4550,14339,4,4
+SH0569,2024-09-29,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2000,2989,1,1
+SH0570,2024-09-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,3650,3430,1,1
+SH0571,2024-09-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6600,5324,1,1
+SH0572,2024-09-30,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1100,2344,2,2
+SH0573,2024-09-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,1500,1870,1,1
+SH0574,2024-10-01,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,850,1750,2,2
+SH0575,2024-10-01,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,7400,12597,2,2
+SH0576,2024-10-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,225,932,3,3
+SH0577,2024-10-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,6300,6013,1,1
+SH0578,2024-10-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9950,10698,1,1
+SH0579,2024-10-05,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6250,6310,1,1
+SH0580,2024-10-06,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4100,6625,2,2
+SH0581,2024-10-06,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3700,12998,4,4
+SH0582,2024-10-06,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,2800,6316,2,2
+SH0583,2024-10-06,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,1400,3683,2,2
+SH0584,2024-10-06,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7450,8204,1,1
+SH0585,2024-10-06,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,3300,3379,1,1
+SH0586,2024-10-07,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,800,1887,2,2
+SH0587,2024-10-07,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,275,1220,4,4
+SH0588,2024-10-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,700,1507,2,2
+SH0589,2024-10-08,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,3250,3232,1,1
+SH0590,2024-10-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,3050,2921,1,1
+SH0591,2024-10-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3550,4026,1,1
+SH0592,2024-10-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2550,3405,1,1
+SH0593,2024-10-10,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,975,1839,2,2
+SH0594,2024-10-11,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6050,6414,1,2
+SH0595,2024-10-11,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9000,8508,1,1
+SH0596,2024-10-11,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,1350,4976,3,3
+SH0597,2024-10-12,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,9050,24290,4,4
+SH0598,2024-10-12,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,2650,5637,2,2
+SH0599,2024-10-13,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,325,1034,3,3
+SH0600,2024-10-13,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1475,5591,4,4
+SH0601,2024-10-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,8150,12338,2,2
+SH0602,2024-10-14,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,8950,17271,2,2
+SH0603,2024-10-16,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1350,2940,2,2
+SH0604,2024-10-16,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,7550,21080,4,4
+SH0605,2024-10-16,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8200,8773,1,1
+SH0606,2024-10-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,675,2227,3,3
+SH0607,2024-10-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6200,5023,1,1
+SH0608,2024-10-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1000,3986,4,4
+SH0609,2024-10-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6300,6235,1,1
+SH0610,2024-10-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,6200,22736,4,4
+SH0611,2024-10-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,9700,20115,3,3
+SH0612,2024-10-20,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1750,3308,2,4
+SH0613,2024-10-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,8400,11578,2,2
+SH0614,2024-10-22,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3750,6344,2,2
+SH0615,2024-10-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9550,8732,1,3
+SH0616,2024-10-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2350,6729,3,3
+SH0617,2024-10-24,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,750,1889,2,2
+SH0618,2024-10-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2950,5304,2,2
+SH0619,2024-10-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9750,9715,1,1
+SH0620,2024-10-26,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,475,1576,3,3
+SH0621,2024-10-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7150,5275,1,1
+SH0622,2024-10-27,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,1400,5042,3,3
+SH0623,2024-10-28,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,3850,9082,2,2
+SH0624,2024-10-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6450,7233,1,1
+SH0625,2024-10-28,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4600,12550,3,3
+SH0626,2024-10-29,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,475,939,2,2
+SH0627,2024-10-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7850,7423,1,1
+SH0628,2024-10-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1200,4694,4,4
+SH0629,2024-10-30,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,325,1032,3,3
+SH0630,2024-10-31,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,325,629,2,2
+SH0631,2024-10-31,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,1225,3187,2,2
+SH0632,2024-10-31,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7200,6663,1,1
+SH0633,2024-10-31,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1500,4614,3,3
+SH0634,2024-10-31,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4700,12171,3,4
+SH0635,2024-11-01,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,8950,12304,2,2
+SH0636,2024-11-01,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7450,5391,1,1
+SH0637,2024-11-01,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9400,7651,1,1
+SH0638,2024-11-01,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3200,9441,3,3
+SH0639,2024-11-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,3450,6224,2,2
+SH0640,2024-11-03,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,475,970,2,2
+SH0641,2024-11-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9350,7576,1,1
+SH0642,2024-11-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,6300,14396,3,3
+SH0643,2024-11-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3450,11815,4,4
+SH0644,2024-11-03,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3950,4452,1,1
+SH0645,2024-11-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,300,1122,4,4
+SH0646,2024-11-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,375,1448,4,4
+SH0647,2024-11-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8700,9105,1,1
+SH0648,2024-11-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6350,5435,1,1
+SH0649,2024-11-05,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,900,1767,2,2
+SH0650,2024-11-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8750,9141,1,3
+SH0651,2024-11-06,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3550,4347,1,1
+SH0652,2024-11-06,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3100,4236,1,1
+SH0653,2024-11-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,1050,4020,3,3
+SH0654,2024-11-08,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7400,7986,1,1
+SH0655,2024-11-08,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,625,1281,2,2
+SH0656,2024-11-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,7250,5996,1,1
+SH0657,2024-11-09,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1475,3151,2,2
+SH0658,2024-11-10,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,775,4024,4,4
+SH0659,2024-11-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,2100,25100,1,1
+SH0660,2024-11-10,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3500,9849,3,3
+SH0661,2024-11-11,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,3050,2885,1,1
+SH0662,2024-11-11,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,3950,7375,2,2
+SH0663,2024-11-12,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2550,6936,3,4
+SH0664,2024-11-12,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1075,3395,3,3
+SH0665,2024-11-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,6550,6488,1,1
+SH0666,2024-11-14,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,8350,17656,3,4
+SH0667,2024-11-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,9800,21213,3,3
+SH0668,2024-11-17,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1900,5483,3,3
+SH0669,2024-11-17,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,3600,13772,4,4
+SH0670,2024-11-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,8700,21981,4,5
+SH0671,2024-11-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1350,3867,3,3
+SH0672,2024-11-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6500,6767,1,1
+SH0673,2024-11-20,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4950,5452,1,1
+SH0674,2024-11-20,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,7800,22577,4,4
+SH0675,2024-11-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6000,7311,1,2
+SH0676,2024-11-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2250,4580,2,2
+SH0677,2024-11-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6650,7610,1,1
+SH0678,2024-11-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,2350,2393,1,1
+SH0679,2024-11-24,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2500,4966,2,2
+SH0680,2024-11-25,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,4950,9308,2,3
+SH0681,2024-11-26,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,3900,7415,2,2
+SH0682,2024-11-27,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,6050,10060,2,2
+SH0683,2024-11-27,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3050,10517,4,4
+SH0684,2024-11-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8750,8701,1,1
+SH0685,2024-11-28,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,8950,13160,2,2
+SH0686,2024-11-30,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1750,3670,2,2
+SH0687,2024-11-30,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8500,7776,1,1
+SH0688,2024-11-30,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9200,8217,1,1
+SH0689,2024-11-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3700,5105,1,1
+SH0690,2024-11-30,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1425,6007,4,4
+SH0691,2024-12-01,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1100,1628,1,1
+SH0692,2024-12-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,950,2920,3,3
+SH0693,2024-12-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,375,596,1,1
+SH0694,2024-12-04,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6300,9480,2,2
+SH0695,2024-12-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,325,1028,3,3
+SH0696,2024-12-05,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,650,2037,3,3
+SH0697,2024-12-05,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,600,1550,2,2
+SH0698,2024-12-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1000,1457,1,1
+SH0699,2024-12-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6050,7045,1,2
+SH0700,2024-12-05,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4450,12533,3,3
+SH0701,2024-12-06,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,9200,17111,2,2
+SH0702,2024-12-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,8500,12195,2,2
+SH0703,2024-12-08,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2850,3657,1,1
+SH0704,2024-12-08,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1750,2517,1,1
+SH0705,2024-12-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,4400,4339,1,1
+SH0706,2024-12-11,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6500,4864,1,1
+SH0707,2024-12-11,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,500,1529,3,3
+SH0708,2024-12-11,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2350,3431,1,1
+SH0709,2024-12-12,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4750,4460,1,1
+SH0710,2024-12-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,9750,7056,1,1
+SH0711,2024-12-14,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3650,9829,3,3
+SH0712,2024-12-14,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,6150,17347,4,4
+SH0713,2024-12-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3600,4958,1,1
+SH0714,2024-12-18,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,200,461,2,2
+SH0715,2024-12-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1225,5079,4,4
+SH0716,2024-12-19,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1750,3466,2,2
+SH0717,2024-12-19,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1900,7450,4,4
+SH0718,2024-12-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,7900,11302,2,2
+SH0719,2024-12-21,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,2000,2065,1,1
+SH0720,2024-12-21,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4650,8414,2,2
+SH0721,2024-12-21,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4850,5240,1,1
+SH0722,2024-12-21,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1450,3167,2,2
+SH0723,2024-12-22,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,9050,19528,3,3
+SH0724,2024-12-22,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,500,1076,2,2
+SH0725,2024-12-22,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3500,10290,3,3
+SH0726,2024-12-22,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,275,1172,4,4
+SH0727,2024-12-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3700,4342,1,1
+SH0728,2024-12-25,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4050,13557,4,4
+SH0729,2024-12-25,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3850,5174,1,2
+SH0730,2024-12-25,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,3500,7169,2,2
+SH0731,2024-12-25,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,6050,10316,2,2
+SH0732,2024-12-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4900,7584,2,2
+SH0733,2024-12-26,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,975,2045,2,2
+SH0734,2024-12-27,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4300,6953,2,2
+SH0735,2024-12-28,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4000,7015,2,2
+SH0736,2024-12-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,1600,1810,1,1
+SH0737,2024-12-28,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1400,5816,4,5
+SH0738,2024-12-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1950,2772,1,1
+SH0739,2024-12-30,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,6200,9865,2,2
+SH0740,2024-12-30,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,7800,12796,2,4
+SH0741,2024-12-31,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1650,5955,4,4
+SH0742,2024-12-31,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4650,5005,1,1
+SH0743,2024-12-31,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9050,8105,1,1
+SH0744,2025-01-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,575,1135,2,2
+SH0745,2025-01-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4600,4277,1,1
+SH0746,2025-01-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1850,2675,1,1
+SH0747,2025-01-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,550,2236,4,4
+SH0748,2025-01-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6100,6112,1,1
+SH0749,2025-01-04,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,925,1867,2,2
+SH0750,2025-01-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4300,12070,3,3
+SH0751,2025-01-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,4950,16067,4,5
+SH0752,2025-01-05,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1375,2878,2,2
+SH0753,2025-01-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,7950,6360,1,1
+SH0754,2025-01-05,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1025,2119,2,2
+SH0755,2025-01-06,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9250,9933,1,2
+SH0756,2025-01-07,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3350,8888,3,3
+SH0757,2025-01-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8700,9282,1,1
+SH0758,2025-01-10,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,975,2089,2,2
+SH0759,2025-01-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2300,3186,1,1
+SH0760,2025-01-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8000,7924,1,1
+SH0761,2025-01-10,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,9750,13504,2,2
+SH0762,2025-01-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,8150,6164,1,1
+SH0763,2025-01-11,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,975,3860,4,5
+SH0764,2025-01-11,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3150,11326,4,4
+SH0765,2025-01-11,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6950,5458,1,3
+SH0766,2025-01-11,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,225,952,4,4
+SH0767,2025-01-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,2800,2640,1,1
+SH0768,2025-01-12,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,1550,4326,2,2
+SH0769,2025-01-12,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2350,4499,2,3
+SH0770,2025-01-13,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4300,14467,4,6
+SH0771,2025-01-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4350,5471,1,1
+SH0772,2025-01-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6800,5674,1,1
+SH0773,2025-01-15,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,8050,11291,2,2
+SH0774,2025-01-15,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,6200,10126,2,2
+SH0775,2025-01-16,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1200,2441,2,2
+SH0776,2025-01-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,900,2929,3,3
+SH0777,2025-01-17,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,525,1032,2,2
+SH0778,2025-01-17,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,9450,14412,2,2
+SH0779,2025-01-17,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,9450,7066,1,1
+SH0780,2025-01-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,1700,1623,1,1
+SH0781,2025-01-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2950,4239,1,1
+SH0782,2025-01-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7000,6357,1,1
+SH0783,2025-01-20,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1050,1963,2,2
+SH0784,2025-01-20,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3450,9402,3,3
+SH0785,2025-01-21,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3550,9443,3,3
+SH0786,2025-01-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,6500,13061,2,2
+SH0787,2025-01-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9850,9774,1,1
+SH0788,2025-01-23,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,225,495,2,2
+SH0789,2025-01-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,10000,8195,1,2
+SH0790,2025-01-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4050,12852,4,4
+SH0791,2025-01-23,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,6800,10469,2,2
+SH0792,2025-01-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1550,4588,3,3
+SH0793,2025-01-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,8650,14836,2,2
+SH0794,2025-01-26,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,9000,18371,3,3
+SH0795,2025-01-26,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,900,2939,3,3
+SH0796,2025-01-27,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,625,2485,4,4
+SH0797,2025-01-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4000,5148,1,1
+SH0798,2025-01-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9900,9906,1,1
+SH0799,2025-01-31,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,300,652,2,2
+SH0800,2025-01-31,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,7600,15306,3,3
+SH0801,2025-01-31,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,7650,15350,3,3
+SH0802,2025-01-31,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9250,8634,1,1
+SH0803,2025-02-01,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4550,7992,2,2
+SH0804,2025-02-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,7350,10131,2,2
+SH0805,2025-02-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,350,1052,3,3
+SH0806,2025-02-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1500,4561,3,3
+SH0807,2025-02-02,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1750,6639,4,6
+SH0808,2025-02-03,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6300,9294,2,2
+SH0809,2025-02-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1425,5090,4,4
+SH0810,2025-02-03,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,3400,3487,1,1
+SH0811,2025-02-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,6900,15648,3,3
+SH0812,2025-02-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6900,5483,1,1
+SH0813,2025-02-04,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,7150,11604,2,2
+SH0814,2025-02-07,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,8050,22707,4,4
+SH0815,2025-02-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,375,1509,4,4
+SH0816,2025-02-08,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2950,5867,2,2
+SH0817,2025-02-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,4400,8354,2,2
+SH0818,2025-02-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8450,8072,1,1
+SH0819,2025-02-09,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2600,5110,2,2
+SH0820,2025-02-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,8700,6082,1,1
+SH0821,2025-02-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4400,4917,1,1
+SH0822,2025-02-10,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,5000,9428,2,2
+SH0823,2025-02-11,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,6250,9714,2,2
+SH0824,2025-02-11,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,3050,10602,3,3
+SH0825,2025-02-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3650,4233,1,1
+SH0826,2025-02-13,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4100,14055,4,4
+SH0827,2025-02-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,10000,16749,2,2
+SH0828,2025-02-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2000,2788,1,1
+SH0829,2025-02-13,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1500,3251,2,2
+SH0830,2025-02-14,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1500,2902,2,2
+SH0831,2025-02-14,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2250,6449,3,3
+SH0832,2025-02-14,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,3650,3966,1,1
+SH0833,2025-02-14,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1850,5511,3,3
+SH0834,2025-02-14,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1400,5508,4,4
+SH0835,2025-02-15,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2500,3407,1,1
+SH0836,2025-02-16,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4050,7252,2,2
+SH0837,2025-02-17,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,300,466,1,1
+SH0838,2025-02-17,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,450,1416,3,3
+SH0839,2025-02-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4900,5713,1,1
+SH0840,2025-02-18,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,850,3300,3,4
+SH0841,2025-02-18,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2250,6748,3,3
+SH0842,2025-02-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1350,3863,3,3
+SH0843,2025-02-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1250,2736,2,2
+SH0844,2025-02-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2400,4602,2,2
+SH0845,2025-02-20,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8150,8457,1,1
+SH0846,2025-02-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7650,7875,1,1
+SH0847,2025-02-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9400,8349,1,1
+SH0848,2025-02-22,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4300,7867,2,3
+SH0849,2025-02-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3200,4432,1,2
+SH0850,2025-02-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,550,1710,3,3
+SH0851,2025-02-24,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,650,1653,2,2
+SH0852,2025-02-24,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9450,8961,1,1
+SH0853,2025-02-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2550,4492,2,2
+SH0854,2025-02-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,4400,11158,3,4
+SH0855,2025-02-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,9900,19446,3,3
+SH0856,2025-02-25,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1800,2499,1,1
+SH0857,2025-02-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2050,3656,2,2
+SH0858,2025-02-26,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,6300,10686,2,2
+SH0859,2025-02-27,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,950,2686,3,3
+SH0860,2025-02-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,3100,3471,1,1
+SH0861,2025-03-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,3600,8371,2,2
+SH0862,2025-03-02,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2700,3724,1,1
+SH0863,2025-03-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8150,7384,1,1
+SH0864,2025-03-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,2350,2452,1,1
+SH0865,2025-03-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6900,6771,1,1
+SH0866,2025-03-04,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,375,1511,4,4
+SH0867,2025-03-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,500,2013,4,4
+SH0868,2025-03-07,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,275,365,1,1
+SH0869,2025-03-07,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6750,7668,1,1
+SH0870,2025-03-09,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,9850,13750,2,2
+SH0871,2025-03-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6550,5879,1,1
+SH0872,2025-03-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9350,10084,1,1
+SH0873,2025-03-11,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,8950,17827,3,3
+SH0874,2025-03-11,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3800,12780,4,4
+SH0875,2025-03-12,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2000,2940,1,1
+SH0876,2025-03-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,3450,3471,1,1
+SH0877,2025-03-13,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,1125,1169,1,1
+SH0878,2025-03-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,8650,6655,1,1
+SH0879,2025-03-13,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,525,1596,3,3
+SH0880,2025-03-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8900,9622,1,1
+SH0881,2025-03-14,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2800,3759,1,1
+SH0882,2025-03-14,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2600,5082,2,2
+SH0883,2025-03-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,8600,6393,1,1
+SH0884,2025-03-14,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7300,6482,1,3
+SH0885,2025-03-15,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,3150,9176,3,3
+SH0886,2025-03-16,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2000,3606,2,2
+SH0887,2025-03-16,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,975,2026,2,2
+SH0888,2025-03-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,800,2463,3,3
+SH0889,2025-03-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,4650,3865,1,1
+SH0890,2025-03-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4600,4356,1,2
+SH0891,2025-03-19,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,7900,21659,4,4
+SH0892,2025-03-19,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,7150,26701,4,4
+SH0893,2025-03-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,2350,2343,1,1
+SH0894,2025-03-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,3250,3397,1,1
+SH0895,2025-03-19,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,6000,6048,1,1
+SH0896,2025-03-20,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8000,8679,1,1
+SH0897,2025-03-20,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,775,3097,4,4
+SH0898,2025-03-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6100,8853,2,2
+SH0899,2025-03-21,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3950,4404,1,1
+SH0900,2025-03-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1175,2355,2,4
+SH0901,2025-03-22,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1425,2934,2,2
+SH0902,2025-03-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7350,8236,1,1
+SH0903,2025-03-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9650,10032,1,1
+SH0904,2025-03-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,9600,7255,1,1
+SH0905,2025-03-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,2150,8275,4,4
+SH0906,2025-03-24,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7150,5251,1,1
+SH0907,2025-03-24,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,825,1229,1,2
+SH0908,2025-03-24,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,350,1419,4,4
+SH0909,2025-03-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,9150,64820,1,1
+SH0910,2025-03-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4400,8004,2,2
+SH0911,2025-03-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,8700,6804,1,1
+SH0912,2025-03-26,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3400,11671,4,5
+SH0913,2025-03-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,2350,5617,2,2
+SH0914,2025-03-26,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1350,5473,4,5
+SH0915,2025-03-27,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,8150,10581,2,2
+SH0916,2025-03-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6450,4859,1,1
+SH0917,2025-03-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4050,4832,1,1
+SH0918,2025-03-28,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,8750,24084,4,4
+SH0919,2025-03-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2600,3336,1,3
+SH0920,2025-03-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,2250,9110,4,4
+SH0921,2025-03-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,3150,11850,4,4
+SH0922,2025-03-30,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,9550,14650,2,2
+SH0923,2025-03-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9650,10514,1,1
+SH0924,2025-03-31,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,7400,20116,4,4
+SH0925,2025-03-31,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,575,1398,2,2
+SH0926,2025-04-01,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2700,7097,3,3
+SH0927,2025-04-01,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,4850,12021,3,3
+SH0928,2025-04-01,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7000,6799,1,1
+SH0929,2025-04-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3800,9792,3,3
+SH0930,2025-04-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1150,4444,4,4
+SH0931,2025-04-03,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,2250,2849,1,1
+SH0932,2025-04-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2350,3334,1,1
+SH0933,2025-04-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2700,3889,1,1
+SH0934,2025-04-03,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,8600,6548,1,1
+SH0935,2025-04-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,9400,25983,4,4
+SH0936,2025-04-04,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,250,525,2,2
+SH0937,2025-04-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9650,10197,1,1
+SH0938,2025-04-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6500,5559,1,1
+SH0939,2025-04-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,6250,23755,4,5
+SH0940,2025-04-06,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,3600,8365,2,3
+SH0941,2025-04-07,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,500,957,2,2
+SH0942,2025-04-07,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3400,4248,1,1
+SH0943,2025-04-08,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,9500,13433,2,2
+SH0944,2025-04-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,9700,7276,1,1
+SH0945,2025-04-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9000,9510,1,1
+SH0946,2025-04-10,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,475,1985,4,4
+SH0947,2025-04-11,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,9050,13510,2,2
+SH0948,2025-04-11,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,4400,9863,2,2
+SH0949,2025-04-11,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6750,7256,1,1
+SH0950,2025-04-11,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7450,7835,1,1
+SH0951,2025-04-11,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,825,1910,2,2
+SH0952,2025-04-12,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,8100,10645,2,2
+SH0953,2025-04-12,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,8550,12913,2,2
+SH0954,2025-04-14,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,2650,10065,4,4
+SH0955,2025-04-15,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,8250,12580,2,2
+SH0956,2025-04-15,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,725,1572,2,2
+SH0957,2025-04-15,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7900,6548,1,1
+SH0958,2025-04-15,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8100,6764,1,1
+SH0959,2025-04-16,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2250,4126,2,2
+SH0960,2025-04-16,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2450,4655,2,2
+SH0961,2025-04-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,6650,16061,3,3
+SH0962,2025-04-16,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,8900,25547,4,4
+SH0963,2025-04-17,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,8950,6142,1,1
+SH0964,2025-04-17,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,7400,6313,1,1
+SH0965,2025-04-17,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,550,2062,4,4
+SH0966,2025-04-17,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3050,4026,1,1
+SH0967,2025-04-19,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8100,8173,1,1
+SH0968,2025-04-20,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,200,204,1,1
+SH0969,2025-04-20,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,9150,19645,3,3
+SH0970,2025-04-21,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,1500,7604,4,4
+SH0971,2025-04-21,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,700,3055,4,4
+SH0972,2025-04-22,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6950,10147,2,2
+SH0973,2025-04-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7850,7708,1,1
+SH0974,2025-04-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6550,6692,1,1
+SH0975,2025-04-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7900,7722,1,1
+SH0976,2025-04-23,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1225,2485,2,2
+SH0977,2025-04-24,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9450,8706,1,1
+SH0978,2025-04-24,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,9100,14373,2,2
+SH0979,2025-04-25,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4100,7333,2,2
+SH0980,2025-04-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,9550,7695,1,1
+SH0981,2025-04-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9100,7388,1,1
+SH0982,2025-04-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,3500,8066,2,2
+SH0983,2025-04-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9900,10803,1,1
+SH0984,2025-04-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1475,3141,2,2
+SH0985,2025-04-27,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,250,790,3,3
+SH0986,2025-04-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3900,4557,1,1
+SH0987,2025-04-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8550,8375,1,1
+SH0988,2025-04-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9500,8566,1,1
+SH0989,2025-04-29,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,1350,3491,2,2
+SH0990,2025-04-29,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,8300,12349,2,2
+SH0991,2025-04-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6150,5193,1,1
+SH0992,2025-04-30,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2850,5548,2,2
+SH0993,2025-04-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,7700,6197,1,1
+SH0994,2025-04-30,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,1800,8210,4,4
+SH0995,2025-04-30,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4100,11033,3,3
+SH0996,2025-04-30,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1500,6266,4,4
+SH0997,2025-05-01,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,6550,11742,2,2
+SH0998,2025-05-02,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,6300,17728,4,4
+SH0999,2025-05-02,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,5000,5280,1,1
+SH1000,2025-05-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,525,1140,2,2
+SH1001,2025-05-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1225,2508,2,2
+SH1002,2025-05-03,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7650,5727,1,1
+SH1003,2025-05-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6200,6979,1,1
+SH1004,2025-05-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9500,7890,1,1
+SH1005,2025-05-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,4350,10838,3,3
+SH1006,2025-05-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3400,4231,1,1
+SH1007,2025-05-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,7900,20988,4,4
+SH1008,2025-05-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,1175,1392,1,1
+SH1009,2025-05-06,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,3750,6799,2,2
+SH1010,2025-05-06,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6200,6642,1,1
+SH1011,2025-05-06,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,7850,23426,4,4
+SH1012,2025-05-08,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,825,1607,2,3
+SH1013,2025-05-09,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,400,959,2,2
+SH1014,2025-05-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,4300,3811,1,1
+SH1015,2025-05-10,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,4550,11942,3,3
+SH1016,2025-05-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,575,751,1,1
+SH1017,2025-05-10,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9700,8794,1,1
+SH1018,2025-05-10,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,750,1654,2,2
+SH1019,2025-05-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,2050,2394,1,1
+SH1020,2025-05-12,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,3750,3366,1,1
+SH1021,2025-05-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3800,3829,1,1
+SH1022,2025-05-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6350,5652,1,2
+SH1023,2025-05-13,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,4850,9403,2,2
+SH1024,2025-05-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7150,6848,1,1
+SH1025,2025-05-15,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8050,7305,1,2
+SH1026,2025-05-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1850,5404,3,3
+SH1027,2025-05-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9350,8849,1,1
+SH1028,2025-05-16,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2250,3098,1,2
+SH1029,2025-05-17,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1300,4835,4,4
+SH1030,2025-05-17,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3150,4388,1,1
+SH1031,2025-05-17,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,6150,22947,4,4
+SH1032,2025-05-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3100,3089,1,1
+SH1033,2025-05-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,8650,21789,4,4
+SH1034,2025-05-18,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,7150,5596,1,1
+SH1035,2025-05-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3400,9174,3,3
+SH1036,2025-05-19,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,9650,19291,2,2
+SH1037,2025-05-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,8800,7069,1,1
+SH1038,2025-05-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2800,5547,2,2
+SH1039,2025-05-20,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,6950,14718,3,3
+SH1040,2025-05-20,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6150,6573,1,1
+SH1041,2025-05-20,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8550,7616,1,1
+SH1042,2025-05-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6600,7174,1,1
+SH1043,2025-05-22,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1800,6706,4,4
+SH1044,2025-05-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7850,7352,1,2
+SH1045,2025-05-23,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,2800,5670,2,2
+SH1046,2025-05-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,4250,4607,1,1
+SH1047,2025-05-24,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3550,4520,1,1
+SH1048,2025-05-24,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6700,7803,1,1
+SH1049,2025-05-24,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,775,3312,4,4
+SH1050,2025-05-25,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6950,6160,1,1
+SH1051,2025-05-25,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,725,2888,4,4
+SH1052,2025-05-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9500,8860,1,1
+SH1053,2025-05-25,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,2900,3309,1,3
+SH1054,2025-05-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4850,4430,1,1
+SH1055,2025-05-26,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8250,8248,1,1
+SH1056,2025-05-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8800,7656,1,1
+SH1057,2025-05-27,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,6550,20396,4,4
+SH1058,2025-05-28,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,7600,10393,2,2
+SH1059,2025-05-29,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,3200,6402,2,2
+SH1060,2025-05-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,825,3222,4,4
+SH1061,2025-05-30,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,8200,17172,3,3
+SH1062,2025-05-31,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1200,3966,3,4
+SH1063,2025-06-01,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4950,5759,1,1
+SH1064,2025-06-01,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9450,8503,1,1
+SH1065,2025-06-02,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1275,4904,4,4
+SH1066,2025-06-03,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,225,480,2,2
+SH1067,2025-06-05,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1025,2016,2,2
+SH1068,2025-06-05,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4500,5364,1,1
+SH1069,2025-06-06,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,1800,2300,1,1
+SH1070,2025-06-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,1475,5749,3,3
+SH1071,2025-06-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,250,818,3,3
+SH1072,2025-06-07,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,8750,6549,1,1
+SH1073,2025-06-07,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,400,903,2,2
+SH1074,2025-06-07,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,700,2074,3,3
+SH1075,2025-06-07,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2950,10765,4,4
+SH1076,2025-06-07,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4800,14723,4,4
+SH1077,2025-06-08,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3750,4247,1,1
+SH1078,2025-06-08,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8600,8748,1,1
+SH1079,2025-06-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,8600,7005,1,1
+SH1080,2025-06-10,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4200,7645,2,2
+SH1081,2025-06-10,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3900,12686,4,4
+SH1082,2025-06-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9350,9492,1,1
+SH1083,2025-06-11,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3900,12980,4,4
+SH1084,2025-06-11,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,2300,5621,2,2
+SH1085,2025-06-11,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,1025,1362,1,1
+SH1086,2025-06-11,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1050,4123,4,4
+SH1087,2025-06-13,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6200,7095,1,1
+SH1088,2025-06-14,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6500,9726,2,2
+SH1089,2025-06-14,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,1650,2026,1,1
+SH1090,2025-06-15,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1175,3652,3,3
+SH1091,2025-06-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,200,833,3,3
+SH1092,2025-06-17,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3300,8800,3,4
+SH1093,2025-06-17,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,675,2579,4,4
+SH1094,2025-06-17,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7150,8060,1,1
+SH1095,2025-06-18,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,3950,7145,2,2
+SH1096,2025-06-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,7750,26941,4,4
+SH1097,2025-06-19,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,275,588,2,2
+SH1098,2025-06-20,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,4300,4781,1,2
+SH1099,2025-06-21,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,7150,14862,3,3
+SH1100,2025-06-22,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6600,7549,1,1
+SH1101,2025-06-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8550,7585,1,1
+SH1102,2025-06-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3900,5305,1,1
+SH1103,2025-06-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7450,8112,1,1
+SH1104,2025-06-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,625,1895,3,3
+SH1105,2025-06-25,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,575,2323,4,4
+SH1106,2025-06-25,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,4950,11359,2,2
+SH1107,2025-06-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6750,5217,1,1
+SH1108,2025-06-27,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,8850,31829,4,4
+SH1109,2025-06-28,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,8450,10946,2,2
+SH1110,2025-06-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4900,5513,1,1
+SH1111,2025-06-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,3000,11647,4,4
+SH1112,2025-06-30,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6100,4983,1,3
+SH1113,2025-06-30,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7300,5562,1,1
+SH1114,2025-06-30,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,7750,11246,2,2
+SH1115,2025-06-30,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,9350,16590,2,2
+SH1116,2025-06-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7600,8449,1,1
+SH1117,2025-06-30,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1550,4651,3,3
+SH1118,2025-07-01,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6000,5256,1,1
+SH1119,2025-07-01,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1550,6006,4,4
+SH1120,2025-07-02,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,6550,10987,2,2
+SH1121,2025-07-02,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,8900,17095,2,2
+SH1122,2025-07-02,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2400,3289,1,1
+SH1123,2025-07-02,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7900,8618,1,2
+SH1124,2025-07-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,450,994,2,2
+SH1125,2025-07-03,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,10000,14449,2,2
+SH1126,2025-07-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,9900,28517,4,4
+SH1127,2025-07-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9900,10456,1,1
+SH1128,2025-07-04,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,2750,2884,1,1
+SH1129,2025-07-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8050,8228,1,1
+SH1130,2025-07-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,1500,7028,4,5
+SH1131,2025-07-05,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1250,4008,3,3
+SH1132,2025-07-06,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2600,3726,1,1
+SH1133,2025-07-06,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4850,6321,1,2
+SH1134,2025-07-06,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,250,561,2,2
+SH1135,2025-07-07,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3550,9236,3,3
+SH1136,2025-07-08,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3800,9514,3,3
+SH1137,2025-07-08,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,925,1030,1,1
+SH1138,2025-07-08,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,2050,2102,1,1
+SH1139,2025-07-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,650,1527,2,2
+SH1140,2025-07-08,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1150,4706,4,4
+SH1141,2025-07-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,8600,6611,1,1
+SH1142,2025-07-10,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,6700,10399,2,2
+SH1143,2025-07-11,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3650,4500,1,3
+SH1144,2025-07-11,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,8500,12130,2,3
+SH1145,2025-07-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3150,5686,2,2
+SH1146,2025-07-13,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,7550,11227,2,2
+SH1147,2025-07-13,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,4650,4453,1,1
+SH1148,2025-07-13,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2850,8035,3,3
+SH1149,2025-07-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3250,3984,1,2
+SH1150,2025-07-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9400,8598,1,1
+SH1151,2025-07-15,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1750,3367,2,2
+SH1152,2025-07-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,1950,1894,1,1
+SH1153,2025-07-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,200,267,1,1
+SH1154,2025-07-15,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,7450,5792,1,1
+SH1155,2025-07-16,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2900,5392,2,2
+SH1156,2025-07-16,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4700,4345,1,1
+SH1157,2025-07-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3450,4202,1,1
+SH1158,2025-07-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3900,4402,1,1
+SH1159,2025-07-16,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,6200,6123,1,1
+SH1160,2025-07-17,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,6950,13928,2,2
+SH1161,2025-07-17,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,3500,12523,4,4
+SH1162,2025-07-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3100,3288,1,1
+SH1163,2025-07-18,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2150,5758,3,3
+SH1164,2025-07-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1850,2757,1,3
+SH1165,2025-07-18,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,9950,15148,2,2
+SH1166,2025-07-19,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,700,2806,4,4
+SH1167,2025-07-19,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7350,7797,1,1
+SH1168,2025-07-21,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,7300,10447,2,2
+SH1169,2025-07-21,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2550,5179,2,2
+SH1170,2025-07-21,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,6800,10301,2,2
+SH1171,2025-07-22,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6250,6896,1,1
+SH1172,2025-07-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,225,907,4,4
+SH1173,2025-07-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1450,5544,4,4
+SH1174,2025-07-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,1500,1890,1,1
+SH1175,2025-07-23,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4750,12214,3,3
+SH1176,2025-07-25,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1475,5510,4,4
+SH1177,2025-07-25,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7000,7454,1,1
+SH1178,2025-07-25,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,1175,2755,2,2
+SH1179,2025-07-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,250,788,3,3
+SH1180,2025-07-25,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1450,4506,3,3
+SH1181,2025-07-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1650,3035,2,2
+SH1182,2025-07-26,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,2400,4899,2,2
+SH1183,2025-07-26,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,6800,11730,2,2
+SH1184,2025-07-27,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,225,324,1,1
+SH1185,2025-07-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6900,7403,1,3
+SH1186,2025-07-27,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,325,1431,4,4
+SH1187,2025-07-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,6950,8023,1,2
+SH1188,2025-07-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9250,9693,1,1
+SH1189,2025-07-28,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,400,1656,3,3
+SH1190,2025-07-29,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,1325,1519,1,1
+SH1191,2025-07-29,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7700,6903,1,1
+SH1192,2025-07-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1375,5603,4,5
+SH1193,2025-07-30,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,7500,16977,3,3
+SH1194,2025-07-31,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7700,6997,1,1
+SH1195,2025-07-31,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,6400,6327,1,1
+SH1196,2025-08-01,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,4300,6972,2,2
+SH1197,2025-08-01,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,9500,14297,2,2
+SH1198,2025-08-01,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1800,6821,4,4
+SH1199,2025-08-02,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4100,7141,2,2
+SH1200,2025-08-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1100,3383,3,3
+SH1201,2025-08-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,6600,10250,2,2
+SH1202,2025-08-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1425,4090,3,3
+SH1203,2025-08-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1175,4515,4,4
+SH1204,2025-08-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2100,7452,4,6
+SH1205,2025-08-03,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8400,8723,1,1
+SH1206,2025-08-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,775,2215,3,3
+SH1207,2025-08-05,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6200,8873,2,2
+SH1208,2025-08-05,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,575,1809,3,3
+SH1209,2025-08-05,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1425,4106,3,3
+SH1210,2025-08-05,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8550,8369,1,1
+SH1211,2025-08-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,875,1827,2,2
+SH1212,2025-08-08,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7700,7156,1,1
+SH1213,2025-08-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,6100,4722,1,1
+SH1214,2025-08-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9250,7110,1,1
+SH1215,2025-08-09,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,700,2570,4,4
+SH1216,2025-08-09,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,6700,19350,4,4
+SH1217,2025-08-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,9750,7748,1,1
+SH1218,2025-08-11,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1050,3951,4,4
+SH1219,2025-08-11,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6700,5896,1,1
+SH1220,2025-08-12,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1150,4516,4,4
+SH1221,2025-08-12,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,9150,25377,4,4
+SH1222,2025-08-12,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,825,2685,3,3
+SH1223,2025-08-13,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,575,2248,4,6
+SH1224,2025-08-13,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,8300,17591,3,3
+SH1225,2025-08-14,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,6200,9693,2,2
+SH1226,2025-08-14,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,825,2559,3,3
+SH1227,2025-08-14,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6200,6675,1,1
+SH1228,2025-08-15,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,7300,15085,2,2
+SH1229,2025-08-15,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4850,8538,2,2
+SH1230,2025-08-16,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,4150,4907,1,1
+SH1231,2025-08-16,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier B,425,1649,3,3
+SH1232,2025-08-17,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1275,3634,3,3
+SH1233,2025-08-17,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1200,3739,3,3
+SH1234,2025-08-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,575,2318,4,5
+SH1235,2025-08-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,750,2200,3,3
+SH1236,2025-08-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,375,850,2,2
+SH1237,2025-08-20,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,10000,16707,2,2
+SH1238,2025-08-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7900,7683,1,3
+SH1239,2025-08-22,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,7550,6014,1,1
+SH1240,2025-08-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,10000,7391,1,1
+SH1241,2025-08-23,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4650,8408,2,2
+SH1242,2025-08-24,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,4350,11350,3,3
+SH1243,2025-08-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,8150,5995,1,1
+SH1244,2025-08-26,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1100,2388,2,2
+SH1245,2025-08-28,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6950,9548,2,2
+SH1246,2025-08-28,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,7100,9649,2,3
+SH1247,2025-08-28,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7750,8279,1,1
+SH1248,2025-08-30,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,4900,13249,3,3
+SH1249,2025-08-31,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,6550,5796,1,1
+SH1250,2025-08-31,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,8900,19151,3,3
+SH1251,2025-08-31,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8750,8234,1,3
+SH1252,2025-08-31,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,3800,4965,1,1
+SH1253,2025-09-02,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,6450,9610,2,3
+SH1254,2025-09-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,3550,9578,3,3
+SH1255,2025-09-02,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,6950,15217,3,4
+SH1256,2025-09-03,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,1000,2215,2,2
+SH1257,2025-09-03,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,4850,15743,4,4
+SH1258,2025-09-03,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,1375,1761,1,1
+SH1259,2025-09-03,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2250,6900,3,3
+SH1260,2025-09-04,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8600,9245,1,1
+SH1261,2025-09-04,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1300,4093,3,3
+SH1262,2025-09-05,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,9400,6816,1,1
+SH1263,2025-09-06,Kochi DC,Malabar,Kochi DC to Malabar,Carrier B,1175,2794,2,2
+SH1264,2025-09-07,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3750,3738,1,1
+SH1265,2025-09-07,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,9750,19145,3,4
+SH1266,2025-09-08,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,725,1487,2,2
+SH1267,2025-09-08,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,4900,4894,1,1
+SH1268,2025-09-09,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3600,3758,1,1
+SH1269,2025-09-10,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,925,1722,2,2
+SH1270,2025-09-10,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,850,1750,2,2
+SH1271,2025-09-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,4950,4757,1,1
+SH1272,2025-09-11,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier B,4900,11332,2,2
+SH1273,2025-09-11,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier B,925,4742,4,4
+SH1274,2025-09-11,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,425,936,2,2
+SH1275,2025-09-12,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,9550,7875,1,1
+SH1276,2025-09-12,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3500,12375,4,4
+SH1277,2025-09-13,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,7700,22624,4,5
+SH1278,2025-09-14,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,925,1869,2,2
+SH1279,2025-09-14,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier C,7350,11938,2,2
+SH1280,2025-09-15,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,1125,2065,2,2
+SH1281,2025-09-15,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2200,7776,4,4
+SH1282,2025-09-15,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,4600,4795,1,1
+SH1283,2025-09-16,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,2400,4552,2,3
+SH1284,2025-09-16,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9400,9989,1,1
+SH1285,2025-09-16,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,1275,2586,2,2
+SH1286,2025-09-17,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,7950,5498,1,1
+SH1287,2025-09-17,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,200,629,3,3
+SH1288,2025-09-18,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,3950,7171,2,2
+SH1289,2025-09-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1000,3942,4,4
+SH1290,2025-09-18,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,2000,6932,4,4
+SH1291,2025-09-18,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8250,8426,1,1
+SH1292,2025-09-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,1700,4986,3,3
+SH1293,2025-09-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,2200,6010,3,3
+SH1294,2025-09-19,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3750,4405,1,1
+SH1295,2025-09-19,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,1500,2308,1,1
+SH1296,2025-09-19,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,4300,7573,2,2
+SH1297,2025-09-19,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,2400,6967,3,3
+SH1298,2025-09-20,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,825,1684,2,2
+SH1299,2025-09-20,Kochi DC,Malabar,Kochi DC to Malabar,Carrier C,2100,4048,2,2
+SH1300,2025-09-21,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7700,8430,1,1
+SH1301,2025-09-22,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,10000,15440,2,2
+SH1302,2025-09-22,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier A,4450,10770,3,3
+SH1303,2025-09-22,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,900,3603,4,4
+SH1304,2025-09-22,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,1175,4569,4,4
+SH1305,2025-09-22,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,9650,9943,1,1
+SH1306,2025-09-22,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7350,6781,1,1
+SH1307,2025-09-23,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,8350,6121,1,1
+SH1308,2025-09-23,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,3150,3297,1,2
+SH1309,2025-09-23,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1800,6970,4,4
+SH1310,2025-09-24,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,6100,6434,1,1
+SH1311,2025-09-25,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,875,945,1,1
+SH1312,2025-09-26,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,1075,3355,3,3
+SH1313,2025-09-27,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,7950,6715,1,1
+SH1314,2025-09-28,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,7500,6917,1,1
+SH1315,2025-09-29,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,7700,12090,2,2
+SH1316,2025-09-29,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,8350,22126,4,4
+SH1317,2025-09-30,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,2150,3008,1,1
+SH1318,2025-10-01,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier C,1150,4621,4,4
+SH1319,2025-10-02,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,2450,2407,1,2
+SH1320,2025-10-02,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,1175,1354,1,1
+SH1321,2025-10-02,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,475,648,1,2
+SH1322,2025-10-02,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8750,7934,1,1
+SH1323,2025-10-02,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,9750,8804,1,1
+SH1324,2025-10-02,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,4250,5599,1,1
+SH1325,2025-10-02,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,7550,7957,1,1
+SH1326,2025-10-05,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,3050,10303,4,6
+SH1327,2025-10-05,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8350,8544,1,2
+SH1328,2025-10-05,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier C,6550,5782,1,2
+SH1329,2025-10-06,Coimbatore DC,Bengaluru,Coimbatore DC to Bengaluru,Carrier C,7900,17661,3,3
+SH1330,2025-10-07,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier A,4600,3982,1,1
+SH1331,2025-10-07,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier A,10000,8134,1,1
+SH1332,2025-10-07,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,8400,7795,1,1
+SH1333,2025-10-08,Kochi DC,Malabar,Kochi DC to Malabar,Carrier A,3550,6388,2,2
+SH1334,2025-10-08,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4450,8068,2,2
+SH1335,2025-10-09,Kochi DC,Central Kerala,Kochi DC to Central Kerala,Carrier B,3900,4423,1,1
+SH1336,2025-10-10,Coimbatore DC,Chennai,Coimbatore DC to Chennai,Carrier A,675,2564,4,4
+SH1337,2025-10-10,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier C,8250,7001,1,1
+SH1338,2025-10-12,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,225,481,2,2
+SH1339,2025-10-12,Kochi DC,South Kerala,Kochi DC to South Kerala,Carrier A,4900,8744,2,2
+SH1340,2025-10-12,Coimbatore DC,Coimbatore-Palakkad,Coimbatore DC to Coimbatore-Palakkad,Carrier B,8250,8334,1,1
